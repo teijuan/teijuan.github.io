@@ -1,0 +1,49 @@
+title: TEFRA Studios
+author: tei-juan
+email: tei-juan@hotmail.com
+description: > # this means to ignore newlines until "twitter_username:"
+  Um projeto de estúdio brasileiro independente fundado em junho de 2021 por Tei-Juan.
+
+### social links ###
+# twitter_username: tefra.studios
+github_username:  teijuan
+rss: rss
+# dribbble_username: jekyll
+facebook_username: tefra.studios
+# flickr_username: jekyll
+instagram_username: tefra.studios
+# linkedin_username: jekyll
+# pinterest_username: jekyll
+youtube_username: tefrastudios
+# googleplus_username: +jekyll
+
+#### Mastodon instances ###
+# mastodon:
+# - username: jekyll
+#   instance: example.com
+# - username: jekyll2
+#   instance: example.com
+
+
+show_excerpts: true # set to true to show excerpts on the homepage
+
+# Minima date format
+# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
+minima:
+  date_format: "%b %-d, %Y"
+
+### Links no cabeçalho ###
+# Colocar na ordem em que devem
+# aparecer e com final .md
+header_pages:
+ - about.md
+ - contact.md
+# - tos.md
+
+
+# Build settings
+theme: minima
+
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag

@@ -5,4 +5,5 @@ _site
 .stfolder
 vendor
 _nosync
+_nopush
 .stfolder
