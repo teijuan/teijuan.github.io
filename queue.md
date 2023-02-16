@@ -6,7 +6,7 @@ permalink: /queue/
 
 |  |      To Begin       | Status: |
 | --------: | ------------- | :------- |
-| DocSalineSerpent |  Flat color | Awaiting payment |
+| DocSalineSerpent |  Flat color | ○○○○ |
 |  Pacificside | Full color | ○○○○ |
 |  Katebytheocean | Flat color | ○○○○ |
 | |        **Working**              | |
@@ -35,5 +35,3 @@ permalink: /queue/
 Written in **M↓**
 
 -->
-
-
