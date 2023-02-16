@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: 2023 Commissions Open!
 categories: page
 permalink: /commissions/
@@ -64,5 +64,3 @@ Values may vary for:
 - Patreon
 
 ▍ Doubts? [Contact me!](contact.md)
-
-<sub>Last modificated: 2023/01/26 at 07:01 (GMT -3)</sub>
