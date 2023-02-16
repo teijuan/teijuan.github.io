@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contato
-permalink: /contato/
+permalink: /contact/
 ---
 
 # Entre em contato conosco
