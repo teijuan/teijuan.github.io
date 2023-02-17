@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 2023 Commissions Open!
+title: "2023 Commissions' Peices and TOS"
 categories: page
 permalink: /commissions/
 ---
@@ -27,14 +27,14 @@ Table of Contents
 | FLAT SHADED    | $34  | $26  | $14 |
 | FULL SHADED    | $45  | $35  | $20 |
 
-\- Extra characters costs half.  
+\- Extra characters costs half.
 
-Values may vary for:  
+Values may vary for:
 - Deadline comms.
 - Alt. versions'
 - Background
 
-## Terms of Service					
+## Terms of Service
 - Payment is done in advance
 - Image refs must be clear, regardless the style
 - Pending works can be partially refunded according to its progress
@@ -47,7 +47,7 @@ Values may vary for:
 - Soft vore <small>(that looks like a pregnancy)</small>
 - (Experimental) NSFW nudity
 
-### What I don't do?  
+### What I don't do?
 - Gore
 - Detailed paws / feet
 - Minors involved in kink themes
