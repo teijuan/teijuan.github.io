@@ -1,20 +1,20 @@
 ---
 layout: page
-title: 2023 Commissions Waiting list
+title: "2023 Commissions Waiting list"
 permalink: /queue/
 ---
 
-|      To Begin       |   |  Status: |
-| --------: | ------------- | :------- |
-| DocSalineSerpent |  Flat color | ○○○○ |
-|  Pacificside | Full color | ○○○○ |
-|  Katebytheocean | Flat color | ○○○○ |
-|      **Working**       |  ————     | ———————— |
-|  Darknido | Flat color |●●○○ |
-|        **Done**         |  ————     | ———————— |
+| To Begin |  | Status: |
+| ---:| --- |:--- |
+| DocSalineSerpent | Flat color | ○○○○ |
+| Pacificside | Full color | ○○○○ |
+| Katebytheocean | Flat color | ○○○○ |
+| **Working** | ———— | ———————— |
+| Darknido | Flat color | ●●○○ |
+| **Done** | ———— | ———————— |
 | z3lda123 | 2023-01-24 | [CM: Bunty and Manjula](https://www.deviantart.com/tei-juan/art/CM-Bunty-and-Manjula-948206754) |
 | Wildegems | 2023-01-19 | [CM: Gems' Joy](https://www.furaffinity.net/view/50681644/) |
-| Vazco_DS | 2023-01-15 |  [CM: Kandi and Baker](https://www.furaffinity.net/view/50628977) |
+| Vazco_DS | 2023-01-15 | [CM: Kandi and Baker](https://www.furaffinity.net/view/50628977) |
 | PacificSide | 2023-01-09 | [Kay's Rockin' Tum](https://www.furaffinity.net/view/50758615) |
 
 
