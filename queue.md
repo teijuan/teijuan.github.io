@@ -4,14 +4,15 @@ title: "2023 Commissions Waiting list"
 permalink: /queue/
 ---
 
-| To Begin |  | Status: |
+|  |  | Progress |
 | ---:| --- |:--- |
+| ————  **Waiting** | ———— | ———————— |
 | DocSalineSerpent | Flat color | ○○○○ |
 | Pacificside | Full color | ○○○○ |
 | Katebytheocean | Flat color | ○○○○ |
-| **Working** | ———— | ———————— |
+| ————  **Working** | ———— | ———————— |
 | Darknido | Flat color | ●●○○ |
-| **Done** | ———— | ———————— |
+| ——————  **Done** | ———— | ———————— |
 | z3lda123 | 2023-01-24 | [CM: Bunty and Manjula](https://www.deviantart.com/tei-juan/art/CM-Bunty-and-Manjula-948206754) |
 | Wildegems | 2023-01-19 | [CM: Gems' Joy](https://www.furaffinity.net/view/50681644/) |
 | Vazco_DS | 2023-01-15 | [CM: Kandi and Baker](https://www.furaffinity.net/view/50628977) |
