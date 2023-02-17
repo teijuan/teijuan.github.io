@@ -5,4 +5,4 @@ categories: blog
 ---
 
 # >> [Terms of Service](/commissions/) <<  
-Updated often here than other of my pages.
+Updated often here than other pages.
