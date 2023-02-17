@@ -4,7 +4,14 @@ _site
 .jekyll-metadata
 .stfolder
 vendor
+
+### Rascunho ###
 _nosync
 _nopush
+
+### Syncthing marker ###
 .stfolder
+
+### Pastas do obsidian ###
 .obsidian
+.trash
