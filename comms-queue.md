@@ -5,19 +5,25 @@ permalink: /comms-queue/
 ---
 
 <!--
-▢▢▢▢
-▣▢▢▢
-▣▣▢▢
-▣▣▣▢
-▣▣▣▣
+▯▯▯▯
+▮▯▯▯
+▮▮▯▯
+▮▮▮▯
+▮▮▮▮
+
+░░░░
+▓░░░
+▓▓░░
+▓▓▓░
+▓▓▓▓
 -->
 
 | **Working** | **Style** | **Progress** |
 | ---:| --- |:--- |
-| DocSalineSerpent | 4. Flat color | ▢▢▢▢ |
-| Pacificside | 6. Full shaded | ▢▢▢▢ |
-| Katebytheocean | 4. Flat color | ▢▢▢▢ |
-| Darknido | 4. Flat color | ▣▣▣▢ |
+| DocSalineSerpent | 4. Flat color | ▯▯▯▯ |
+| Pacificside | 6. Full shaded | ▯▯▯▯ |
+| Katebytheocean | 4. Flat color | ▯▯▯▯ |
+| Darknido | 4. Flat color | ▮▮▮▯ |
 
 <!--
 1. Sketch
@@ -53,7 +59,7 @@ permalink: /comms-queue/
 <!--
 ●●●○
 
-■□ ▢▣○●○●◉▉▓▒░
+■□ ▯▮○●○●◉▉▓▒░
 
 ○○○○ 0%
 ●○○○ 25%
