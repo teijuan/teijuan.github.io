@@ -32,15 +32,15 @@ permalink: /comms-queue/
 ### Finished (Last 10)
 
 | **User** | **Delivered** | **Link** |
-| z3lda123 | 2023-01-24 | [CM: Bunty and Manjula](https://www.deviantart.com/tei-juan/art/CM-Bunty-and-Manjula-948206754) |
-| Wildegems | 2023-01-19 | [CM: Gems' Joy](https://www.furaffinity.net/view/50681644/) |
-| Vazco_DS | 2023-01-15 | [CM: Kandi and Baker](https://www.furaffinity.net/view/50628977) |
+| z3lda123 | 2023-01-24 | [Bunty and Manjula](https://www.deviantart.com/tei-juan/art/CM-Bunty-and-Manjula-948206754) |
+| Wildegems | 2023-01-19 | [Gems' Joy](https://www.furaffinity.net/view/50681644/) |
+| Vazco_DS | 2023-01-15 | [Kandi and Baker](https://www.furaffinity.net/view/50628977) |
 | PacificSide | 2023-01-09 | [Kay's Rockin' Tum](https://www.furaffinity.net/view/50758615) |
 |   Sasuke Lightning Cloud  |  2022-12-04  |    [I'll be a dad soon...](https://www.furaffinity.net/view/50085652/)    |
 |  RelionGarrouth<br>Derrysome<br>RacerXXDJ   | 2022-11-30   |   [YCH: PregINC's 5th Anniversary](https://www.furaffinity.net/view/50040313/)     |
 |  Pokebrickhero   | 2022-11-11   |   [Torrim and Kirenryu](https://www.furaffinity.net/view/49772282/)     |
-|   RacerXXDJ  |  2022-10-31  |   [CM: Tender Tribalists](https://www.furaffinity.net/view/49655636)     |
-|  RacerXXDJ   |   2022-10-28 |   [CM: Frog Doll](https://www.furaffinity.net/view/49583939/)     |
+|   RacerXXDJ  |  2022-10-31  |   [Tender Tribalists](https://www.furaffinity.net/view/49655636)     |
+|  RacerXXDJ   |   2022-10-28 |   [Frog Doll](https://www.furaffinity.net/view/49583939/)     |
 |  Spyingredfox   |   2022-10-13 |    [Crissy](https://www.furaffinity.net/view/49388761/)    |
 
 
