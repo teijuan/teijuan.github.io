@@ -37,7 +37,7 @@ minima:
 # aparecer e com final .md
 header_pages:
  - about.md
- - queue.md
+# - queue.md
  - contact.md
 # - tos.md
 

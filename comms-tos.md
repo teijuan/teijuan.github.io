@@ -2,7 +2,7 @@
 layout: page
 title: "2023 Commissions' Prices and TOS"
 categories: page
-permalink: /commissions/
+permalink: /comms-tos/
 ---
 
 <!-- NÃO ESQUEÇA DE TROCAR A DATA DE MODIFICAÇÃO! -->
