@@ -4,10 +4,10 @@ title: Sobre nós
 permalink: /about/
 ---
 
-<span style="display:block;width:120px;margin:0px;margin-right:20px;padding:20px;float:left">![Alt text](/assets/img/tefra-studios-logo.png)
-</span>
+<span style="display:block;width:120px;margin:0px;margin-right:20px;padding:20px;float:left">![2023-02-08_design-tefra-studio-logo](assets/img/2023-02-08_design-tefra-studio-logo.png)</span>
 
-**TEFRA Studios** é o nome de um projeto brasileiro independente fundado em junho de 2021 por João Marcelo "Tei-Juan".  
+
+**TEFRA Studio** é o nome de um projeto brasileiro independente fundado em junho de 2021 por João Marcelo "Tei-Juan".  
 Tanto o estúdio quando seu fundador são naturais da cidade de Barbacena, MG.  
 
 A proposta inicial do projeto é a de divulgar os trabalhos do artista Tei-Juan (fundador) com esse novo selo, para dar um aspecto mais comercial. Mas há ideias maiores que serão executadas, e ao longo do tempo, as as competências necessárias para a execução delas vão sendo adquiridas. Eis aqui algumas dessas ideias:  

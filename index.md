@@ -9,7 +9,9 @@ layout: home
 <span style="display:block;width:80px;height:200px;margin:5px;float:right">
 
 -->
-<span style="display:block;width:100px;height:100px;margin-right:20px;padding:0px;float:right">![Alt text](/assets/img/tefra-studios-logo.png)</span>
+
+<span style="display:block;width:120px;margin:0px;margin-right:20px;padding:20px;float:left">![2023-02-08_design-tefra-studio-logo](assets/img/2023-02-08_design-tefra-studio-logo.png)</span>
+
 # Bem vindo ao nosso website!
 Ainda em desenvolvimento.
 <br>
