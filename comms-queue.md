@@ -22,6 +22,7 @@ permalink: /comms-queue/
 
 -->
 
+See also: [Terms  of Service](comms-tos.md)  
 
 **↓ In payment order**
 
