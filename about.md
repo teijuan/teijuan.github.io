@@ -21,7 +21,7 @@ Hoje, o projeto é sustentado por *Tei*, apoiado por seus amigos, parentes e fã
 O atual carro-chefe do estúdio é a mascote **Lydia**, a coelha dançarina de orelhas grandes e roupa *sport*.  
 Charme e espontaneidade são marcas registradas dessa garota.
 
-![2023-01-27_tei-lydia-superstyle](/assets/img/posts/2023-01-27_tei-lydia-superstyle.jpg)
+![2023-01-27_tei-lydia-superstyle](assets/img/2023-01-27_tei-lydia-superstyle.jpg)
 
 Há uma variedade de outros personagens criados por *Tei* que serão apresentados assim que suas identidades e propósitos estiverem enfim determinados.  
 

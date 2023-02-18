@@ -24,7 +24,7 @@ permalink: /comms-queue/
 | DocSalineSerpent | 4. Flat color | ▯▯▯▯ |
 | Pacificside | 6. Full shaded | ▯▯▯▯ |
 | Katebytheocean | 4. Flat color | ▯▯▯▯ |
-| Darknido | 4. Flat color | ▮▮▮▯ |
+| Darknido | 4. Flat color | ▮▮▮▮ |
 
 # Finished (Last 10)
 
@@ -41,7 +41,7 @@ permalink: /comms-queue/
 | RacerXXDJ | 2022-10-28 | [Frog Doll](https://www.furaffinity.net/view/49583939/) |
 | Spyingredfox | 2022-10-13 | [Crissy](https://www.furaffinity.net/view/49388761/) |
 
-<!-- Mova a linha da commission cá para baixo 
+<!-- Mova a linha da commission cá para baixo
 
 
  -->
