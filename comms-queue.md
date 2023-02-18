@@ -16,7 +16,7 @@ permalink: /comms-queue/
 4. Flat color
 5. Flat shaded
 6. Full shaded
-|       |           | ▯▯▯▯ |
+|        |       | ▯▯▯▯ |
 -->
 
 | **Pending** | **Style** | **Status** |
