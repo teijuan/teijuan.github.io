@@ -4,7 +4,7 @@ title: "2023 Commissions Waiting list"
 permalink: /comms-queue/
 ---
 
-<!-- 
+<!--
 ▢▢▢▢
 ▣▢▢▢
 ▣▣▢▢
@@ -14,12 +14,12 @@ permalink: /comms-queue/
 
 | **Working** | **Style** | **Progress** |
 | ---:| --- |:--- |
-| DocSalineSerpent | 4. Flat color | ▢▢▢▢  |
+| DocSalineSerpent | 4. Flat color | ▢▢▢▢ |
 | Pacificside | 6. Full shaded | ▢▢▢▢ |
 | Katebytheocean | 4. Flat color | ▢▢▢▢ |
 | Darknido | 4. Flat color | ▣▣▣▢ |
 
-<!-- 
+<!--
 1. Sketch
 2. Colored sketch
 3. Lineart
@@ -49,8 +49,7 @@ permalink: /comms-queue/
 * * *
 
 
-<!-- 
-
+<!--
 ●●●○
 
 ■□ ▢▣○●○●◉▉▓▒░

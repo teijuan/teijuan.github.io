@@ -4,10 +4,13 @@ title: Contato
 permalink: /contact/
 ---
 
-# Entre em contato conosco
+# Contact me
 
-E quando eu digo conosco, eu digo comigo mesmo, o *Tei* em pessoa.  
+<!-- E quando eu digo conosco, eu digo comigo mesmo, o *Tei* em pessoa. -->
 
 - # [Telegram](https://t.me/tei_juan)
-- # [WhatsApp](https://wa.me/+5532999957500)
 - # [Email](mailto:tei-juan@hotmail.com)
+- # Discord: `tei-juan#8614`
+- # [Furaffinity](https://www.furaffinity.net/user/teixeira-juan)
+- # [Deviantart](https://www.deviantart.com/tei-juan)
+- # [WhatsApp](https://wa.me/+5532999957500)
