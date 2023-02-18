@@ -11,10 +11,12 @@ Table of Contents
 
 - [Price table](#prices-and-styles)
 - [Terms of Service](#terms-of-service)
-	- ['Do's and 'Dont's](#what-i-do)
-	- [My specialities](#my-specialities)
+- ['Do's and 'Dont's](#what-i-do)
+- [My specialities](#my-specialities)
 - [Payment](#ways-of-payment)
 
+
+See also: [Waiting list](comms-queue.md)
 
 ## Prices and styles
 
