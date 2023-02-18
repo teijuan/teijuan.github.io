@@ -14,9 +14,7 @@ layout: home
 Ainda em desenvolvimento.  
 <br>
 
-- [Commissions' queue](/comms-queue/)
-- [Commissions' TOS](/comms-tos/)
-
+- ## [Commissions' queue](/comms-queue/)   
+- ## [Commissions' TOS](/comms-tos/)   
 
 <hr><br>
-

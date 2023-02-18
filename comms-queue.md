@@ -10,32 +10,23 @@ permalink: /comms-queue/
 ▮▮▯▯
 ▮▮▮▯
 ▮▮▮▮
-
-░░░░
-▓░░░
-▓▓░░
-▓▓▓░
-▓▓▓▓
--->
-
-| **Working** | **Style** | **Progress** |
-| ---:| --- |:--- |
-| DocSalineSerpent | 4. Flat color | ▯▯▯▯ |
-| Pacificside | 6. Full shaded | ▯▯▯▯ |
-| Katebytheocean | 4. Flat color | ▯▯▯▯ |
-| Darknido | 4. Flat color | ▮▮▮▯ |
-
-<!--
 1. Sketch
 2. Colored sketch
 3. Lineart
 4. Flat color
 5. Flat shaded
 6. Full shaded
+|       |           | ▯▯▯▯ |
 -->
 
+| **Pending** | **Style** | **Status** |
+| ---:| --- |:--- |
+| DocSalineSerpent | 4. Flat color | ▯▯▯▯ |
+| Pacificside | 6. Full shaded | ▯▯▯▯ |
+| Katebytheocean | 4. Flat color | ▯▯▯▯ |
+| Darknido | 4. Flat color | ▮▮▮▯ |
 
-### Finished (Last 10)
+# Finished (Last 10)
 
 | **User** | **Delivered** | **Link** |
 | --- | --- | --- |
@@ -49,6 +40,12 @@ permalink: /comms-queue/
 | RacerXXDJ | 2022-10-31 | [Tender Tribalists](https://www.furaffinity.net/view/49655636) |
 | RacerXXDJ | 2022-10-28 | [Frog Doll](https://www.furaffinity.net/view/49583939/) |
 | Spyingredfox | 2022-10-13 | [Crissy](https://www.furaffinity.net/view/49388761/) |
+
+<!-- Mova a linha da commission cá para baixo 
+
+
+ -->
+
 
 
 ▍Doubts? [Contact me!](/contact.md)
