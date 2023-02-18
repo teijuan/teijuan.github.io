@@ -11,7 +11,7 @@ permalink: /queue/
 | Pacificside | Full color | `○○○○` |
 | Katebytheocean | Flat color | `○○○○` |
 | **`Working`** |  |  |
-| Darknido | Flat color | `●●○○` |
+| Darknido | Flat color | `●●●○` |
 | **`Done`** | **`Finished`** | **`Link`** |
 | z3lda123 | 2023-01-24 | [CM: Bunty and Manjula](https://www.deviantart.com/tei-juan/art/CM-Bunty-and-Manjula-948206754) |
 | Wildegems | 2023-01-19 | [CM: Gems' Joy](https://www.furaffinity.net/view/50681644/) |
