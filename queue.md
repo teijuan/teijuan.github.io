@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "2023 Commissions Waiting list"
+title: "2023 Comms. Waiting list"
 permalink: /queue/
 ---
 
