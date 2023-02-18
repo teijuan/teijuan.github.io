@@ -15,8 +15,4 @@ layout: home
 # Bem vindo ao nosso website!
 Ainda em desenvolvimento.
 <br>
-
-- ## [Commissions' queue](/comms-queue/)
-- ## [Commissions' TOS](/comms-tos/)
-
 <hr><br>
