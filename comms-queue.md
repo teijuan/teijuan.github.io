@@ -17,20 +17,26 @@ permalink: /comms-queue/
 5. Flat shaded
 6. Full shaded
 |        |       | ▯▯▯▯ |
+
+*anonymous*
+
 -->
+
+
+**↓ In payment order**
 
 | **Pending** | **Style** | **Status** |
 | ---:| --- |:--- |
 | DocSalineSerpent | 4. Flat color | ▯▯▯▯ |
 | Pacificside | 6. Full shaded | ▯▯▯▯ |
 | Katebytheocean | 4. Flat color | ▯▯▯▯ |
-| Darknido | 4. Flat color | ▮▮▮▮ |
 
-# Finished (Last 10)
+## Finished (Last 10)
 
-| **User** | **Delivered** | **Link** |
+| **Username** | **Delivered** | **Link** |
 | --- | --- | --- |
-| z3lda123 | 2023-01-24 | [Bunty and Manjula](https://www.deviantart.com/tei-juan/art/CM-Bunty-and-Manjula-948206754) |
+| Darknido | 2023-02-18 |   |
+| Z3lda123 | 2023-01-24 | [Bunty and Manjula](https://www.deviantart.com/tei-juan/art/CM-Bunty-and-Manjula-948206754) |
 | Wildegems | 2023-01-19 | [Gems' Joy](https://www.furaffinity.net/view/50681644/) |
 | Vazco_DS | 2023-01-15 | [Kandi and Baker](https://www.furaffinity.net/view/50628977) |
 | PacificSide | 2023-01-09 | [Kay's Rockin' Tum](https://www.furaffinity.net/view/50758615) |
@@ -39,9 +45,9 @@ permalink: /comms-queue/
 | Pokebrickhero | 2022-11-11 | [Torrim and Kirenryu](https://www.furaffinity.net/view/49772282/) |
 | RacerXXDJ | 2022-10-31 | [Tender Tribalists](https://www.furaffinity.net/view/49655636) |
 | RacerXXDJ | 2022-10-28 | [Frog Doll](https://www.furaffinity.net/view/49583939/) |
-| Spyingredfox | 2022-10-13 | [Crissy](https://www.furaffinity.net/view/49388761/) |
 
 <!-- Mova a linha da commission cá para baixo
+| Spyingredfox | 2022-10-13 | [Crissy](https://www.furaffinity.net/view/49388761/) |
 
 
  -->
