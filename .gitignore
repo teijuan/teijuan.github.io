@@ -9,7 +9,10 @@ _site
 vendor
 _nosync
 _nopush
+_drafts
 .stfolder
+.stignore
+.stignorerules
 .obsidian
 .trash
 Playground.md
