@@ -4,6 +4,8 @@ _site
 .jekyll-cache
 .jekyll-metadata
 .stfolder
+.stignore
+.stignorerules
 vendor
 _nosync
 _nopush
