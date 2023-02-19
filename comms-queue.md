@@ -16,10 +16,6 @@ permalink: /comms-queue/
 4. Flat color
 5. Flat shaded
 6. Full shaded
-|        |       | ▯▯▯▯ |
-
-*anonymous*
-
 -->
 
 See also: [Terms  of Service](comms-tos.md)  
@@ -47,30 +43,6 @@ See also: [Terms  of Service](comms-tos.md)
 | RacerXXDJ | 2022-10-31 | [Tender Tribalists](https://www.furaffinity.net/view/49655636) |
 | RacerXXDJ | 2022-10-28 | [Frog Doll](https://www.furaffinity.net/view/49583939/) |
 
-<!-- Mova a linha da commission cá para baixo
-| Spyingredfox | 2022-10-13 | [Crissy](https://www.furaffinity.net/view/49388761/) |
-
-
- -->
-
-
-
 ▍Doubts? [Contact me!](/contact.md)
 
 * * *
-
-
-<!--
-●●●○
-
-■□ ▯▮○●○●◉▉▓▒░
-
-○○○○ 0%
-●○○○ 25%
-●●○○ 50%
-●●●○ 75%
-●●● 100%
-
-Written in **M↓**
-
--->
