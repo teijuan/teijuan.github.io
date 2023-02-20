@@ -30,9 +30,9 @@ See also: [Terms  of Service](comms-tos.md)
 
 ## Finished (Last 10)
 
-| **Username** | **Delivered** | **Link** |
+| **Username** | **Delivered** | **Work** |
 | --- | --- | --- |
-| Darknido | 2023-02-18 |   |
+| Darknido | 2023-02-18 |  Isabela, Sam and Rina |
 | Z3lda123 | 2023-01-24 | [Bunty and Manjula](https://www.deviantart.com/tei-juan/art/CM-Bunty-and-Manjula-948206754) |
 | Wildegems | 2023-01-19 | [Gems' Joy](https://www.furaffinity.net/view/50681644/) |
 | Vazco_DS | 2023-01-15 | [Kandi and Baker](https://www.furaffinity.net/view/50628977) |
