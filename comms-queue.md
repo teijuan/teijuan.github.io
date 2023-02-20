@@ -26,7 +26,7 @@ See also: [Terms  of Service](comms-tos.md)
 | ---:| --- |:--- |
 | DocSalineSerpent | 4. Flat color | ▯▯▯▯ |
 | Pacificside | 6. Full shaded | ▯▯▯▯ |
-| Katebytheocean | 4. Flat color | ▯▯▯▯ |
+| Katebytheocean | 4. Flat color | ▮▯▯▯ |
 
 ## Finished (Last 10)
 
