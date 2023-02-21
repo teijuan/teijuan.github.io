@@ -1,8 +1,10 @@
 ---
 layout: post
 title: "🐰 Mega Promo for Year of the Bunny (2023)"
-categories: promo
+categories: blog
+created: 2023-02-14 22:31:15-0300
 ---
+
 I hadn't time for prepare a Valentine's Day promo or YCH, but I though of an interesting offer related to chinese's new year. 
 
 Now every commission including **bunnies, rabbits or hares**, from a simple sktc to a full piece will be **50% OFF!**
