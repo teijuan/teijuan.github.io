@@ -4,7 +4,7 @@ title: Sobre nós
 permalink: /about/
 ---
 
-<span style="display:block;width:120px;margin:0px;margin-right:20px;padding:20px;float:left">![2023-02-08_design-tefra-studio-logo](assets/img/2023-02-08_design-tefra-studio-logo.png)</span>
+<span style="display:block;width:120px;margin:0px;margin-right:20px;padding:20px;float:left">![2023-02-08_design-tefra-studio-logo](/assets/img/2023-02-08_design-tefra-studio-logo.png)</span>
 
 
 **TEFRA Studio** é o nome de um projeto brasileiro independente fundado em junho de 2021 por João Marcelo "Tei-Juan".  
@@ -21,7 +21,7 @@ Hoje, o projeto é sustentado por *Tei*, apoiado por seus amigos, parentes e fã
 O atual carro-chefe do estúdio é a mascote **Lydia**, a coelha dançarina de orelhas grandes e roupa *sport*.  
 Charme e espontaneidade são marcas registradas dessa garota.
 
-![2023-01-27_tei-lydia-superstyle](assets/img/2023-01-27_tei-lydia-superstyle.jpg)
+![2023-01-27_tei-lydia-superstyle](/assets/img/2023-01-27_tei-lydia-superstyle.jpg)
 
 Há uma variedade de outros personagens criados por *Tei* que serão apresentados assim que suas identidades e propósitos estiverem enfim determinados.  
 

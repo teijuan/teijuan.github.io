@@ -1,20 +1,25 @@
+## Syncthing
+.stfolder
+.stignore
+.stignorerules
+
+## Somente repo local
+_nosync
+_nopush
+_drafts
+_templates
+templates
+
+## Obsidian
+.obsidian
+.trash
+
+## Demais
 .*
 _site
 .sass-cache
 .jekyll-cache
 .jekyll-metadata
-.stfolder
-.stignore
-.stignorerules
 vendor
-_nosync
-_nopush
-_drafts
-_templates
-.stfolder
-.stignore
-.stignorerules
-.obsidian
-.trash
 Playground.md
-templates
+teijuan.github.io.code-workspace

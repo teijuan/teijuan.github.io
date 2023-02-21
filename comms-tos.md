@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "2023 Commissions' Prices and TOS"
+title: "TOS"
 categories: page
 permalink: /comms-tos/
 ---
