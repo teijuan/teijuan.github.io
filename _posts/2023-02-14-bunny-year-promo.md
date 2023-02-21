@@ -2,10 +2,12 @@
 layout: post
 title: "🐰 Mega Promo for Year of the Bunny (2023)"
 categories: blog
-created: 2023-02-14 22:31:15-0300
+created: 2023-02-14T22:31:15-0300
+date: 2023-02-13T22:31:15-0300
 tags:
 - promo
 - bunny
+author: tei-juan
 ---
 
 I hadn't time for prepare a Valentine's Day promo or YCH, but I though of an interesting offer related to chinese's new year. 
