@@ -26,12 +26,12 @@ See also: [Terms  of Service](comms-tos.md)
 | ---:| --- |:--- |
 | DocSalineSerpent | 4. Flat color | ▯▯▯▯ |
 | Pacificside | 6. Full shaded | ▯▯▯▯ |
-| Katebytheocean | 4. Flat color | ▮▮▮▯ |
 
 ## Finished (Last 10)
 
 | **Username** | **Delivered** | **Work** |
 | --- | --- | --- |
+| Katebytheocean | 2023-02-22 | Pregnant Krystal (StarFox) |
 | Darknido | 2023-02-18 |  Isabela, Sam and Rina |
 | Z3lda123 | 2023-01-24 | [Bunty and Manjula](https://www.deviantart.com/tei-juan/art/CM-Bunty-and-Manjula-948206754) |
 | Wildegems | 2023-01-19 | [Gems' Joy](https://www.furaffinity.net/view/50681644/) |
@@ -41,7 +41,6 @@ See also: [Terms  of Service](comms-tos.md)
 | RelionGarrouth<br>Derrysome<br>RacerXXDJ | 2022-11-30 | [YCH: PregINC's 5th Anniversary](https://www.furaffinity.net/view/50040313/) |
 | Pokebrickhero | 2022-11-11 | [Torrim and Kirenryu](https://www.furaffinity.net/view/49772282/) |
 | RacerXXDJ | 2022-10-31 | [Tender Tribalists](https://www.furaffinity.net/view/49655636) |
-| RacerXXDJ | 2022-10-28 | [Frog Doll](https://www.furaffinity.net/view/49583939/) |
 
 ▍Doubts? [Contact me!](/contact.md)
 
