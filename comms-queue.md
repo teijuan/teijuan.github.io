@@ -31,7 +31,7 @@ See also: [Terms  of Service](comms-tos.md)
 
 | **Username** | **Delivered** | **Work** |
 | --- | --- | --- |
-| Katebytheocean | 2023-02-22 | Pregnant Krystal (StarFox) |
+| Katebytheocean | 2023-02-22 | [Pregnant Krystal \(StarFox\)](https://twitter.com/AKate155/status/1628544441442086914)  |
 | Darknido | 2023-02-18 |  Isabela, Sam and Rina |
 | Z3lda123 | 2023-01-24 | [Bunty and Manjula](https://www.deviantart.com/tei-juan/art/CM-Bunty-and-Manjula-948206754) |
 | Wildegems | 2023-01-19 | [Gems' Joy](https://www.furaffinity.net/view/50681644/) |
