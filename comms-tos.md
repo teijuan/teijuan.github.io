@@ -16,7 +16,7 @@ Table of Contents
 - [Payment](#ways-of-payment)
 
 
-See also: [Waiting list](_pages/comms-queue.md)
+See also: [Waiting list](../comms-queue.md)
 
 ## Prices and styles
 
