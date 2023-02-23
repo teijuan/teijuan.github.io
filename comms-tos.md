@@ -1,8 +1,8 @@
 ---
 layout: page
-title: "TOS"
+title: "Comms. TOS"
 categories: page
-permalink: /comms-tos/
+permalink: /tos/
 ---
 
 <!-- NÃO ESQUEÇA DE TROCAR A DATA DE MODIFICAÇÃO! -->
