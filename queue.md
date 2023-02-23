@@ -20,7 +20,7 @@ For commissions or art trades (when open)
 6. Full shaded
 -->
 
-See also: [Terms  of Service](comms-tos.md)  
+See also: [Terms  of Service](tos.md)  
 
 **↓ In payment order**
 
