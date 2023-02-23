@@ -1,8 +1,10 @@
 ---
 layout: page
-title: "Comms. queue"
-permalink: /comms-queue/
+title: "Waiting list"
+permalink: /queue/
 ---
+
+For commissions or art trades (when open)
 
 <!--
 ▯▯▯▯
@@ -42,6 +44,6 @@ See also: [Terms  of Service](comms-tos.md)
 | Pokebrickhero | 2022-11-11 | [Torrim and Kirenryu](https://www.furaffinity.net/view/49772282/) |
 | RacerXXDJ | 2022-10-31 | [Tender Tribalists](https://www.furaffinity.net/view/49655636) |
 
-▍Doubts? [Contact me!](/contact.md)
+▍Doubts? [Contact me!](contact.md)
 
-* * *
+---
