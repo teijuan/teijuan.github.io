@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "Comms. TOS"
-categories: page
 permalink: /tos/
 ---
 
@@ -10,11 +9,10 @@ permalink: /tos/
 Table of Contents
 
 - [Price table](#prices-and-styles)
-- [Terms of Service](#terms-of-service)
-- ['Do's and 'Dont's](#what-i-do)
+- [Rules](#Rules)
+- [Do and don't do](#what-i-do)
 - [My specialities](#my-specialities)
 - [Payment](#ways-of-payment)
-
 
 See also: [Waiting list](queue.md)
 
@@ -36,7 +34,7 @@ Values may vary for:
 - Alt. versions'
 - Background
 
-## Terms of Service
+## Rules
 - Payment is done in advance
 - Image refs must be clear, regardless the style
 - Pending works can be partially refunded according to its progress
