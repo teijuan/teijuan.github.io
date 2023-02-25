@@ -25,7 +25,7 @@ See also: [Terms  of Service](tos.md)
 **↓ In payment order**
 
 | **Pending** | **Style** | **Status** |
-| ---:| --- |:--- |
+| -------:|   -------- |:-------- |
 | DocSalineSerpent | 4. Flat color | ▯▯▯▯ |
 | Pacificside | 6. Full shaded | ▮▮▯▯ |
 
