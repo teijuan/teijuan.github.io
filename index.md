@@ -10,7 +10,6 @@ layout: home
 
 <!--
 <span style="display:block;width:80px;height:200px;margin:5px;float:right">
-
 -->
 
 <span style="display:block;width:120px;margin:0px;margin-right:20px;padding:0px;float:left">![2023-02-08_design-tefra-studio-logo](assets/img/2023-02-08_design-tefra-studio-logo.png)</span>
