@@ -63,4 +63,4 @@ Values may vary for:
 - Ko-Fi
 - Patreon
 
-▍ Doubts? [Contact me!](contact.md)
+> Doubts? [Contact me!](contact.md)

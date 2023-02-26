@@ -8,9 +8,6 @@ For commissions or art trades (when open)
 
 <!--
 ▯▯▯▯
-▮▯▯▯
-▮▮▯▯
-▮▮▮▯
 ▮▮▮▮
 1. Sketch
 2. Colored sketch
@@ -24,15 +21,15 @@ See also: [Terms  of Service](tos.md)
 
 **↓ In payment order**
 
-| **Pending** | **Style** | **Status** |
+| **Client username** | **Style** | **Status** |
 | ---:| --- |:--- |
 | DocSalineSerpent | 4. Flat color | ▯▯▯▯ |
-| Pacificside | 6. Full shaded | ▮▮▮▮ |
 
 ## Finished (Last 10)
 
 | **Username** | **Delivered** | **Work** |
 | --- | --- | --- |
+| Pacificside |  2023-02-26 | Rhonde |
 | Katebytheocean | 2023-02-22 | [Pregnant Krystal \(StarFox\)](https://twitter.com/AKate155/status/1628544441442086914)  |
 | Darknido | 2023-02-18 |  Isabela, Sam and Rina |
 | Z3lda123 | 2023-01-24 | [Bunty and Manjula](https://www.deviantart.com/tei-juan/art/CM-Bunty-and-Manjula-948206754) |
@@ -42,8 +39,5 @@ See also: [Terms  of Service](tos.md)
 | Sasuke Lightning Cloud | 2022-12-04 | [I'll be a dad soon...](https://www.furaffinity.net/view/50085652/) |
 | RelionGarrouth<br>Derrysome<br>RacerXXDJ | 2022-11-30 | [YCH: PregINC's 5th Anniversary](https://www.furaffinity.net/view/50040313/) |
 | Pokebrickhero | 2022-11-11 | [Torrim and Kirenryu](https://www.furaffinity.net/view/49772282/) |
-| RacerXXDJ | 2022-10-31 | [Tender Tribalists](https://www.furaffinity.net/view/49655636) |
 
-▍Doubts? [Contact me!](contact.md)
-
----
+> Doubts? [Contact me!](contact.md)
