@@ -3,8 +3,6 @@ title: "My new personal website"
 layout: post
 categories: blog
 date: 2023-02-26 11:54:01 -0300
-author: tei-juan
-tags: 
 ---
 
 # <https://teijuan.github.io>
