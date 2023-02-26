@@ -8,7 +8,7 @@ permalink: /tos/
 
 Table of Contents
 
-- [Price table](#prices-and-styles)
+- [Prices and styles](#prices-and-styles)
 - [Rules](#Rules)
 - [Do and don't do](#what-i-do)
 - [My specialities](#my-specialities)

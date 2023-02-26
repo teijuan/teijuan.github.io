@@ -1,5 +1,5 @@
 ```
-    / /"\   TEFRA STUDIO
-  —/ /—     Official Website
-\_/ /       by Tei.
+  /    /""/   TEFRA STUDIO
+ /–   /—     Official Website
+/__/ /      by Tei.
 ```
