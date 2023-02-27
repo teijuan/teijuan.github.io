@@ -29,7 +29,7 @@ See also: [Terms  of Service](tos.md)
 
 | **Username** | **Delivered** | **Work** |
 | --- | --- | --- |
-| Pacificside |  2023-02-26 | Rhonde |
+| Pacificside |  2023-02-26 | [Not-so-self selfie of Rhonde](https://twitter.com/TeiJuanArt/status/1630006549925036032) |
 | Katebytheocean | 2023-02-22 | [Pregnant Krystal \(StarFox\)](https://twitter.com/AKate155/status/1628544441442086914)  |
 | Darknido | 2023-02-18 |  Isabela, Sam and Rina |
 | Z3lda123 | 2023-01-24 | [Bunty and Manjula](https://www.deviantart.com/tei-juan/art/CM-Bunty-and-Manjula-948206754) |
