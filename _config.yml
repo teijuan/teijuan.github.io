@@ -40,7 +40,7 @@ minima:
   #   - { platform: microdotblog,   user_url: "https://micro.blog/jekyll" }
   #   - { platform: pinterest,      user_url: "https://www.pinterest.com/jekyll" }
   #   - { platform: stackoverflow,  user_url: "https://stackoverflow.com/users/1234567/jekyll" }
-      - { platform: telegram,       user_url: "https://t.me/tefrastudio" }
+  #   - { platform: telegram,       user_url: "https://t.me/tefrastudio" }
       - { platform: twitter,        user_url: "https://twitter.com/teijuanart" }
       - { platform: youtube,        user_url: "https://www.youtube.com/@tefrastudio" }
   #   - { platform: furaffinity,    user_url: "https://www.furaffinity.net/user/teixeira-juan" }
