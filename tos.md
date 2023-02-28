@@ -4,28 +4,25 @@ title: "Comms. TOS"
 permalink: /tos/
 ---
 
-<!-- NÃO ESQUEÇA DE TROCAR A DATA DE MODIFICAÇÃO! -->
+> Table of Contents
+> 
+> - [Prices and styles](#prices-and-styles)
+> - [Rules](#Rules)
+> - [Do and don't do](#what-i-do)
+> - [My specialities](#my-specialities)
+> - [Payment](#ways-of-payment)
 
-Table of Contents
-
-- [Prices and styles](#prices-and-styles)
-- [Rules](#Rules)
-- [Do and don't do](#what-i-do)
-- [My specialities](#my-specialities)
-- [Payment](#ways-of-payment)
-
-See also: [Waiting list](queue.md)
 
 ## Prices and styles
 
 | Style          | Full | Bust | Head |
-| :--------------| ---- | ---- | ---- |
-| SKETCH         | $20  | $16  | -   |
-| + COLORS      | $24  | $19  | $10 |
-| LINEART        | $24  | $20  | -   |
-| + COLORS      | $26  | $22  | $12 |
-| FLAT SHADED    | $34  | $26  | $14 |
-| FULL SHADED    | $45  | $35  | $20 |
+| :------------- | ---- | ---- | ---- |
+| SKETCH         | $20  | $16  | -    |
+| + COLORS       | $24  | $19  | $10  |
+| LINEART        | $24  | $20  | -    |
+| + COLORS       | $26  | $22  | $12  |
+| FLAT SHADED    | $34  | $26  | $14  |
+| FULL SHADED    | $45  | $35  | $20  |
 
 \- Extra characters costs half.
 
@@ -62,5 +59,7 @@ Values may vary for:
 - Paypal
 - Ko-Fi
 - Patreon
+
+See also: [Waiting list](/queue)
 
 > Doubts? [Contact me!](contact.md)

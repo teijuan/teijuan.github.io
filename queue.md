@@ -6,8 +6,6 @@ permalink: /queue/
 
 For commissions or art trades (when open)
 
-See also: [Terms  of Service](tos.md)  
-
 **↓ In payment order**
 
 | **Client username** | **Style** | **Status** |
@@ -28,5 +26,7 @@ See also: [Terms  of Service](tos.md)
 | Sasuke Lightning Cloud | 2022-12-04 | [I'll be a dad soon...](https://www.furaffinity.net/view/50085652/) |
 | RelionGarrouth<br>Derrysome<br>RacerXXDJ | 2022-11-30 | [YCH: PregINC's 5th Anniversary](https://www.furaffinity.net/view/50040313/) |
 | Pokebrickhero | 2022-11-11 | [Torrim and Kirenryu](https://www.furaffinity.net/view/49772282/) |
+
+See also: [Terms  of Service](/tos)  
 
 > Doubts? [Contact me!](contact.md)
