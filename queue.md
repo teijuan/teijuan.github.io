@@ -6,17 +6,6 @@ permalink: /queue/
 
 For commissions or art trades (when open)
 
-<!--
-▯▯▯▯
-▮▮▮▮
-1. Sketch
-2. Colored sketch
-3. Lineart
-4. Flat color
-5. Flat shaded
-6. Full shaded
--->
-
 See also: [Terms  of Service](tos.md)  
 
 **↓ In payment order**
