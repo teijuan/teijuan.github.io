@@ -7,7 +7,7 @@ date: 2023-02-26 11:54:01 -0300
 
 # <https://teijuan.github.io>
 
-It's a brand new website I've been working on, that seems to work better than [the Netlify one](https://teijuan.netlify.app/), and every info about commissions and contact from the old site were moved to this github address.
+It's a personal website I've been working on, that seems to work better than [the Netlify one](https://teijuan.netlify.app/), and every info about commissions and contact from the old site were moved to this github address.
 
 I also expect to publish most of updates about my art jobs here (like a new promo or project), saving time spend in copypasting the same texts into every page and reformatting according to the site's rules. (Like I did seconds before posting this journal.)
 

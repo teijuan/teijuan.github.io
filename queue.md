@@ -23,7 +23,7 @@ See also: [Terms  of Service](tos.md)
 
 | **Client username** | **Style** | **Status** |
 | ---:| --- |:--- |
-| DocSalineSerpent | 4. Flat color | ▯▯▯▯ |
+| DocSalineSerpent | 4. Flat color | ▮▯▯▯ |
 
 ## Finished (Last 10)
 
