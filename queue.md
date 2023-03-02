@@ -10,7 +10,7 @@ For commissions or art trades (when open)
 
 | **Client username** | **Style** | **Status** |
 | ---:| --- |:--- |
-| DocGyara | 4. Flat color | ▮▯▯▯ |
+| DocGyara | 4. Flat color | ▮▮▯▯ |
 
 ## Finished (Last 10)
 
