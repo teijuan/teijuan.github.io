@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Requests"
-permalink: /requests/
+permalink: /requests.html/
 ---
 
 [<u>Nope.</u>](../tos.md)
