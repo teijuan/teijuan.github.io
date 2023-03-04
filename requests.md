@@ -6,4 +6,4 @@ permalink: /requests/
 
 [<u>Nope.</u>][def]
 
-[def]: ../tos.md
+[def]: /tos/
