@@ -10,12 +10,13 @@ For commissions or art trades (when open)
 
 | **Client username** | **Style** | **Status** |
 | ---:| --- |:--- |
-| DocGyara | 4. Flat color | ▮▮▮▯ |
+|  |  |  |
 
 ## Finished (Last 10)
 
 | **Username** | **Delivered** | **Work** |
 | --- | --- | --- |
+| DocGyara | 2023-03-04 | Lapine and Mistress K |
 | Pacificside |  2023-02-26 | [Not-so-self selfie of Rhonde](https://twitter.com/TeiJuanArt/status/1630006549925036032) |
 | Katebytheocean | 2023-02-22 | [Pregnant Krystal \(StarFox\)](https://twitter.com/AKate155/status/1628544441442086914)  |
 | Darknido | 2023-02-18 |  Isabela, Sam and Rina |
@@ -25,7 +26,6 @@ For commissions or art trades (when open)
 | PacificSide | 2023-01-09 | [Kay's Rockin' Tum](https://www.furaffinity.net/view/50758615) |
 | Sasuke Lightning Cloud | 2022-12-04 | [I'll be a dad soon...](https://www.furaffinity.net/view/50085652/) |
 | RelionGarrouth<br>Derrysome<br>RacerXXDJ | 2022-11-30 | [YCH: PregINC's 5th Anniversary](https://www.furaffinity.net/view/50040313/) |
-| Pokebrickhero | 2022-11-11 | [Torrim and Kirenryu](https://www.furaffinity.net/view/49772282/) |
 
 See also: [Terms  of Service](/tos)  
 
