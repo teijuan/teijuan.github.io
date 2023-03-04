@@ -1,7 +1,7 @@
 ---
 layout: page
+title: "Requests"
 permalink: /requests/
-author: tei-juan
 ---
 
 [<u>Nope.</u>](../tos.md)
