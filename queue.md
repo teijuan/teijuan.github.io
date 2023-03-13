@@ -10,7 +10,7 @@ For commissions or art trades (when open)
 
 | **Client username** | **Style** | **Status** |
 | ---:| --- |:--- |
-| Lizardguy64 | 6. Full shaded | ▮▮▯▯ |
+| Lizardguy64 | 6. Full shaded | ▮▮▮▯ |
 
 ## Finished (Last 10)
 
