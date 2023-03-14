@@ -10,6 +10,7 @@ For commissions or art trades (when open)
 
 | **Client username** | **Style** | **Status** |
 | ---:| --- |:--- |
+|  |  |  |
 
 ## Finished (Last 10)
 
