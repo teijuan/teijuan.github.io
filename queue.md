@@ -16,7 +16,7 @@ For commissions or art trades (when open)
 
 | **Username** | **Delivered** | **Work** |
 | --- | --- | --- |
-| Lizardguy64 | 2023-03-14 | Brock and Larry |
+| Lizardguy64 | 2023-03-14 | [Me and my friend Lizardguy](https://www.furaffinity.net/view/51375263/)   |
 | DocGyara | 2023-03-04 | Lapine and Mistress K |
 | Pacificside | 2023-02-26 | [Not-so-self selfie of Rhonde](https://twitter.com/TeiJuanArt/status/1630006549925036032) |
 | Katebytheocean | 2023-02-22 | [Pregnant Krystal \(StarFox\)](https://twitter.com/AKate155/status/1628544441442086914) |
