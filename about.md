@@ -1,29 +1,31 @@
 ---
 layout: page
-title: Sobre nós
+title: Sobre mim
 permalink: /about/
 ---
 
-<span style="display:block;width:120px;margin:0px;margin-right:20px;padding:20px;float:left">![2023-02-08_design-tefra-studio-logo](/assets/img/2023-02-08_design-tefra-studio-logo.png)</span>
 
 
-**TEFRA Studio** é o nome de um projeto brasileiro independente fundado em junho de 2021 por João Marcelo "Tei-Juan".  
-Tanto o estúdio quando seu fundador são naturais da cidade de Barbacena, MG.  
 
-A proposta inicial do projeto é a de divulgar os trabalhos do artista Tei-Juan (fundador) com esse novo selo, para dar um aspecto mais comercial. Mas há ideias maiores que serão executadas, e ao longo do tempo, as as competências necessárias para a execução delas vão sendo adquiridas. Eis aqui algumas dessas ideias:  
-- Realizar grandes produções que demandem recursos e mão de obra em maior escala.
-- Comercializar patentes de personagens e franquias através de produtos físicos e digitais
+<span style="display:block;margin:0px;margin-right:20px;padding:0px;float:left">![](/assets/img/200_Joao5.png)</span>
+**Tei Juan** é o nome artístico de **João Marcelo Teixeira**, desenhista brasileiro de 21 anos nascido em Barbacena, MG.  
 
-Hoje, o projeto é sustentado por *Tei*, apoiado por seus amigos, parentes e fãs dos trabalhos do artista.
+<br><br><br>
+
 
 ## Conheça a Lydia
 
-O atual carro-chefe do estúdio é a mascote **Lydia**, a coelha dançarina de orelhas grandes e roupa *sport*.  
+
+
+**Lydia** é uma coelha dançarina de orelhas grandes e roupa *sport*.  
+
+Criei ela em 2018, e sua origem vem de uma tentativa falha de desenhar um outro personagem que também era um coelho, este de autoria desconhecida.  
+
 Charme e espontaneidade são marcas registradas dessa garota.
 
 ![2023-01-27_tei-lydia-superstyle](/assets/img/2023-01-27_tei-lydia-superstyle.jpg)
 
-Há uma variedade de outros personagens criados por *Tei* que serão apresentados assim que suas identidades e propósitos estiverem enfim determinados.  
+Há uma variedade de outros personagens criados por mim que serão apresentados assim que suas identidades e propósitos estiverem enfim determinados.  
 
 
 - - - - - - - - - - -

@@ -1,4 +1,4 @@
-title: TEFRA Studio
+title: Tei Juan
 author:
   name: tei-juan
   email: tei-juan@hotmail.com
@@ -6,7 +6,7 @@ author:
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
-  Projeto de estúdio criado por Tei-Juan.
+  Brazilian indie artist.
 
 # Build settings
 
@@ -29,11 +29,11 @@ minima:
   social_links:
   #   - { platform: devto,          user_url: "https://dev.to/jekyll" }
   #   - { platform: dribbble,       user_url: "https://dribbble.com/jekyll" }
-      - { platform: facebook,       user_url: "https://www.facebook.com/tefra.studio" }
+  #   - { platform: facebook,       user_url: "https://www.facebook.com/tefra.studio" }
   #   - { platform: flickr,         user_url: "https://www.flickr.com/photos/jekyll" }
   #   - { platform: github,         user_url: "https://github.com/jekyll/minima" }
   #   - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=qc6CJjYAAAAJ" }
-      - { platform: instagram,      user_url: "https://www.instagram.com/tefrastudio" }
+      - { platform: instagram,      user_url: "https://www.instagram.com/tei.juan" }
   #   - { platform: keybase,        user_url: "https://keybase.io/jekyll" }
   #   - { platform: linkedin,       user_url: "https://www.linkedin.com/in/jekyll" }
   #   - { platform: microdotblog,   user_url: "https://micro.blog/jekyll" }
@@ -41,7 +41,7 @@ minima:
   #   - { platform: stackoverflow,  user_url: "https://stackoverflow.com/users/1234567/jekyll" }
   #   - { platform: telegram,       user_url: "https://t.me/tefrastudio" }
       - { platform: twitter,        user_url: "https://twitter.com/teijuanart" }
-      - { platform: youtube,        user_url: "https://www.youtube.com/@tefrastudio" }
+      - { platform: youtube,        user_url: "https://www.youtube.com/@teijuan" }
   #   - { platform: furaffinity,    user_url: "https://www.furaffinity.net/user/teixeira-juan" }
 
 # If you want to link only specific pages in your header, uncomment this and add the path to the pages in
