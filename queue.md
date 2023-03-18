@@ -10,12 +10,13 @@ For commissions or art trades (when open)
 
 | **Client username** | **Style** | **Status** |
 | ---:| --- |:--- |
-| Roji-Panty-Complex | 4. Flat color | ▮▮▯▯ |
+|  |  |  |
 
 ## Finished (Last 10)
 
 | **Username** | **Delivered** | **Work** |
 | --- | --- | --- |
+| Roji-Panty-Complex | 2023-03-17 | Pregnant Judy Hopps Bot |
 | Lizardguy64 | 2023-03-14 | [Me and my friend Lizardguy](https://www.furaffinity.net/view/51375263/)   |
 | DocGyara | 2023-03-04 | Lapine and Mistress K |
 | Pacificside | 2023-02-26 | [Not-so-self selfie of Rhonde](https://twitter.com/TeiJuanArt/status/1630006549925036032) |
@@ -25,7 +26,6 @@ For commissions or art trades (when open)
 | Wildegems | 2023-01-19 | [Gems' Joy](https://www.furaffinity.net/view/50681644/) |
 | Vazco_DS | 2023-01-15 | [Kandi and Baker](https://www.furaffinity.net/view/50628977) |
 | PacificSide | 2023-01-09 | [Kay's Rockin' Tum](https://www.furaffinity.net/view/50758615) |
-| Sasuke Lightning Cloud | 2022-12-04 | [I'll be a dad soon...](https://www.furaffinity.net/view/50085652/) |
 
 See also: [Terms  of Service](/tos)  
 
