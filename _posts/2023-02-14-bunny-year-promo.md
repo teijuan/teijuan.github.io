@@ -20,5 +20,7 @@ Now every commission including **bunnies, rabbits or hares**, from a simple sktc
 * I can also turn a character into a bunny if you wish and if possible [\(Here's a sample where just Marielis is really a rabbit\)](https://www.furaffinity.net/view/46770770).
 * Valid 'till Jan 2024.
 
-<!-- and think they're such adorable creatures -->
+> **UPDATE:** Commissions including bunny girls will receive the promo discount as well.   
+> 2023-03-20  
 
+<!-- and think they're such adorable creatures -->
