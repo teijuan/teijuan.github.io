@@ -49,6 +49,8 @@ minima:
 #
 header_pages:
   - about.md
+  - tos.md  
+  - queue.md
   - contact.md
 
 # Set to `true` to show excerpts on the homepage.
