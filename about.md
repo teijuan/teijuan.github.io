@@ -4,9 +4,6 @@ title: Sobre mim
 permalink: /about/
 ---
 
-
-
-
 <span style="display:block;margin:0px;margin-right:20px;padding:0px;float:left">![](/assets/img/200_Joao5.png)</span>
 **Tei Juan** é o nome artístico de **João Marcelo Teixeira**, desenhista brasileiro de 21 anos nascido em Barbacena, MG.  
 

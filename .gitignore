@@ -25,4 +25,6 @@ _site
 .jekyll-metadata
 vendor
 
+*_nopush.*
+
 ~neutrinote*
