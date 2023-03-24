@@ -1,5 +1,5 @@
 ---
-title: "New page: Fanarts"
+title: "New page – Fanarts"
 layout: post
 categories: blog
 date: 2023-03-24 17:40:00 -0300
@@ -14,6 +14,3 @@ If you drew some of my characters and want your work appearing on the site, just
 
 > Note: I used to have one on my old site, but some thumbnails weren't appearing.
 Now this bug is past and every of them are showing correctly.
-
-
-
