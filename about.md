@@ -4,14 +4,20 @@ title: Sobre mim
 permalink: /about/
 ---
 
-<span style="display:block;margin:0px;margin-right:20px;padding:0px;float:left">![](/assets/img/200_Joao5.png)</span>
-**Tei Juan** é o nome artístico de **João Marcelo Teixeira**, desenhista brasileiro de 21 anos nascido em Barbacena, MG.  
+<span style="display:block;margin:0px;margin-right:20px;padding:0px;float:left">![](/assets/img/selfie_tei.png)</span>
+Sou **João Marcelo Teixeira**, desenhista brasileiro de 21 anos nascido em Barbacena, MG.  
+**Tei Juan** é o nome com o qual me apresento como ilustrador e animador, aqui no Brasil e no exterior.  
 
-<br><br><br>
+<br>
+<br>
+<br>
+<br>
 
+## Conheça a minha história
+
+`Em breve...`
 
 ## Conheça a Lydia
-
 
 
 **Lydia** é uma coelha dançarina de orelhas grandes e roupa *sport*.  
