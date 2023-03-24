@@ -2,7 +2,7 @@
 title: "New page – Fanarts"
 layout: post
 categories: blog
-date: 2023-03-24 17:40:00 -0300
+date: 2023-03-24 17:55:00 -0300
 author: tei-juan
 ---
 
