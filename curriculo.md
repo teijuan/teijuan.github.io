@@ -4,8 +4,7 @@ title: "João Marcelo Teixeira Francisco"
 permalink: /curriculo/
 ---
 
-
-<span style="display:block;margin:0px;margin-right:20px;padding:0px;float:left">![](/assets/img/selfie_tei.png)</span>
+<span style="display:block;margin:0px;margin-right:20px;padding:0px;float:left">![tei](/assets/img/selfie_tei.png)</span>
 
 ## Formação Básica
 
@@ -46,9 +45,6 @@ Configuração de DVRs e monitoramento, na primeira semana de fevereiro de 2020
 - Sistemas GNU/Linux
 - Web design
 
-
-
-
 # Contato
 
 **Endereço**:
@@ -67,11 +63,8 @@ bairro Caiçaras em Barbacena, MG.
 <!--
 ## Objetivo
 (Cargo que se deseja ocupar).
--->
 
-# <hr>
-
-<!--
 <sub>
 Currículo atualizado em 2023-03-26 às 21:59
 </sub>
+-->
