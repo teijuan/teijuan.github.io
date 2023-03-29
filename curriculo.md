@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "João Marcelo Teixeira Francisco"
-permalink: /cv/
+permalink: /curriculo/
 ---
 
 
