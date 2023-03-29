@@ -53,7 +53,6 @@ header_pages:
   - queue.md
   - fanarts.md
   - about.md
-  - curriculo.md
   - contact.md
 
 # Set to `true` to show excerpts on the homepage.
