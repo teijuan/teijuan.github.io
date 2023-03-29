@@ -1,8 +1,10 @@
 ---
 layout: page
-title: "João Marcelo Teixeira Francisco"
-permalink: /curriculo/
+title: "Curriculum"
+permalink: /cv/
 ---
+
+# João Marcelo Teixeira Francisco
 
 <span style="display:block;margin:0px;margin-right:20px;padding:0px;float:left">![tei](/assets/img/selfie_tei.png)</span>
 
