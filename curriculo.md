@@ -1,26 +1,24 @@
 ---
 layout: page
-title: "Curriculum"
+title: "João Marcelo Teixeira Francisco"
 permalink: /cv/
 ---
-
-# João Marcelo Teixeira Francisco
 
 <img src="/assets/img/20230402124302.jpg" style="display:block;margin:0px;margin-right:20px;border-radius:20px;width:100px;padding:0px;float:left"/>
 
 
 ## Formação Básica
 
-Ensino Médio completo.
+Ensino Médio (2º grau) completo.  
 
 ## Formação Técnica
 
 - **Pacote Adobe e Office** pela Compuway Formação Profissional, com carga horária de 133 horas, realizado em 2013 na cidade de São João Del-Rei:
 	- Planilhas (Excel)
-	- MS Word
-	- Photoshop
-	- Illustrator
-	- Vegas Pro 8.
+	- Documentos (Word)
+	- Edição de imagem
+	- Design
+	- Edição de vídeo
 
 - **Programação e Banco de Dados**. pela E.E. Governador Mílton Campos em São João Del-Rei, de junho de 2016 a dezembro de 2017:
 	- Formatação de computadores
@@ -40,10 +38,12 @@ Configuração de DVRs e monitoramento, na primeira semana de fevereiro de 2020
 **Recepcionista** de 02/02/2023 a 31/03/2023.
 
 ## Habilidades e competências
-- Arte digital
-- Sintaxe [Markdown](https://markdown.net.br)
-- Sistemas GNU/Linux
+
 - Web design
+- Sintaxe [Markdown](https://markdown.net.br)
+- Sistemas de rede local
+- Sistemas GNU/Linux
+- Arte digital.
 
 # Contato
 
@@ -58,7 +58,7 @@ bairro Caiçaras em Barbacena, MG.
 
 **E-mail**:  
 [tjoaomarcelo@yahoo.com.br](mailto:tjoaomarcelo@yahoo.com.br) – Pessoal  
-[tei-juan@hotmail.com](mailto:tei-juan@hotmail.com) – Profissional  
+[tei-juan@hotmail.com](mailto:tei-juan@hotmail.com) – Profissional artístico  
 
 <!--
 ## Objetivo
