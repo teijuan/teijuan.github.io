@@ -6,32 +6,30 @@ permalink: /cv/
 
 # João Marcelo Teixeira Francisco
 
-<span style="display:block;margin:0px;margin-right:20px;padding:0px;float:left">![tei](/assets/img/selfie_tei.png)</span>
+<img src="/assets/img/20230402124302.jpg" style="display:block;margin:0px;margin-right:20px;border-radius:20px;width:100px;padding:0px;float:left"/>
+
 
 ## Formação Básica
 
 Ensino Médio completo.
 
-## Formação Acadêmica
+## Formação Técnica
 
-- **Curso intermediário de Informática** pela Compuway Formação Profissional, com carga horária de 133 horas, realizado em 2013 na cidade de São João Del-Rei:
+- **Pacote Adobe e Office** pela Compuway Formação Profissional, com carga horária de 133 horas, realizado em 2013 na cidade de São João Del-Rei:
 	- Planilhas (Excel)
 	- MS Word
 	- Photoshop
 	- Illustrator
 	- Vegas Pro 8.
 
-- **Curso básico de TI**. pela E.E. Governador Mílton Campos em São João Del-Rei, de junho de 2016 a dezembro de 2017:
+- **Programação e Banco de Dados**. pela E.E. Governador Mílton Campos em São João Del-Rei, de junho de 2016 a dezembro de 2017:
 	- Formatação de computadores
 	- Linguagem C++ e PHP
 	- Banco de dados
 
-- **Curso de Assistente Administrativo** pelo Senac em Barbacena, com carga horária de 160 horas, de 13/10/2021 a 10/12/2021.
+- **Assistente Administrativo** pelo Senac em Barbacena, com carga horária de 160 horas, de 13/10/2021 a 10/12/2021.
 
 ## Experiência Profissional
-
-- **Rodrigo Despachante**  
-Lavador de carros, de setembro de 2016 a fevereiro de 2017.
 
 - **Radar Alarmes e Acessórios LTDA.**  
 Configuração de DVRs e monitoramento, na primeira semana de fevereiro de 2020  
