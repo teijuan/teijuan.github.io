@@ -6,7 +6,6 @@ permalink: /cv/
 
 <img src="/assets/img/20230402124302.jpg" style="display:block;margin:0px;margin-right:20px;border-radius:20px;width:100px;padding:0px;float:left"/>
 
-
 ## Formação Básica
 
 Ensino Médio (2º grau) completo.  
