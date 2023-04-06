@@ -12,6 +12,7 @@ permalink: /tos/
 > - [My specialities](#my-specialities)
 > - [Payment](#ways-of-payment)
 
+See also: [Waiting list](/queue)
 
 ## Prices and styles
 
@@ -60,6 +61,4 @@ Values may vary for:
 - Ko-Fi
 - Patreon
 
-See also: [Waiting list](/queue)
-
-> Doubts? [Contact me!](contact.md)
+> Doubts? [Contact me!](/contact)

@@ -6,11 +6,14 @@ permalink: /queue/
 
 For commissions or art trades (when open)
 
-**↓ In payment order**
+See also: [Terms  of Service](/tos)  
+
+**🠋 From latest to first paid**
 
 | **Client username** | **Style** | **Status** |
 | ---:| --- |:--- |
-| Might be you, |  it's just DM me on | Discord, [Twitter](https://www.twitter.com/TeiJuanArt), [Deviantart](https://www.deviantart.com/tei-juan) or [Furaffinity](https://www.furaffinity.net/user/teixeira-juan/) |
+| Seth-Gatomia | 4. Flat color | ▯▯▯▯ |
+| Roji-Panty-Complex | 4. Flat color | ▯▯▯▯ |
 
 ## Finished (Last 10)
 
@@ -27,6 +30,4 @@ For commissions or art trades (when open)
 | Wildegems | 2023-01-19 | [Gems' Joy](https://www.furaffinity.net/view/50681644/) |
 | Vazco_DS | 2023-01-15 | [Kandi and Baker](https://www.furaffinity.net/view/50628977) |
 
-See also: [Terms  of Service](/tos)  
-
-> Doubts? [Contact me!](contact.md)
+> Doubts? [Contact me!](/contact)
