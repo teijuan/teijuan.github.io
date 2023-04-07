@@ -8,12 +8,13 @@ For commissions or art trades (when open)
 
 See also: [Terms  of Service](/tos)  
 
-**🠋 From latest to first paid**
+**⬇️ From latest to first paid**
 
-| **Client username** | **Style** | **Status** |
-| ---:| --- |:--- |
-| Seth-Gatomia | 4. Flat color | ▯▯▯▯ |
-| Roji-Panty-Complex | 4. Flat color | ▯▯▯▯ |
+| ° | **Client username** | **Style** | **Status** |
+| --- | --- | --- | --- |
+| 3. | Darknido | 4. Flat color | ▯▯▯▯ |
+| 2. | Seth-Gatomia | 4. Flat color | ▯▯▯▯ |
+| 1. | Roji-Panty-Complex | 4. Flat color | ▯▯▯▯|
 
 ## Finished (Last 10)
 
