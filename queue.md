@@ -14,7 +14,7 @@ See also: [Terms  of Service](/tos)
 | --- | --- | --- | --- |
 | 3. | Darknido | 4. Flat color | ▯▯▯▯ |
 | 2. | Seth-Gatomia | 4. Flat color | ▯▯▯▯ |
-| 1. | Roji-Panty-Complex | 4. Flat color | ▮▮▯▯|
+| 1. | Roji-Panty-Complex | 4. Flat color | ▮▮▮▯ |
 
 ## Finished (Last 10)
 
