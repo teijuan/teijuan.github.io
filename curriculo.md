@@ -1,10 +1,21 @@
 ---
-layout: page
+layout: clean
 title: "João Marcelo Teixeira Francisco"
 permalink: /cv/
 ---
 
-<img src="/assets/img/20230402124302.jpg" style="display:block;margin:0px;margin-right:20px;border-radius:20px;width:100px;padding:0px;float:left"/>
+<table style="border-style: hidden; padding:0px">
+<tr>
+	<td>
+	<img src="/assets/img/20230402124302.jpg" style="display:block;float:left;padding:0px;margin:0px;border-radius:20px;height:180px"/>
+	</td>
+	<td style="border-style: hidden;">
+	<h1>{{ page.title | escape }}</h1>
+	21 anos, brasileiro, solteiro
+	<br>Nascido e residente em Barbacena, MG.
+	</td>
+</tr>
+</table>
 
 ## Formação Básica
 
