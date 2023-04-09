@@ -50,7 +50,6 @@ Configuração de DVRs e monitoramento, na primeira semana de fevereiro de 2020
 ## Habilidades e competências
 
 - Web design
-- Sintaxe [Markdown](https://markdown.net.br)
 - Sistemas de rede local
 - Sistemas GNU/Linux
 - Arte digital.

@@ -12,6 +12,7 @@ See also: [Terms  of Service](/tos)
 
 | ° | **Client username** | **Style** | **Status** |
 | --- | --- | --- | --- |
+| 3. | Katebytheocean | 4. Flat color | ▯▯▯▯ |
 | 2. | Darknido | 4. Flat color | ▯▯▯▯ |
 | 1. | Seth-Gatomia | 4. Flat color | ▯▯▯▯ |
 
