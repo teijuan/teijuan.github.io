@@ -1,20 +1,16 @@
 ---
 layout: page
-title: "Waiting list"
+title: "Waiting list: Pending commissions or trades"
 permalink: /queue/
 ---
 
-Pending commissions or art trades (when open)
-
 See also: [Terms  of Service](/tos)  
-
-**⬇️ From latest to first paid**
 
 | ° | **Client username** | **Style** | **Status** |
 | --- | --- | --- | --- |
 | 3. | Katebytheocean | 4. Flat color | ▯▯▯▯ |
 | 2. | Darknido | 4. Flat color | ▯▯▯▯ |
-| 1. | Seth-Gatomia | 4. Flat color | ▮▯▯▯ |
+| 1. | Seth-Gatomia | 4. Flat color | ▮▮▯▯ |
 
 ## Finished (Last 10)
 
@@ -31,4 +27,5 @@ See also: [Terms  of Service](/tos)
 | Z3lda123 | 2023-01-24 | [Bunty and Manjula](https://www.deviantart.com/tei-juan/art/CM-Bunty-and-Manjula-948206754) |
 | Wildegems | 2023-01-19 | [Gems' Joy](https://www.furaffinity.net/view/50681644/) |
 
+Updates every 12 hours.  
 > Doubts? [Contact me!](/contact)
