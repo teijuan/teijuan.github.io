@@ -1,8 +1,8 @@
 ---
 #TMPL20231204100043
 layout: artwork
-title: "Extra module for the Prototype"
 categories: Artwork
+title: "Extra module for the Prototype"
 date: 2023-03-18
 author: tei-juan
 summary: "Commission of Judy Hopps robot for ~roji-panty-complex"
@@ -13,7 +13,7 @@ lnda: https://www.deviantart.com/tei-juan/art/Extra-module-for-the-prototype-954
 lnfa: https://www.furaffinity.net/view/51420855/
 lntt: https://twitter.com/TeiJuanArt/status/1637124684100640768
 
-tags: zootopia 
+tags: zootopia pregnant
 ---
 
 More than slip n' sliding with rollers, this cute bun bot mastered some extra skill.

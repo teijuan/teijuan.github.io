@@ -3,7 +3,7 @@
 layout: artwork
 categories: Artwork
 title: "Inarel"
-date: 2022-07-17
+date: 2022-07-23
 author: tei-juan
 summary: "Commission for Seth-Gatomia on Discord."
 source: https://d.furaffinity.net/art/teixeira-juan/1681174519/1658624571.teixeira-juan_2022-07-17_comm-sethgatomia-inarel-druid-alt.png
