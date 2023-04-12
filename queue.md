@@ -1,8 +1,10 @@
 ---
 layout: page
-title: "Waiting list: Pending commissions or trades"
+title: "Waiting list"
 permalink: /queue/
 ---
+
+Pending commissions or trades
 
 See also: [Terms  of Service](/tos)  
 
