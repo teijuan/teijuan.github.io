@@ -9,6 +9,7 @@ layout: base
 
   {{ content }}
 
+  <h1>Posts:</h1>
 
   {% if site.paginate %}
     {% assign posts = paginator.posts %}
@@ -25,7 +26,7 @@ layout: base
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
       {%- for post in posts -%}
       <li>
-        <span class="post-meta">{{ post.date | date: date_format }}</span>
+        <span class="post-meta">{{ post.date | date: date_format }} • {{ post.categories }}</span>
         <h3>
           <a class="post-link" href="{{ post.url | relative_url }}">
             {{ post.title | escape }}
@@ -57,5 +58,17 @@ layout: base
     {%- endif %}
 
   {%- endif -%}
+
+  <hr>
+  <h1>Tags:</h1>
+  {% for tag in site.tags %}  
+  <h3>#{{ tag[0] }}</h3>
+  <p>
+    {% for post in tag[1] %}
+      <code>{{ post.categories }}</code> <a href="{{ post.url }}">{{ post.title }}</a>
+      <br>
+    {% endfor %}
+  </p>
+{% endfor %}
 
 </div>

@@ -6,7 +6,7 @@ layout: base
   <header class="post-header">
     <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
     <p class="post-meta">
-      {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y %H:%m" -%}
+      {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
       <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
         {{ page.date | date: date_format }}
       </time>
@@ -23,8 +23,18 @@ layout: base
             <span class="p-author h-card" itemprop="name">Artwork by {{ author }}</span></span>
             {%- if forloop.last == false %}, {% endif -%}
         {% endfor %}
-      {%- endif -%}</p>
-  </header>
+      {%- endif -%}
+    </p>
+    {%- if page.tags -%}
+    
+    <!--
+  <span>
+    <code>{{ page.tags }}</code>
+  </span>
+  {% endif %}
+</header>
+-->
+
 
   <div class="post-content e-content" itemprop="articleBody">
   {%- if page.summary -%}  
@@ -33,13 +43,14 @@ layout: base
   </span>
   {%- endif -%}
   <br>
-  {%- if page.fa -%}<button><a href="{{ page.fa }}">Furaffinity</a></button>{%- endif -%}
-  {%- if page.da -%}<button><a href="{{ page.da }}">Deviantart</a></button>{%- endif -%}
-  {%- if page.tt -%}<button><a href="{{ page.tt }}">Twitter</a></button>{%- endif -%}
-  {%- if page.ig -%}<button><a href="{{ page.ig }}">Instagram</a></button>{%- endif -%}
-  {%- if page.it -%}<button><a href="{{ page.it }}">Itaku</a></button>{%- endif -%}
-  {%- if page.fb -%}<button><a href="{{ page.fb }}">Facebook</a></button>{%- endif -%}
-  {%- if page.ib -%}<button><a href="{{ page.ib }}">Inkbunny</a></button>{%- endif -%}
+  <br>
+  {%- if page.lnfa -%}<button><a href="{{ page.lnfa }}">Furaffinity</a></button>{%- endif -%}
+  {%- if page.lnda -%}<button><a href="{{ page.lnda }}">Deviantart</a></button>{%- endif -%}
+  {%- if page.lntt -%}<button><a href="{{ page.lntt }}">Twitter</a></button>{%- endif -%}
+  {%- if page.lnig -%}<button><a href="{{ page.lnig }}">Instagram</a></button>{%- endif -%}
+  {%- if page.lnit -%}<button><a href="{{ page.lnit }}">Itaku</a></button>{%- endif -%}
+  {%- if page.lnfb -%}<button><a href="{{ page.lnfb }}">Facebook</a></button>{%- endif -%}
+  {%- if page.lnib -%}<button><a href="{{ page.lnib }}">Inkbunny</a></button>{%- endif -%}
   <br>
 
 <!--  
