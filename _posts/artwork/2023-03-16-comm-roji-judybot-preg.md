@@ -5,7 +5,7 @@ categories: Artwork
 title: "Extra module for the Prototype"
 date: 2023-03-18
 author: tei-juan
-summary: "Commission of Judy Hopps robot for ~roji-panty-complex"
+excerpt: "Commission for roji-panty-complex"
 source: https://d.furaffinity.net/art/teixeira-juan/1679165412/1679155680.teixeira-juan_export1679165234066.jpg
 
 ## Links ##

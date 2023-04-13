@@ -4,6 +4,7 @@ layout: post
 categories: Blog
 date: 2023-02-14 07:04:00 -0300
 author: tei-juan
+excerpt: "Bunnies, rabbits or hares, 50% OFF this year"
 tags:
 - promo
 - bunny

@@ -19,6 +19,8 @@ plugins:
 # Theme-specific settings
 
 minima:
+  skin: solarized
+
   # Minima date format.
   # Refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this.
   #
@@ -58,4 +60,5 @@ header_pages:
 
 # Set to `true` to show excerpts on the homepage.
 #
-show_excerpts: false
+show_excerpts: true
+pagination: true
