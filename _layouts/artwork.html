@@ -25,9 +25,10 @@ layout: base
         {% endfor %}
       {%- endif -%}
     </p>
+
+<!--
     {%- if page.tags -%}
     
-    <!--
   <span>
     <code>{{ page.tags }}</code>
   </span>
@@ -37,9 +38,9 @@ layout: base
 
 
   <div class="post-content e-content" itemprop="articleBody">
-  {%- if page.summary -%}  
+  {%- if page.excerpt -%}  
   <span>
-    {{ page.summary }}
+    {{ page.excerpt }}
   </span>
   {%- endif -%}
   <br>
