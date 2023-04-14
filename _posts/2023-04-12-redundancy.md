@@ -4,7 +4,7 @@ title: "Sorry for the redundancy"
 excerpt: "If you're already following the feed..."
 author: tei-juan
 layout: post
-categories: blog
+category: blog
 date: 2023-04-13 10:31:20 -0300
 ---
 

@@ -1,7 +1,7 @@
 ---
 #TMPL20231204100043
 layout: artwork
-categories: Artwork
+category: Artwork
 title: "Extra module for the Prototype"
 date: 2023-03-18
 author: tei-juan

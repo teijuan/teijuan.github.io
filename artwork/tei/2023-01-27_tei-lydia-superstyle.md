@@ -1,7 +1,7 @@
 ---
 layout: artwork
 title: "SUPERSTYLIN'"
-categories: comm
+category: comm
 author: tei-juan
 date: 2023-03-09 08:00:00 -0300
 excerpt: "Trying dynamic poses on Lydia"

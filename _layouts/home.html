@@ -8,37 +8,63 @@ layout: base
   {%- endif -%}
 
   {{ content }}
-
-  <h1>Posts:</h1>
-
+  
   {% if site.paginate %}
-    {% assign posts = paginator.posts %}
+  {% assign posts = paginator.posts %}
   {% else %}
-    {% assign posts = site.posts %}
-    {% endif %}
-
-
+  {% assign posts = site.posts %}
+  {% endif %}
+  
+  
   {%- if posts.size > 0 -%}
-    {%- if page.list_title -%}
-      <h2 class="post-list-heading">{{ page.list_title }}</h2>
-    {%- endif -%}
-    <ul class="post-list">
+  {% if page.list_title %}
+  <h2 class="post-list-heading">{{ page.list_title }}</h2>
+  {%- endif -%}
+  <ul class="post-list">
+    <h2>Artworks:</h2>
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
       {%- for post in posts -%}
-      <li>
-        <span class="post-meta">{{ post.date | date: date_format }} • {{ post.categories }}</span>
-        <h3>
-          <a class="post-link" href="{{ post.url | relative_url }}">
-            {{ post.title | escape }}
-          </a>
-        </h3>
-        {%- if site.show_excerpts -%}
+      {%- if post.category == "Artwork" -%}
+        <li>
+          <span class="post-meta">{{ post.date | date: date_format }} • {{ post.categories }}</span>
+          <h3>
+            <a class="post-link" href="{{ post.url | relative_url }}">
+              {{ post.title | escape }}
+            </a>
+          </h3>
+          {%- if site.show_excerpts -%}
           {{ post.excerpt }}
+          {%- endif -%}
+        </li>
         {%- endif -%}
-      </li>
       {%- endfor -%}
+
     </ul>
 
+    <hr>
+    
+    <ul class="post-list">
+      <h2>Blog</h2>
+      {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+      {%- for post in posts -%}
+      {%- if post.category == "Blog" -%}
+        <li>
+          <span class="post-meta">{{ post.date | date: date_format }} • {{ post.categories }}</span>
+          <h3>
+            <a class="post-link" href="{{ post.url | relative_url }}">
+              {{ post.title | escape }}
+            </a>
+          </h3>
+          {%- if site.show_excerpts -%}
+          {{ post.excerpt }}
+          {%- endif -%}
+        </li>
+        {%- endif -%}
+      {%- endfor -%}
+
+    </ul>
+    <!-- post.category == "Blog" and-->
+    
     {% if site.paginate %}
       <div class="pager">
         <ul class="pagination">
@@ -59,7 +85,9 @@ layout: base
 
   {%- endif -%}
 
-  <hr>
+  <br><hr>
+
+  <div style="style="width: 50%; float: right">
   <h1>Tags:</h1>
   {% for tag in site.tags %}  
   <h3>#{{ tag[0] }}</h3>
@@ -70,5 +98,7 @@ layout: base
     {% endfor %}
   </p>
 {% endfor %}
+
+</div>
 
 </div>

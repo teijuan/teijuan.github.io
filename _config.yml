@@ -51,7 +51,7 @@ minima:
 # order as they should show up.
 #
 header_pages:
-  - artworks.md
+#  - artworks.md
   - tos.md  
   - queue.md
   - fanarts.md

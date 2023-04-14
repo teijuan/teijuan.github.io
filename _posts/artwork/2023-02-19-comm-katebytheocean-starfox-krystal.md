@@ -1,12 +1,12 @@
 ---
 #TMPL20231204100043
 layout: artwork
-categories: Artwork
+category: Artwork
 title: "New suit, same ol' Star For"
 date: 2023-02-22
 author: tei-juan
 excerpt: "Commission for AlphaKate951"
-source: https://d.furaffinity.net/art/teixeira-juan/1677110724/1677110724.teixeira-juan_2023-02-19_comm-katebytheocean-starfox-krystal.jpg
+source: 4
 
 ## Links ##
 lnda: https://www.deviantart.com/tei-juan/art/New-Suit-Same-ol-Star-Fox-950732376

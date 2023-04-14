@@ -1,7 +1,7 @@
 ---
 #TMPL20231204100043
 layout: artwork
-categories: Artwork
+category: Artwork
 title: "Inarel"
 date: 2022-07-23
 author: tei-juan
