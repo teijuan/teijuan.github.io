@@ -5,7 +5,7 @@ permalink: /cv/
 ---
 
 
-<span style="display:block;margin:0px;margin-right:30px;padding:0px;width:150px;float:left">![](/assets/img/20230402124302.jpg)</span>
+<span style="display:block;margin:0px;margin-right:30px;padding:0px;width:150px;float:left">![](/assets/img/1680703123481.png)</span>
 
 
 <h2>{{ page.title | escape }}</h2>

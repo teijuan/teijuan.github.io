@@ -14,7 +14,7 @@ templates
 .obsidian
 .trash
 
-## VSCode / VSCodium studio
+## VSCode
 *.code-workspace
 
 ## Demais
