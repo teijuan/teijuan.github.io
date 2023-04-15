@@ -1,10 +1,11 @@
 // Placeholder to allow defining custom styles that override everything else.
 // (Use `_sass/minima/custom-variables.scss` to override variable defaults)
 
-.artwork-thumbnail{ //Layout da página da artwork
+.artwork-thumbnail{ //Layout da thumbnail da artwork
 // // display: none;
 // width: 50%;
 // float: left;
-margin-top: 20px;
-margin-bottom: 20px;
+margin: 5px;
+padding: 0px;
+heigth: 200px;
 }
