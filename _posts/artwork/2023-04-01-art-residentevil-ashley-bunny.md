@@ -10,9 +10,9 @@ source: https://d.furaffinity.net/art/teixeira-juan/1680827131/1680827131.teixei
 thumbnail: https://t.furaffinity.net/51674255@200-1680827131.jpg
 
 ## Links ##
-lnda: 
-lnfa: 
-lntt: 
+lnda: https://www.deviantart.com/tei-juan/art/Ashlop-956937902
+lnfa: https://www.furaffinity.net/view/51674255/
+lntt: https://twitter.com/TeiJuanArt/status/1644136657028018177
 lnfb: 
 lnig: 
 lnit: 
