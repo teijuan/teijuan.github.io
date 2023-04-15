@@ -1,18 +1,24 @@
 ---
+#TMPL20230004
 layout: artwork
-title: "SUPERSTYLIN'"
-category: comm
+category: Artwork
+title: "SUPERSTYLIN"
+date: 2023-03-09
 author: tei-juan
-date: 2023-03-09 08:00:00 -0300
 excerpt: "Trying dynamic poses on Lydia"
 source: https://d.furaffinity.net/art/teixeira-juan/1678356548/1678356548.teixeira-juan_2023-01-27_tei-lydia-superstyle.jpg
+thumbnail: 
 
 ## Links ##
-da: https://www.deviantart.com/tei-juan/art/SUPERSTYLIN-952828544 /
-fa: https://www.furaffinity.net/view/51303623/ 
-tt: https://twitter.com/TeiJuanArt/status/1633775108396396545/
+lnda: https://www.deviantart.com/tei-juan/art/SUPERSTYLIN-952828544 /
+lnfa: https://www.furaffinity.net/view/51303623/ 
+lntt: https://twitter.com/TeiJuanArt/status/1633775108396396545/
+lnfb: 
+lnig: 
+lnit: 
+lnib: 
 
-tags: lydia bunny dancer dj 
+tags: lydia bunny
 ---
 
 Was sketching some dynamic and exaggerated poses, and thought Lydia would look fancy performing one of them.
