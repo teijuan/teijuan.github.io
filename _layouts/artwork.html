@@ -1,6 +1,13 @@
 ---
 layout: base
 ---
+
+{% if post.thumbnail %}
+  <meta property="og:image" content="{{ post.thumbnail }}">
+{% else %}
+  <meta property="og:image" content="/assets/img/assinatura-branca.png">
+{% endif %}
+
 <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 
   <header class="post-header">

@@ -8,6 +8,10 @@
 margin: 5px;
 padding: 0px;
 height: 200px;
+
+&:hover{
+border: 4px white double;
+}
 }
 
 .artwork-img{
