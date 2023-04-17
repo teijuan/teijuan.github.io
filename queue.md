@@ -22,7 +22,6 @@ See also: [Terms  of Service](/tos)
 | Roji-Panty-Complex | 2023-04-08 | Pearl from Splatoon Pregnant |
 | Roji-Panty-Complex | 2023-03-22 | [Littles a little more electric](https://twitter.com/TeiJuanArt/status/1639724763378774016) |
 | Roji-Panty-Complex | 2023-03-17 | [Extra module for the prototype](https://twitter.com/TeiJuanArt/status/1637124684100640768) |
-| Lizardguy64 | 2023-03-14 | [Me and my friend Lizardguy](https://www.furaffinity.net/view/51375263/)   |
 | Lizardguy64 | 2023-03-14 | [Me and my friend Lizardguy](https://www.furaffinity.net/view/51375263/) |
 | DocGyara | 2023-03-04 | Lapine and Mistress K |
 | Pacificside | 2023-02-26 | [Not-so-self selfie of Rhonde](https://twitter.com/TeiJuanArt/status/1630006549925036032) |
