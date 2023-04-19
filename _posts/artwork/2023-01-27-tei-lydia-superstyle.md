@@ -6,11 +6,10 @@ title: "SUPERSTYLIN"
 date: 2023-03-09
 author: tei-juan
 excerpt: "Trying dynamic poses on Lydia"
-source: https://d.furaffinity.net/art/teixeira-juan/1678356548/1678356548.teixeira-juan_2023-01-27_tei-lydia-superstyle.jpg
-thumbnail: 
+source: /assets/img/2023-01-27_tei-lydia-superstyle.jpg
 
 ## Links ##
-lnda: https://www.deviantart.com/tei-juan/art/SUPERSTYLIN-952828544 /
+lnda: https://www.deviantart.com/tei-juan/art/SUPERSTYLIN-952828544/
 lnfa: https://www.furaffinity.net/view/51303623/ 
 lntt: https://twitter.com/TeiJuanArt/status/1633775108396396545/
 lnfb: 

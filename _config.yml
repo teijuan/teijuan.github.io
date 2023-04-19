@@ -52,7 +52,8 @@ minima:
 #
 header_pages:
 #  - artworks.md
-  - tos.md  
+#  - gallery.md  
+  - tos.md
   - queue.md
   - fanarts.md
   - about.md
