@@ -12,7 +12,7 @@ See also: [Terms  of Service](/tos)
 | --- | --- | --- | --- |
 | 3. | Mattfolfsky | 1. Sketch | ▯▯▯▯ |
 | 2. | Katebytheocean | 4. Flat color | ▮▯▯▯ |
-| 1. | Darknido | 4. Flat color | ▮▯▯▯ |
+| 1. | Darknido | 4. Flat color | ▮▮▯▯ |
 
 ## Finished (Last 10)
 
