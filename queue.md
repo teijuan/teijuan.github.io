@@ -10,14 +10,14 @@ See also: [Terms  of Service](/tos)
 
 | ° | **Client username** | **Style** | **Status** |
 | --- | --- | --- | --- |
-| 3. | Mattfolfsky | 1. Sketch | ▯▯▯▯ |
-| 2. | Katebytheocean | 4. Flat color | ▮▯▯▯ |
-| 1. | Darknido | 4. Flat color | ▮▮▮▯ |
+| 2. | Mattfolfsky | 1. Sketch | ▯▯▯▯ |
+| 1. | Katebytheocean | 4. Flat color | ▮▯▯▯ |
 
 ## Finished (Last 10)
 
 | **Username** | **Delivered** | **Work** |
 | --- | --- | --- |
+| Darknido | 2023-04-26 | Gemma, Echo and Rina |
 | Seth-Gatomia | 2023-04-17 | Vtube avatar Inarel |
 | Roji-Panty-Complex | 2023-04-08 | [Pearl from Splatoon Pregnant](https://twitter.com/TeiJuanArt/status/1647774396482834433) |
 | Roji-Panty-Complex | 2023-03-22 | [Littles a little more electric](https://twitter.com/TeiJuanArt/status/1639724763378774016) |
@@ -27,7 +27,6 @@ See also: [Terms  of Service](/tos)
 | Pacificside | 2023-02-26 | [Not-so-self selfie of Rhonde](https://twitter.com/TeiJuanArt/status/1630006549925036032) |
 | Katebytheocean | 2023-02-22 | [Pregnant Krystal \(StarFox\)](https://twitter.com/AKate155/status/1628544441442086914) |
 | Darknido | 2023-02-18 | Isabela, Sam and Rina |
-| Z3lda123 | 2023-01-24 | [Bunty and Manjula](https://www.deviantart.com/tei-juan/art/CM-Bunty-and-Manjula-948206754) |
 
 Updates every 12 hours.  
 > Doubts? [Contact me!](/contact)
