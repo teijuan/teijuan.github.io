@@ -1,14 +1,15 @@
+## Git
+.*
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
+
 ## Syncthing
 .stfolder
 .stignore
 .stignorerules
-
-## Somente repo local
-_nosync
-_nopush
-_drafts
-_templates
-templates
 
 ## Obsidian
 .obsidian
@@ -18,13 +19,5 @@ templates
 *.code-workspace
 
 ## Demais
-.*
-_site
-.sass-cache
-.jekyll-cache
-.jekyll-metadata
-vendor
-
-*_nopush.*
-
+_nopush
 ~neutrinote*
