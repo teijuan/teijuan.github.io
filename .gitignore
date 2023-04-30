@@ -6,14 +6,13 @@ _site
 .jekyll-metadata
 vendor
 
-## Syncthing
+## Ferramentas locais
+.obsidian
+.trash
 .stfolder
 .stignore
 .stignorerules
-
-## Obsidian
-.obsidian
-.trash
+.stversions
 
 ## VSCode
 *.code-workspace

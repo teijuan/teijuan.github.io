@@ -6,8 +6,7 @@ title: "Ashlop"
 date: 2023-04-06
 author: tei-juan
 excerpt: "Take this nasty thing away from me!"
-source: https://d.furaffinity.net/art/teixeira-juan/1680827131/1680827131.teixeira-juan_2023-04-01_art-residentevil-ashley-bunny.jpg
-thumbnail: https://t.furaffinity.net/51674255@200-1680827131.jpg
+source: /assets/img/a/2023-04-01-art-residentevil-ashley-bunny.jpg
 
 ## Links ##
 lnda: https://www.deviantart.com/tei-juan/art/Ashlop-956937902

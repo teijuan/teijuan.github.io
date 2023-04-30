@@ -6,8 +6,7 @@ title: "Extra module for the Prototype"
 date: 2023-03-18
 author: tei-juan
 excerpt: "Commission for roji-panty-complex"
-source: https://d.furaffinity.net/art/teixeira-juan/1679165412/1679155680.teixeira-juan_export1679165234066.jpg
-thumbnail: https://t.furaffinity.net/51420855@200-1679165412.jpg
+source: /assets/img/a/2023-03-16-comm-roji-judybot-preg.jpg
 
 ## Links ##
 lnda: https://www.deviantart.com/tei-juan/art/Extra-module-for-the-prototype-954148240

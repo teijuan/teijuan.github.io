@@ -11,7 +11,7 @@ See also: [Terms  of Service](/tos)
 | ° | **Client username** | **Style** | **Status** |
 | --- | --- | --- | --- |
 | 2. | Mattfolfsky | 1. Sketch | ▯▯▯▯ |
-| 1. | Katebytheocean | 4. Flat color | ▮▮▯▯ |
+| 1. | Katebytheocean | 4. Flat color | ▮▮▮▯ |
 
 ## Finished (Last 10)
 

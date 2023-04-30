@@ -17,25 +17,27 @@ layout: base
   
   
   {%- if posts.size > 0 -%}
-  {% if page.list_title %}
+  {% if page.list_title and page.source %}
   <h2 class="post-list-heading">{{ page.list_title }}</h2>
   {%- endif -%}
-    <h2>Gallery:</h2>
+  <h2>Gallery:</h2>
+      <div class="artwork-list">
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
       {%- for post in posts -%}
-      {%- if post.category == "Artwork" -%}
-          <a class="artwork-link" href="{{ post.url | relative_url }}">
-            {%- if post.source -%}
-            <img class="artwork-thumbnail" src="https://images.weserv.nl/?url={{ site.url | replace: 'http://','' | replace: 'https://','' }}{{ post.source post.titlew=300&h=300&output=jpg&q=50&t=square" alt="{{ filename }}" title="{{ filename }}" alt="Not found" title="{{ filename }}" />
-            <br>
-            <span>{{ post.title }}</span>
-            <span></span>
-           </a>
-          {%- endif -%}
+        {%- if post.category == "Artwork" and post.source -%}
+        <div class="artwork-thumbnail">
+          <p class="title-post">{{ post.title }}</p>
+          <a href="{{ post.url | relative_url }}">
+            <img src="{{ post.source post.title }}" alt="{{ filename }}" title="{{ filename }}" alt="Not found" title="{{ filename }}" />
+            <!--
+              <img class="artwork-thumbnail" src="https://images.weserv.nl/?url={{ site.url | replace: 'http://','' | replace: 'https://','' }}{{ post.source post.title w=300&h=300&output=jpg&q=50&t=square" alt="{{ filename }}" title="{{ filename }}" alt="Not found" title="{{ filename }}" />
+            -->
+        </a>  
+        </div>
         {%- endif -%}
       {%- endfor -%}
+      </div>
     <hr>
-    
     <ul class="post-list">
       <h2>Blog</h2>
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
