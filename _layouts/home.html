@@ -28,9 +28,9 @@ layout: base
         <div class="artwork-thumbnail">
           <p class="title-post">{{ post.title }}</p>
           <a href="{{ post.url | relative_url }}">
-            <img src="{{ post.source post.title }}" alt="{{ filename }}" title="{{ filename }}" alt="Not found" title="{{ filename }}" />
+            <img class="artwork-thumbnail" src="https://images.weserv.nl/?url={{ site.url | replace: 'http://','' | replace: 'https://','' }}{{ post.source post.title w=300&h=300&output=jpg&q=50&t=square" alt="{{ filename }}" title="{{ filename }}" alt="Not found" title="{{ filename }}" />
             <!--
-              <img class="artwork-thumbnail" src="https://images.weserv.nl/?url={{ site.url | replace: 'http://','' | replace: 'https://','' }}{{ post.source post.title w=300&h=300&output=jpg&q=50&t=square" alt="{{ filename }}" title="{{ filename }}" alt="Not found" title="{{ filename }}" />
+              <img src="{{ post.source post.title }}" alt="{{ filename }}" title="{{ filename }}" alt="Not found" title="{{ filename }}" />
             -->
         </a>  
         </div>
