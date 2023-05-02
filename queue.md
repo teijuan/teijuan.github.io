@@ -10,13 +10,13 @@ See also: [Terms  of Service](/tos)
 
 | ° | **Client username** | **Style** | **Status** |
 | --- | --- | --- | --- |
-| 2. | Mattfolfsky | 1. Sketch | ▯▯▯▯ |
-| 1. | Katebytheocean | 4. Flat color | ▮▮▮▮ |
+| 1. | Mattfolfsky | 1. Sketch | ▯▯▯▯ |
 
 ## Finished (Last 10)
 
 | **Username** | **Delivered** | **Work** |
 | --- | --- | --- |
+| Katebytheocean | 2023-05-02 | Pregnant Krystal \(StarFox\) |
 | Darknido | 2023-04-26 | Gemma, Echo and Rina |
 | Seth-Gatomia | 2023-04-17 | Vtube avatar Inarel |
 | Roji-Panty-Complex | 2023-04-08 | [Pearl from Splatoon Pregnant](https://twitter.com/TeiJuanArt/status/1647774396482834433) |
@@ -26,7 +26,6 @@ See also: [Terms  of Service](/tos)
 | DocGyara | 2023-03-04 | Lapine and Mistress K |
 | Pacificside | 2023-02-26 | [Not-so-self selfie of Rhonde](https://twitter.com/TeiJuanArt/status/1630006549925036032) |
 | Katebytheocean | 2023-02-22 | [Pregnant Krystal \(StarFox\)](https://twitter.com/AKate155/status/1628544441442086914) |
-| Darknido | 2023-02-18 | Isabela, Sam and Rina |
 
 Updates every 12 hours.  
 > Doubts? [Contact me!](/contact)
