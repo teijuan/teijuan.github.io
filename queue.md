@@ -10,13 +10,13 @@ See also: [Terms  of Service](/tos)
 
 | ° | **Client username** | **Style** | **Status** |
 | --- | --- | --- | --- |
-| 1. | Mattfolfsky | 1. Sketch | ▯▯▯▯ |
+| 1. | Mattfolfsky | 1. Sketch | ▮▮▯▯ |
 
 ## Finished (Last 10)
 
 | **Username** | **Delivered** | **Work** |
 | --- | --- | --- |
-| Katebytheocean | 2023-05-02 | Pregnant Krystal \(StarFox\) |
+| Katebytheocean | 2023-05-02 | [Pregnant Krystal \(StarFox\)](https://twitter.com/AKate155/status/1653542378043523072) |
 | Darknido | 2023-04-26 | Gemma, Echo and Rina |
 | Seth-Gatomia | 2023-04-17 | Vtube avatar Inarel |
 | Roji-Panty-Complex | 2023-04-08 | [Pearl from Splatoon Pregnant](https://twitter.com/TeiJuanArt/status/1647774396482834433) |
