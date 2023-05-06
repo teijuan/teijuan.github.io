@@ -10,8 +10,8 @@ See also: [Terms  of Service](/tos)
 
 | ° | **Client username** | **Style** | **Status** |
 | --- | --- | --- | --- |
-| 2. | Darknido | 4. Flat color | ▯▯▯▯ |
-| 1. | Mattfolfsky | 1. Sketch | ▮▮▯▯ |
+| 2. | Darknido | 4. Flat color | ▮▯▯▯ |
+| 1. | Mattfolfsky | 1. Sketch | ▮▯▯▯ |
 
 ## Finished (Last 10)
 
