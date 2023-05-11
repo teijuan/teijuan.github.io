@@ -10,13 +10,13 @@ See also: [Terms  of Service](/tos)
 
 | ° | **Client username** | **Style** | **Status** |
 | --- | --- | --- | --- |
-| 2. | Darknido | 4. Flat color | ▮▯▯▯ |
-| 1. | Mattfolfsky | 1. Sketch | ▮▮▮▮ |
+| 1. | Darknido | 4. Flat color | ▮▮▮▯ |
 
 ## Finished (Last 10)
 
 | **Username** | **Delivered** | **Work** |
 | --- | --- | --- |
+| Mattfolfsky | 2023-05-08 | [Yulia](https://www.furaffinity.net/view/52081702/) |
 | Katebytheocean | 2023-05-02 | [Pregnant Krystal \(StarFox\)](https://twitter.com/AKate155/status/1653542378043523072) |
 | Darknido | 2023-04-26 | Gemma, Echo and Rina |
 | Seth-Gatomia | 2023-04-17 | Vtube avatar Inarel |
@@ -26,7 +26,6 @@ See also: [Terms  of Service](/tos)
 | Lizardguy64 | 2023-03-14 | [Me and my friend Lizardguy](https://www.furaffinity.net/view/51375263/) |
 | DocGyara | 2023-03-04 | Lapine and Mistress K |
 | Pacificside | 2023-02-26 | [Not-so-self selfie of Rhonde](https://twitter.com/TeiJuanArt/status/1630006549925036032) |
-| Katebytheocean | 2023-02-22 | [Pregnant Krystal \(StarFox\)](https://twitter.com/AKate155/status/1628544441442086914) |
 
 Updates every 12 hours.  
 > Doubts? [Contact me!](/contact)
