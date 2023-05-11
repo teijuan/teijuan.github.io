@@ -16,7 +16,7 @@ See also: [Terms  of Service](/tos)
 
 | **Username** | **Delivered** | **Work** |
 | --- | --- | --- |
-| Mattfolfsky | 2023-05-08 | [Yulia](https://www.furaffinity.net/view/52081702/) |
+| Mattfolfsky | 2023-05-08 | [Yulia for Mayternity](https://www.furaffinity.net/view/52081702/) |
 | Katebytheocean | 2023-05-02 | [Pregnant Krystal \(StarFox\)](https://twitter.com/AKate155/status/1653542378043523072) |
 | Darknido | 2023-04-26 | Gemma, Echo and Rina |
 | Seth-Gatomia | 2023-04-17 | Vtube avatar Inarel |
