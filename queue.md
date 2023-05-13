@@ -10,8 +10,7 @@ See also: [Terms  of Service](/tos)
 
 | ° | **Client username** | **Style** | **Status** |
 | --- | --- | --- | --- |
-| They | might be you, |  it's just DM me on | Discord, [Twitter](https://www.twitter.com/TeiJuanArt), [Deviantart](https://www.deviantart.com/tei-juan) or [Furaffinity](https://www.furaffinity.net/user/teixeira-juan/) |
-
+| 1 | Roji-Panty-Complex (x2) | 5. Flat shaded | ▯▯▯▯ |
 ## Finished (Last 10)
 
 | **Username** | **Delivered** | **Work** |
