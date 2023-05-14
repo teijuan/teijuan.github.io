@@ -11,6 +11,7 @@ See also: [Terms  of Service](/tos)
 | ° | **Client username** | **Style** | **Status** |
 | --- | --- | --- | --- |
 | 1 | Roji-Panty-Complex (x2) | 5. Flat shaded | ▯▯▯▯ |
+
 ## Finished (Last 10)
 
 | **Username** | **Delivered** | **Work** |
