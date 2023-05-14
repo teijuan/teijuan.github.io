@@ -10,6 +10,7 @@ See also: [Terms  of Service](/tos)
 
 | ° | **Client username** | **Style** | **Status** |
 | --- | --- | --- | --- |
+| 2 | z3lda123 | 4. Flat color | ▯▯▯▯ |
 | 1 | Roji-Panty-Complex (x2) | 5. Flat shaded | ▯▯▯▯ |
 
 ## Finished (Last 10)
