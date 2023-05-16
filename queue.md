@@ -11,7 +11,7 @@ See also: [Terms  of Service](/tos)
 | ° | **Client username** | **Style** | **Status** |
 | --- | --- | --- | --- |
 | 2 | z3lda123 | 4. Flat color | ▯▯▯▯ |
-| 1 | Roji-Panty-Complex (x2) | 5. Flat shaded | ▯▯▯▯ |
+| 1 | Roji-Panty-Complex (x2) | 5. Flat shaded | ▮▮▯▯ |
 
 ## Finished (Last 10)
 
@@ -28,5 +28,5 @@ See also: [Terms  of Service](/tos)
 | Lizardguy64 | 2023-03-14 | [Me and my friend Lizardguy](https://www.furaffinity.net/view/51375263/) |
 | DocGyara | 2023-03-04 | Lapine and Mistress K |
 
-Updates every 12 hours.  
+Updates every 24 hours.  
 > Doubts? [Contact me!](/contact)
