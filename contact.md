@@ -9,4 +9,4 @@ permalink: /contact/
 - [Furaffinity](https://www.furaffinity.net/user/teixeira-juan)
 - [Deviantart](https://www.deviantart.com/tei-juan)
 - **Discord**:  
-`tei-juan#8614`
+`tei.juan#8614`
