@@ -12,7 +12,7 @@ See also: [Terms  of Service](/tos)
 | --- | --- | --- | --- |
 | 3 | Seth-Gatomia | 5. Flat shaded | ▯▯▯▯ |
 | 2 | z3lda123 | 4. Flat color | ▯▯▯▯ |
-| 1 | Roji-Panty-Complex (x2) | 5. Flat shaded | ▮▮▯▯ |
+| 1 | Roji-Panty-Complex (x2) | 5. Flat shaded | ▮▮▮▯ |
 
 ## Finished (Last 10)
 
