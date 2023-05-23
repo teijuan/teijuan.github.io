@@ -11,7 +11,7 @@ See also: [Terms  of Service](/tos)
 | ° | **Client username** | **Style** | **Status** |
 | --- | --- | --- | --- |
 | 2 | Seth-Gatomia | 5. Flat shaded | ▯▯▯▯ |
-| 1 | z3lda123 | 4. Flat color | ▯▯▯▯ |
+| 1 | z3lda123     | 4. Flat color  | ▯▯▯▯ |
 
 ## Finished (Last 10)
 
