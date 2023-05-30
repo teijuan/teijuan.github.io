@@ -14,6 +14,10 @@ permalink: /tos/
 
 See also: [Waiting list](/queue)
 
+<sup><span style="text-shadow: 0px 0px 2px #ffaa00">**NEW!**</span></sup>
+[There's a promo for the bunny year right here!](https://teijuan.github.io/blog/2023/02/14/bunny-year-promo.html)
+<sup><span style="text-shadow: 0px 0px 2px #ffaa00">**NEW!**</span></sup>
+
 ## Prices and styles
 
 | Style          | Full | Bust | Head |
@@ -26,6 +30,7 @@ See also: [Waiting list](/queue)
 | FULL WORK    | $45  | $35  | $20  |
 
 \- Extra characters costs half.
+
 
 Values may vary for:
 - Deadline comms.
@@ -44,7 +49,6 @@ Values may vary for:
 - Pregnancy
 - Soft vore <small>(that looks like a pregnancy)</small>
 - (Experimental) NSFW nudity
-
 ### What I don't do?
 - Gore
 - Detailed paws / feet
@@ -55,8 +59,8 @@ Values may vary for:
 - Pregnancy<br><small>Any gender or belly size.</small>
 
 ## Ways of payment
-- Transferwise <sup><span style="text-shadow: 0px 0px 2px #ffaa00">**NEW!**</span><sup>
-- Bank deposit <sup><span style="text-shadow: 0px 0px 2px #ffaa00">**NEW!**</span><sup>
+- Transferwise <sup><span style="text-shadow: 0px 0px 2px #ffaa00">**NEW!**</span></sup>
+- Bank deposit <sup><span style="text-shadow: 0px 0px 2px #ffaa00">**NEW!**</span></sup>
 - Paypal
 - Ko-Fi
 - Patreon
