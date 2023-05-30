@@ -3,6 +3,8 @@ layout: page
 title: "Waiting list"
 permalink: /queue/
 ---
+<!--▮▮▮▮▯▯▯▯-->
+
 
 Pending commissions or trades
 
@@ -10,13 +12,13 @@ See also: [Terms  of Service](/tos)
 
 | ° | **Client username** | **Style** | **Status** |
 | --- | --- | --- | --- |
-| 2 | Seth-Gatomia | 5. Flat shaded (x2) | ▯▯▯▯ |
-| 1 | z3lda123 | 4. Flat color | ▮▮▮▯ |
+| 1 | Seth-Gatomia | 5. Flat shaded (x2) | ▯▯▯▯ |
 
 ## Finished (Last 10)
 
 | **Username** | **Delivered** | **Work** |
 | --- | --- | --- |
+| z3lda123 | 2023-05-29 | Josha and Hyperp. Purah |
 | Roji-Panty-Complex | 2023-05-22 | Betty the space trucker |
 | Roji-Panty-Complex | 2023-05-18 | [CM: Hagame Ame](https://www.furaffinity.net/view/52199202/) |
 | Darknido | 2023-05-12 | \(Seren included in his last comm.\) |

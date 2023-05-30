@@ -21,9 +21,9 @@ See also: [Waiting list](/queue)
 | SKETCH         | $20  | $16  | -    |
 | + COLORS       | $24  | $19  | $10  |
 | LINEART        | $24  | $20  | -    |
-| + COLORS       | $26  | $22  | $12  |
-| FLAT SHADED    | $34  | $26  | $14  |
-| FULL SHADED    | $45  | $35  | $20  |
+| FLAT COLORS       | $26  | $22  | $12  |
+| FLAT SHADE    | $34  | $26  | $14  |
+| FULL WORK    | $45  | $35  | $20  |
 
 \- Extra characters costs half.
 
