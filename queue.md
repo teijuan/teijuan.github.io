@@ -12,7 +12,7 @@ See also: [Terms  of Service](/tos)
 
 | ° | **Client username** | **Style** | **Status** |
 | --- | --- | --- | --- |
-| 1 | Seth-Gatomia | 5. Flat shaded (x2) | ▯▯▯▯ |
+| 1 | Seth-Gatomia | 5. Flat shaded (x2) | ▮▯▯▯ |
 
 ## Finished (Last 10)
 
@@ -28,7 +28,6 @@ See also: [Terms  of Service](/tos)
 | Seth-Gatomia | 2023-04-17 | Vtube avatar Inarel |
 | Roji-Panty-Complex | 2023-04-08 | [Pearl from Splatoon Pregnant](https://twitter.com/TeiJuanArt/status/1647774396482834433) |
 | Roji-Panty-Complex | 2023-03-22 | [Littles a little more electric](https://twitter.com/TeiJuanArt/status/1639724763378774016) |
-| Roji-Panty-Complex | 2023-03-17 | [Extra module for the prototype](https://twitter.com/TeiJuanArt/status/1637124684100640768) |
 
 Updates every 24 hours.  
 > Doubts? [Contact me!](/contact)
