@@ -6,7 +6,7 @@ layout: base
   {%- if page.title -%}
     <h1 class="page-heading">{{ page.title }}</h1>
   {%- endif -%}
-
+<!--
   {{ content }}
   
   {% if site.paginate %}
@@ -21,7 +21,7 @@ layout: base
   <h2 class="post-list-heading">{{ page.list_title }}</h2>
   {%- endif -%}
   <h2>Gallery:</h2>
-      <div class="artwork-list">
+  <div class="artwork-list">
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
       {%- for post in posts -%}
         {%- if post.category == "Artwork" and post.source -%}
@@ -29,25 +29,22 @@ layout: base
           <p class="title-post">{{ post.title }}</p>
           <a href="{{ post.url | relative_url }}">
             <img class="artwork-thumbnail" src="https://images.weserv.nl/?url={{ site.url | replace: 'http://','' | replace: 'https://','' }}{{ post.source post.title w=300&h=300&output=jpg&q=50&t=square" alt="{{ filename }}" title="{{ filename }}" alt="Not found" title="{{ filename }}" />
-            <!--
-              <img src="{{ post.source post.title }}" alt="{{ filename }}" title="{{ filename }}" alt="Not found" title="{{ filename }}" />
-            -->
         </a>  
-        </div>
-        {%- endif -%}
-      {%- endfor -%}
       </div>
-    <hr>
+        {%- endif -%}
+        {%- endfor -%}
+      </div>
+      <hr>
+    --> 
     <ul class="post-list">
-      <h2>Blog</h2>
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
       {%- for post in posts -%}
       {%- if post.category == "Blog" -%}
-        <li>
-          <span class="post-meta">{{ post.date | date: date_format }} • {{ post.categories }}</span>
-          <h3>
-            <a class="post-link" href="{{ post.url | relative_url }}">
-              {{ post.title | escape }}
+      <li>
+        <span class="post-meta">{{ post.date | date: date_format }} • {{ post.categories }}</span>
+        <h3>
+          <a class="post-link" href="{{ post.url | relative_url }}">
+            {{ post.title | escape }}
             </a>
           </h3>
           {%- if site.show_excerpts -%}
@@ -55,18 +52,16 @@ layout: base
           {%- endif -%}
         </li>
         {%- endif -%}
-      {%- endfor -%}
-
-    </ul>
-    <!-- post.category == "Blog" and-->
-    
-    {% if site.paginate %}
+        {%- endfor -%}
+        
+      </ul>
+      {% if site.paginate %}
       <div class="pager">
         <ul class="pagination">
         {%- if paginator.previous_page %}
           <li><a href="{{ paginator.previous_page_path | relative_url }}" class="previous-page">{{ paginator.previous_page }}</a></li>
         {%- else %}
-          <li><div class="pager-edge">•</div></li>
+        <li><div class="pager-edge">•</div></li>
         {%- endif %}
           <li><div class="current-page">{{ paginator.page }}</div></li>
         {%- if paginator.next_page %}
