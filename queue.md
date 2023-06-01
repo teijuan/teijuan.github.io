@@ -12,6 +12,7 @@ See also: [Terms  of Service](/tos)
 
 | ° | **Client username** | **Style** | **Status** |
 | --- | --- | --- | --- |
+| 2 | Derrysome | 6. Full shaded | ▯▯▯▯ |
 | 1 | Seth-Gatomia | 5. Flat shaded (x2) | ▮▯▯▯ |
 
 ## Finished (Last 10)
