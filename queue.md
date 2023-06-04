@@ -12,9 +12,9 @@ See also: [Terms  of Service](/tos)
 
 | ° | **Client username** | **Style** | **Status** |
 | --- | --- | --- | --- |
-| 3 | DaniSkyDelta14 | 6. Full shaded | ▯▯▯▯  |
-| 2 | Derrysome | 6. Full shaded | ▯▯▯▯ |
-| 1 | Seth-Gatomia | 5. Flat shaded | ▮▯▯▯ |
+| 4 | DaniSkyDelta14 | 6. Full shaded | ▯▯▯▯  |
+| 3 | Derrysome | 6. Full shaded | ▮▯▯▯ |
+| 2 | Seth-Gatomia | 5. Flat shaded | ▮▯▯▯ |
 | 1 | Seth-Gatomia | 5. Flat shaded | ▮▯▯▯ |
 
 ## Finished (Last 10)
@@ -22,7 +22,7 @@ See also: [Terms  of Service](/tos)
 | **Username** | **Delivered** | **Work** |
 | --- | --- | --- |
 | z3lda123 | 2023-05-29 | Josha and Hyperp. Purah |
-| Roji-Panty-Complex | 2023-05-22 | Betty the space trucker |
+| Roji-Panty-Complex | 2023-05-22 | [Betty the space trucker](https://www.furaffinity.net/view/52257931/) |
 | Roji-Panty-Complex | 2023-05-18 | [CM: Hagame Ame](https://www.furaffinity.net/view/52199202/) |
 | Darknido | 2023-05-12 | \(Seren included in his last comm.\) |
 | Mattfolfsky | 2023-05-08 | [Yulia for Mayternity](https://www.furaffinity.net/view/52081702/) |
