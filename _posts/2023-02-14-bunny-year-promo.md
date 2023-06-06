@@ -16,7 +16,7 @@ Now every commission including **bunnies, rabbits or hares**, from a simple sktc
 
 > Because I really love these adorable creatures, I'm dividing prices for multiply them. Simple as that.
 
-**Got interested? Contact me through [email](mailto:tei-juan@hotmail.com) or Discord (tei-juan#8614).**
+**Got interested? Contact me through email or Discord (tei.juan#8614).**
 
 * I can also turn a character into a bunny if you wish [\(Here's a sample where just Marielis is really a rabbit\)](https://www.furaffinity.net/view/46770770).
 * Valid 'till Jan 2024.
