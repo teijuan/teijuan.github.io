@@ -4,8 +4,8 @@ title: Sobre mim
 permalink: /about/
 ---
 
-Sou **João Marcelo Teixeira**, desenhista brasileiro de 21 anos nascido em Barbacena, MG.  
-**Tei Juan** é o nome com o qual me apresento como ilustrador e animador, aqui no Brasil e no exterior.  
+I'm **João Marcelo Teixeira**, Known as **Tei Juan**. A 22 y. brazilian artist born in the state of Minas Gerais.
+
 ## Conheça a minha história
 
 `Em breve...`

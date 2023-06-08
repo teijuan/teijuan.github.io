@@ -14,7 +14,7 @@ See also: [Terms  of Service](/tos)
 | --- | --- | --- | --- |
 | 4 | DaniSkyDelta14 | 6. Full shaded | ▯▯▯▯ |
 | 3 | Derrysome | 6. Full shaded | ▮▯▯▯ |
-| 2 | Seth-Gatomia | 5. Flat shaded | ▮▮▮▯ |
+| 2 | Seth-Gatomia | 5. Flat shaded | ▮▮▮▮ |
 | 1 | Seth-Gatomia | 5. Flat shaded | ▮▮▮▯ |
 
 ## Finished (Last 10)
