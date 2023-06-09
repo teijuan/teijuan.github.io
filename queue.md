@@ -13,14 +13,14 @@ See also: [Terms  of Service](/tos)
 | ° | **Client username** | **Style** | **Status** |
 | --- | --- | --- | --- |
 | 4 | DaniSkyDelta14 | 6. Full shaded | ▯▯▯▯ |
-| 3 | Derrysome | 6. Full shaded | ▮▮▯▯ |
+| 3 | Derrysome | 6. Full shaded | ▮▮▮▯ |
 | 1 | Seth-Gatomia | 5. Flat shaded | ▮▮▮▯ |
 
 ## Finished (Last 10)
 
 | **Username** | **Delivered** | **Work** |
 | --- | --- | --- |
-| Seth-Gatomia | 2023-06-08 | Inarel in a red dress |
+| Seth-Gatomia | 2023-06-08 | [Inarel in a red dress](https://twitter.com/TeiJuanArt/status/1667173182485286914) |
 | z3lda123 | 2023-05-29 | Josha and Hyperp. Purah |
 | Roji-Panty-Complex | 2023-05-22 | [Betty the space trucker](https://www.furaffinity.net/view/52257931/) |
 | Roji-Panty-Complex | 2023-05-18 | [CM: Hagame Ame](https://www.furaffinity.net/view/52199202/) |
