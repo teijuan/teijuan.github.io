@@ -7,10 +7,10 @@ permalink: /tos/
 > Table of Contents
 > 
 > - [Prices and styles](#prices-and-styles)
-> - [Rules](#Rules)
-> - [Do and don't do](#What%20i%20do)
-> - [My specialities](#my%20specialities)
-> - [Payment](#ways%20of%20payment)
+> - [Rules](#rules)
+> - [Do and don't do](#what-i-do)
+> - [My specialities](#my-specialities)
+> - [Payment](#ways-of-payment)
 
 See also: [Waiting list](/queue)
 
