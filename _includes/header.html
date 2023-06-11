@@ -7,8 +7,8 @@
     <!--
       <span style="display:block;width:90px;margin:0px;margin-right:10px;padding:0px;float:left"><img src=""></span>
     -->
-    <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
 
+    <a class="site-title" rel="author" href="{{ "/" | relative_url }}"><img class="site-icon" src="{{ site.logo }}" alt="Site logo">{{ site.title | escape }}</a>
 
     {%- if titles_size > 0 -%}
       <nav class="site-nav">

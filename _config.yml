@@ -2,6 +2,7 @@ title: Tei Juan
 author:
   name: tei-juan
   email: tei-juan@hotmail.com
+logo: /assets/assinatura-branca.png
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
@@ -62,4 +63,11 @@ header_pages:
 # Set to `true` to show excerpts on the homepage.
 #
 show_excerpts: true
-pagination: true
+#pagination: true
+
+#collections:
+#  characters:
+#    output: true
+#    permalink: /:collection/:name
+
+
