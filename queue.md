@@ -13,12 +13,12 @@ See also: [Terms  of Service](/tos)
 | **Client username** | **Style** | **Status** | ° |
 | --- | --- | --- | --- |
 | DaniSkyDelta14 | 6. Full shaded | ▮▯▯▯ | 2 |
-| Derrysome | 6. Full shaded | ▮▮▮▯ | 1 |
 
 ## Finished (Last 10)
 
 | **Username** | **Delivered** | **Work** |
 | --- | --- | --- |
+| Derrysome | 2023-06-13 | Precious Treasure |
 | Seth-Gatomia | 2023-06-10 | Inarel and her babies |
 | Seth-Gatomia | 2023-06-08 | [Inarel in a red dress](https://twitter.com/TeiJuanArt/status/1667173182485286914) |
 | z3lda123 | 2023-05-29 | Josha and Hyperp. Purah |
@@ -28,7 +28,6 @@ See also: [Terms  of Service](/tos)
 | Mattfolfsky | 2023-05-08 | [Yulia for Mayternity](https://www.furaffinity.net/view/52081702/) |
 | Katebytheocean | 2023-05-02 | [Pregnant Krystal \(StarFox\)](https://twitter.com/AKate155/status/1653542378043523072) |
 | Darknido | 2023-04-26 | Gemma, Echo and Rina |
-| Seth-Gatomia | 2023-04-17 | Vtube avatar Inarel |
 
 Updates every 24 hours.  
 > Doubts? [Contact me!](/contact)
