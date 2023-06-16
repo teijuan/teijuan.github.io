@@ -15,6 +15,7 @@ permalink: /tos/
 See also: [Waiting list](/queue)
 
 <sup><span style="text-shadow: 0px 0px 2px #ffaa00">**NEW!**</span></sup>
+
 [There's a promo for the bunny year right here!](https://teijuan.github.io/blog/2023/02/14/bunny-year-promo.html)
 <sup><span style="text-shadow: 0px 0px 2px #ffaa00">**NEW!**</span></sup>
 
@@ -53,7 +54,11 @@ Values may vary for:
 
 - Explicit sex
 - Gore
-- Minors in kink themes
+- Minors in kink themes [^mnki]
+
+[^mnki]: Examples of safe cases:  
+Child(ren) among with a pregnant adult which's  properly dressed  
+A child faking a pregnant belly with something below the shirt for calling attention of a really pregnant adult 
 
 ### My specialities
 - Small rodents<br><small>Rabbits, mice, etc.</small>
@@ -67,3 +72,5 @@ Values may vary for:
 - Patreon
 
 > Doubts? [Contact me!](/contact)
+
+
