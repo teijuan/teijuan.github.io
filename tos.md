@@ -48,11 +48,12 @@ Values may vary for:
 <small>Many fluffy or scaly species</small>
 - Pregnancy
 - Soft vore <small>(that looks like a pregnancy)</small>
-- (Experimental) NSFW nudity
+
 ### What I don't do?
+
+- Explicit sex
 - Gore
-- Detailed paws / feet
-- Minors involved in kink themes
+- Minors in kink themes
 
 ### My specialities
 - Small rodents<br><small>Rabbits, mice, etc.</small>

@@ -12,7 +12,7 @@ See also: [Terms  of Service](/tos)
 
 | **Client username** | **Style** | **Status** | ° |
 | --- | --- | --- | --- |
-| DaniSkyDelta14 | 6. Full shaded | ▮▯▯▯ |  |
+| DaniSkyDelta14 | 6. Full shaded | ▮▮▯▯ |  |
 
 ## Finished (Last 10)
 
