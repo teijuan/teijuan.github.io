@@ -12,7 +12,7 @@ See also: [Terms  of Service](/tos)
 
 | **Client username** | **Style** | **Status** | ° |
 | --- | --- | --- | --- |
-| Ransim | 5. Flat shaded | ▯▯▯▯ | 2 |
+| Ransim | 5. Flat shaded | ▮▯▯▯ | 2 |
 | DaniSkyDelta14 | 6. Full shaded | ▮▮▮▮ | 1 |
 
 ## Finished (Last 10)
