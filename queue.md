@@ -12,23 +12,22 @@ See also: [Terms  of Service](/tos)
 
 | **Client username** | **Style** | **Status** | ° |
 | --- | --- | --- | --- |
-| Ransim | 5. Flat shaded | ▮▯▯▯ | 2 |
-| DaniSkyDelta14 | 6. Full shaded | ▮▮▮▮ | 1 |
+| Ransim | 5. Flat shaded | ▮▯▯▯ | 1 |
 
 ## Finished (Last 10)
 
-| **Username** | **Delivered** | **Work** |
+| **Username** | **Work** | **Delivered** |
 | --- | --- | --- |
-| Derrysome | 2023-06-13 | Precious Treasure |
-| Seth-Gatomia | 2023-06-10 | Inarel and her babies |
-| Seth-Gatomia | 2023-06-08 | [Inarel in a red dress](https://twitter.com/TeiJuanArt/status/1667173182485286914) |
-| z3lda123 | 2023-05-29 | Josha and Hyperp. Purah |
-| Roji-Panty-Complex | 2023-05-22 | [Betty the space trucker](https://www.furaffinity.net/view/52257931/) |
-| Roji-Panty-Complex | 2023-05-18 | [CM: Hagame Ame](https://www.furaffinity.net/view/52199202/) |
-| Darknido | 2023-05-12 | \(Seren included in his last comm.\) |
-| Mattfolfsky | 2023-05-08 | [Yulia for Mayternity](https://www.furaffinity.net/view/52081702/) |
-| Katebytheocean | 2023-05-02 | [Pregnant Krystal \(StarFox\)](https://twitter.com/AKate155/status/1653542378043523072) |
-| Darknido | 2023-04-26 | Gemma, Echo and Rina |
+| DaniSkyDelta14 | 2023-06-13-comm-daniel-belly-dancer | 2023-06-18 |
+| Derrysome | 2023-06-02-comm-derrysome-kiki-treasure | 2023-06-13 |
+| Seth-Gatomia | 2023-05-30-comm-sethgatomia-inarel-bundalier | 2023-06-10 |
+| Seth-Gatomia | 2023-05-30-comm-sethgatomia-inarel-dress | 2023-06-08 |
+| z3lda123 | 2023-05-24-comm-z3lda123-purah-josha | 2023-05-29 |
+| Roji-Panty-Complex | 2023-05-15-comm-roji-betty-dupris | 2023-05-22 |
+| Roji-Panty-Complex | 2023-05-14-comm-roji-hagame-ame | 2023-05-18 |
+| Darknido | 2023-04-17-comm-darknido-gemma-echo-rina-seren | 2023-05-12 |
+| Mattfolfsky | 2023-05-04-comm-mattfolfsky-yulia | 2023-05-08 |
+| Katebytheocean | 2023-04-17-comm-katebytheocean-starfox-krystal | 2023-05-02 |
 
 Updates every 24 hours.  
 > Doubts? [Contact me!](/contact)
