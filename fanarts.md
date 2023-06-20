@@ -26,7 +26,6 @@ Fanarts, trades or gifts done by friends and fans of my work.
 ## Melissa Mouse
 
 [![barn-flakes](/assets/img/ic_fanarts/melissa-barn-flakes.jpg)](https://www.deviantart.com/barn-flakes/art/red-and-blue-920726515 "Artwork by Barn-flakes")
-
 [![melissa-zacharycreed](assets/img/ic_fanarts/melissa-zacharycreed.jpg)](#)
 
 ## Taina, the jaguar
