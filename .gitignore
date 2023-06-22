@@ -1,10 +1,12 @@
 ## Git
-.*
 _site
+Gemfile.lock
+*.gem
 .sass-cache
-.jekyll-cache
 .jekyll-metadata
-vendor
+.DS_Store
+.jekyll-cache
+_drafts
 
 ## Ferramentas locais
 .obsidian
@@ -20,3 +22,4 @@ vendor
 ## Demais
 _nopush
 ~neutrinote*
+_archive

@@ -1,5 +1,5 @@
 ---
-layout: base
+layout: default
 ---
 
 {% if post.thumbnail %}
@@ -33,25 +33,15 @@ layout: base
       {%- endif -%}
     </p>
 
-<!--
-    {%- if page.tags -%}
-    
-  <span>
-    <code>{{ page.tags }}</code>
-  </span>
-  {% endif %}
-</header>
--->
-
-
 {%- if page.lnfb -%}<a href="{{ page.lnfb }}"><button class="btn-socmed">Facebook</button></a>{%- endif -%}
 {%- if page.lnda -%}<a href="{{ page.lnda }}"><button class="btn-socmed">Deviantart</button></a>{%- endif -%}
-  {%- if page.lnfa -%}<a href="{{ page.lnfa }}"><button class="btn-socmed">Furaffinity</button></a>{%- endif -%}
-  {%- if page.lnib -%}<a href="{{ page.lnib }}"><button class="btn-socmed">Inkbunny</button></a>{%- endif -%}
-  {%- if page.lnig -%}<a href="{{ page.lnig }}"><button class="btn-socmed">Instagram</button></a>{%- endif -%}
-  {%- if page.lnit -%}<a href="{{ page.lnit }}"><button class="btn-socmed">Itaku</button></a>{%- endif -%}
-  {%- if page.lntt -%}<a href="{{ page.lntt }}"><button class="btn-socmed">Twitter</button></a>{%- endif -%}
-  <div class="post-content e-content" itemprop="articleBody">
+{%- if page.lnfa -%}<a href="{{ page.lnfa }}"><button class="btn-socmed">Furaffinity</button></a>{%- endif -%}
+{%- if page.lnib -%}<a href="{{ page.lnib }}"><button class="btn-socmed">Inkbunny</button></a>{%- endif -%}
+{%- if page.lnig -%}<a href="{{ page.lnig }}"><button class="btn-socmed">Instagram</button></a>{%- endif -%}
+{%- if page.lnit -%}<a href="{{ page.lnit }}"><button class="btn-socmed">Itaku</button></a>{%- endif -%}
+{%- if page.lntt -%}<a href="{{ page.lntt }}"><button class="btn-socmed">Twitter</button></a>{%- endif -%}
+
+<div class="post-content e-content" itemprop="articleBody">
   {%- if page.excerpt -%}  
   <span>
     {{ page.excerpt }}
@@ -60,19 +50,16 @@ layout: base
   <br>
   <br>
 
-<!--  
-  {%- if page.____ -%}<button><a href="{{ page.____ }}">____</a></button>{%- endif -%}
--->
 
-  <img class="artwork-img" src="{{ page.source }}" alt="{{ page.title }}">
-  {{ content }}
-  </div>
+<a href="{{ site.github.url }}/assets/img/art/{{ page.image }}">
+  <img class="artwork-img" src="{{ site.github.url }}/assets/img/art/{{ page.image }}" alt="{{ page.title }}">
+</a>
+{{ content }}
+</div>
 
-  {%- if site.disqus.shortname -%}
-    {%- include disqus_comments.html -%}
-  {%- endif -%}
-
-
+{%- if site.disqus.shortname -%}
+  {%- include disqus_comments.html -%}
+{%- endif -%}
 
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 </article>

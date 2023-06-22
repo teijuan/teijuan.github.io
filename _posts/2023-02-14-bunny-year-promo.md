@@ -1,13 +1,11 @@
 ---
 title: "🐰 Mega Promo for Year of the Bunny (2023)"
 layout: post
-category: Blog
+category: blog
 date: 2023-02-14 07:04:00 -0300
 author: tei-juan
 excerpt: "Bunnies, rabbits or hares, 50% OFF this year"
-tags:
-- promo
-- bunny
+tags: promo, bunny
 ---
 
 I hadn't time for prepare a Valentine's Day promo or YCH, but I though of an interesting offer related to chinese's new year. 
