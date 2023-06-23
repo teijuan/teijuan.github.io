@@ -12,6 +12,7 @@ See also: [Terms  of Service](/tos)
 
 | **Client username** | **Style** | **Status** | ° |
 | --- | --- | --- | --- |
+| Roji Tanner | 4. Flat colors | ▯▯▯▯ | 2  |
 | Ransim | 5. Flat shaded | ▮▮▮▯ | 1 |
 
 ## Finished (Last 10)
@@ -23,8 +24,8 @@ See also: [Terms  of Service](/tos)
 | Seth-Gatomia | 2023-05-30-comm-sethgatomia-inarel-bundalier | 2023-06-10 |
 | Seth-Gatomia | 2023-05-30-comm-sethgatomia-inarel-dress | 2023-06-08 |
 | z3lda123 | 2023-05-24-comm-z3lda123-purah-josha | 2023-05-29 |
-| Roji-Panty-Complex | 2023-05-15-comm-roji-betty-dupris | 2023-05-22 |
-| Roji-Panty-Complex | 2023-05-14-comm-roji-hagame-ame | 2023-05-18 |
+| Roji Tanner | 2023-05-15-comm-roji-betty-dupris | 2023-05-22 |
+| Roji Tanner | 2023-05-14-comm-roji-hagame-ame | 2023-05-18 |
 | Darknido | 2023-04-17-comm-darknido-gemma-echo-rina-seren | 2023-05-12 |
 | Mattfolfsky | 2023-05-04-comm-mattfolfsky-yulia | 2023-05-08 |
 | Katebytheocean | 2023-04-17-comm-katebytheocean-starfox-krystal | 2023-05-02 |
