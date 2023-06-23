@@ -2,6 +2,8 @@
 layout: default
 ---
 
+<img class="home-banner" src="/assets/img/home-banner.jpg" alt="Home banner"/>
+
 <h2>Latest posts:</h2>
 {% for post in paginator.posts %}
   <div class="posts-container">
@@ -14,8 +16,8 @@ layout: default
       </div>
     {% endif %}
     <p>
-      {{ post.content | strip_html | truncate: 150 }} <a href="{{ site.github.url }}{{ post.url }}">Read more</a>
-      <span class="post-date"><i class="fa fa-calendar" aria-hidden="true"></i> {{ post.date | date_to_string }} - <i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</span>
+      {{ post.content | strip_html | truncate: 150 }} <a href="{{ site.github.url }}{{ post.url }}">Read more</a><br>
+      <span class="post-date"><i class="fa fa-calendar" aria-hidden="true"></i>{{ post.date | date_to_string }} - <i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</span>
     </p>
   </div>
 {% endfor %}
