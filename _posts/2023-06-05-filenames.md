@@ -2,7 +2,7 @@
 title: "How I name my art files"
 excerpt: "Less time for sorting, more time for drawing"
 layout: post
-category: Blog
+categories: article
 date: 2023-06-20 19:31:00
 author: tei-juan
 tags: filename

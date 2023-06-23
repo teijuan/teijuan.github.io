@@ -2,13 +2,13 @@
   Post
 */
 
-.post-date {
-  display: block;
-  margin-top:3px;
-  margin-bottom: 1rem;
+.post-date, .post-categories {
+//  display: block;
+  margin-top: 3px;
+  margin-bottom: 0.1rem;
   color: $light-gray-color;
   font-family: $sans-serif-font-family;
-  font-size:0.8rem;
+  font-size:0.9rem;
 }
 
 @media (max-width: $elements-responsive-width) {

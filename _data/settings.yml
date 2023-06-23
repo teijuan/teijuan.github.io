@@ -11,14 +11,16 @@ menu:
 - {name: 'Writing', url: 'writing'}
 - {name: 'Queue', url: 'queue'}
 - {name: 'TOS', url: 'tos'}
+- {name: 'Fanarts', url: 'fanarts'}
 - {name: 'Contact', url: 'contact'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
 - {icon: 'twitter',    link: 'https://twitter.com/teijuanart'}
-#- {icon: 'linkedin',   link: 'http://www.linkedin.com/in/lenpaul/'}
+- {icon: 'instagram',  link: 'http://www.instagram.com/tei.juan/'}
 - {icon: 'envelope',   link: 'mailto:tei-juan@hotmail.com'}
 - {icon: 'rss-square', link: '/feed.xml'}
+#- {icon: 'linkedin',   link: 'http://www.linkedin.com/in/lenpaul/'}
 # - {icon: 'rss-square', link: '/rss-feed.xml'}
 
 # Customize site text

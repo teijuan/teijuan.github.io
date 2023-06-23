@@ -46,22 +46,16 @@ Values may vary for:
 - Humans
 - Anthros
 <small>Many fluffy or scaly species</small>
-- Pregnancy
-- Soft vore <small>(that looks like a pregnancy)</small>
-
-### What I don't do?
-
-- Explicit sex
-- Gore
-- Pedo  
+- Simple backgrounds
+- Minimalistic design pieces
 
 ### My specialities as a niche artist
 - Small rodents<br><small>Rabbits, mice, etc.</small>
 - Pregnancy<br><small>Any gender or belly size.</small>
 
 ## Ways of payment
-- Transferwise <sup><span style="text-shadow: 0px 0px 2px #ffaa00">**NEW!**</span></sup>
-- Bank deposit <sup><span style="text-shadow: 0px 0px 2px #ffaa00">**NEW!**</span></sup>
+- Transferwise
+- Bank deposit
 - Paypal
 - Ko-Fi
 - Patreon

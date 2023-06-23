@@ -25,7 +25,7 @@ Fanarts, trades or gifts done by friends and fans of my work.
 
 ## Melissa Mouse
 [![barn-flakes](/assets/img/ic-fanarts/melissa-barn-flakes.jpg)](https://www.deviantart.com/barn-flakes/art/red-and-blue-920726515 "Artwork by Barn-flakes")
-[![melissa-zacharycreed](/assets/img/ic-fanarts/melissa-zacharycreed.jpg)](#)
+![melissa-zacharycreed](/assets/img/ic-fanarts/melissa-zacharycreed.jpg "Artwork by ZacharyCreed")  
 
 ## Taina, the jaguar
 [![rat-of-the-darkages](/assets/img/ic-fanarts/thayna-samuel.jpg)](https://www.furaffinity.net/view/39642398 "Artwork by Rat-of-the-darkages")
