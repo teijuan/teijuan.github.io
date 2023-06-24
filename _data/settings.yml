@@ -8,6 +8,7 @@ google-ID: 'UA-112060364-1'
 
 menu:
 - {name: 'About',   url: 'about'}
+- {name: 'Portfolio <sup>Beta</sup>',   url: 'portfolio'}
 - {name: 'Writing', url: 'writing'}
 - {name: 'Queue', url: 'queue'}
 - {name: 'TOS', url: 'tos'}
