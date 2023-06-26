@@ -12,13 +12,13 @@ See also: [Terms  of Service](/tos)
 
 | **Client username** | **Style** | **Status** | ° |
 | --- | --- | --- | --- |
-| Roji Tanner | 4. Flat colors | ▯▯▯▯ | 2  |
-| Ransim | 5. Flat shaded | ▮▮▮▯ | 1 |
+| Roji Tanner | 4. Flat colors | ▮▯▯▯ |  |
 
 ## Finished (Last 10)
 
 | **Username** | **Work** | **Delivered** |
 | --- | --- | --- |
+| Ransim | talmage-sam | 2023-06-26 |
 | DaniSkyDelta14 | 2023-06-13-comm-daniel-belly-dancer | 2023-06-18 |
 | Derrysome | 2023-06-02-comm-derrysome-kiki-treasure | 2023-06-13 |
 | Seth-Gatomia | 2023-05-30-comm-sethgatomia-inarel-bundalier | 2023-06-10 |
@@ -28,7 +28,6 @@ See also: [Terms  of Service](/tos)
 | Roji Tanner | 2023-05-14-comm-roji-hagame-ame | 2023-05-18 |
 | Darknido | 2023-04-17-comm-darknido-gemma-echo-rina-seren | 2023-05-12 |
 | Mattfolfsky | 2023-05-04-comm-mattfolfsky-yulia | 2023-05-08 |
-| Katebytheocean | 2023-04-17-comm-katebytheocean-starfox-krystal | 2023-05-02 |
 
 Updates every 24 hours.  
 > Doubts? [Contact me!](/contact)
