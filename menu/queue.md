@@ -12,7 +12,8 @@ See also: [Terms  of Service](/tos)
 
 | **Client username** | **Style** | **Status** | ° |
 | --- | --- | --- | --- |
-| Roji Tanner | 4. Flat colors | ▮▯▯▯ |  |
+| **(Multiple users)** | 4. Flat colors | ▯▯▯▯ | 2 |
+| Roji Tanner | 4. Flat colors | ▮▯▯▯ | 1 |
 
 ## Finished (Last 10)
 
