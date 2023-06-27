@@ -19,6 +19,8 @@ menu:
 social:
 - {icon: 'twitter',    link: 'https://twitter.com/teijuanart'}
 - {icon: 'instagram',  link: 'http://www.instagram.com/tei.juan/'}
+- {icon: 'tumblr',  link: 'http://www.tumblr.com/tei-juan/'}
+- {icon: 'deviantart',  link: 'http://www.deviantart.com/tei-juan/'}
 - {icon: 'envelope',   link: 'mailto:tei-juan@hotmail.com'}
 - {icon: 'rss-square', link: '/feed.xml'}
 #- {icon: 'linkedin',   link: 'http://www.linkedin.com/in/lenpaul/'}
@@ -29,7 +31,7 @@ pagination:
   next_page: 'Newer'
   previous_page: 'Older'
 
-sharing_button_prompt: 'Feel free to share!'
+sharing_button_prompt: 'Share:'
 
 related_posts: 'You may also enjoy:'
 
