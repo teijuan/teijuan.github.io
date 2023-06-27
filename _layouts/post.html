@@ -8,12 +8,13 @@ layout: default
 {% if site.hide_post_categories != true %}
   {% include post-categories.html %}
 {% endif %}
-{% if page.image %}
-  <img src="{{ site.github.url }}/assets/img/{{ page.image }}">
-{% endif %}
 
 {% if site.hide_post_date != true %}
-  {% include post-date.html %}
+{% include post-date.html %}
+{% endif %}
+
+{% if page.image %}
+    <img src="{{ site.github.url }}/assets/img/{{ page.categories }}/{{ page.image }}">
 {% endif %}
 
 <article>
