@@ -66,3 +66,13 @@
   padding: 5px;
   @include social-media-icon($rss-color, $icon-transition-time);
 }
+
+.fa-tumblr {
+  padding: 8px;
+  @include social-media-icon($tumblr-color, $icon-transition-time);
+}
+
+.fa-deviantart {
+  padding: 8px;
+  @include social-media-icon($deviantart-color, $icon-transition-time);
+}

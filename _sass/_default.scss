@@ -75,6 +75,7 @@
 
 @media (max-width: $elements-responsive-width) {
   .social-icons {
+    font-size: 2rem;
     float: left;
     padding-top: 0px;
     padding-bottom: 10px;
@@ -112,4 +113,12 @@
   color: $light-gray-color;
   font-family: $sans-serif-font-family;
   font-size:0.8rem;
+}
+
+.home-quote {
+  display: block;
+  color: $dark-gray-color;
+  text-align: center;
+  font-size: 1.1rem;
+  padding-bottom: 20px;
 }
