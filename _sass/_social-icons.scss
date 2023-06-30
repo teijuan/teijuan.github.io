@@ -17,6 +17,10 @@
   }
 }
 
+.fa-calendar {
+  padding-right: 5px;
+}
+
 .fa-envelope {
   padding: 5px;
   @include social-media-icon($envelope-color, $icon-transition-time);
