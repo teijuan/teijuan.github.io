@@ -4,6 +4,7 @@ title: "Waiting list"
 permalink: /queue/
 ---
 <!--▮▮▮▮▯▯▯▯-->
+<!--▮▮▮▮▯▯▯▯-->
 
 Pending commissions or trades
 
@@ -11,7 +12,7 @@ See also: [Terms  of Service](/tos)
 
 | **Client username** | **Style** | **Status** |
 | --- | --- | --- | --- |
-| **(Multiple users)** | 4. Flat colors | ▯▯▯▯ |
+| **(Multiple users)** | 4. Flat colors | ▮▯▯▯ |
 
 ## Finished (Last 10)
 
