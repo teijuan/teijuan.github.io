@@ -12,7 +12,7 @@ See also: [Terms  of Service](/tos)
 
 | **Client username** | **Style** | **Status** |
 | --- | --- | --- | --- |
-| **(Multiple users)** | 4. Flat colors | ▮▯▯▯ |
+| **(Multiple users)** | 4. Flat colors | ▮▮▯▯ |
 
 ## Finished (Last 10)
 
@@ -29,5 +29,5 @@ See also: [Terms  of Service](/tos)
 | Roji Tanner | 2023-05-14-comm-roji-hagame-ame | 2023-05-18 |
 | Darknido | 2023-04-17-comm-darknido-gemma-echo-rina-seren | 2023-05-12 |
 
-Updates every 24 hours.  
+Updated: {{ site.time }}.  
 > Doubts? [Contact me!](/contact)
