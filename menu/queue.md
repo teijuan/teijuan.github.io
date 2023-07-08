@@ -11,8 +11,9 @@ Pending commissions or trades
 See also: [Terms  of Service](/tos)  
 
 | **Client username** | **Style** | **Status** |
-| --- | --- | --- | --- |
-| **(Multiple users)** | 4. Flat colors | ▮▮▯▯ |
+| --- | --- | --- |
+| **(Multiple users)** | 4. Flat colors | ▮▮▮▯ |
+| Philistine | 6. Full colors | ▯▯▯▯ |
 
 ## Finished (Last 10)
 
