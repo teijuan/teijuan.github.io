@@ -12,6 +12,8 @@
   margin-bottom: 4rem;
   width: 100%;
   height: fit-content;
+  display: block;
+  float: left;
 }
 
 /*48em*/
@@ -125,16 +127,12 @@
   padding-bottom: 20px;
 }
 
-.gallery-container {
-  height: auto;
-}
-
 .gallery {
   margin: 5px;
   border: 1px solid #ccc;
   width: 180px;
-  float: left;
   height: fit-content;
+  float: left;
   a {
     text-decoration: none;
   }
@@ -147,6 +145,9 @@
 .gallery img {
   width: 100%;
   height: auto;
+//  @media (max-width: $container-responsive-width) {
+//      margin-bottom: -100pxrem;
+//  }
 }
 
 .desc {
