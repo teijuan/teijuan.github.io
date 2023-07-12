@@ -2,7 +2,7 @@
 #TMPL20230005
 layout: artwork
 categories: art
-title: "Inarel's little beans of joy"
+title: "Inarel In Red"
 date: 2023-06-10 08:00:00 -0300
 author: tei-juan
 excerpt: "Commission for Seth-Gatomia"
