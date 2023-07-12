@@ -49,11 +49,10 @@ a:hover {
 img {
   max-width: 100%;
   height: auto;
-  border-radius: 5px;
 }
 
 blockquote {
-  margin: 10px 10px 10px;
+  margin: 100px 100px 100px;
   padding: 0px 15px;
   border-left: 0.25em solid $extra-light-gray-color;
   color: $light-gray-color;
@@ -83,4 +82,34 @@ th, td {
 
 .site-logo{
   height: 50px;
+}
+
+.portfolio{
+  margin: 0px;
+  padding: 0px;
+  width: 100%;
+  min-height: 500px;
+}
+
+.portfolio-container { 
+  float: left;
+  overflow: hidden;
+  border-radius: 10px;
+  margin: 10px;
+  img{
+    height: 500px;
+    margin-bottom: -10em;
+  }
+  
+  /*
+  margin: -10%;
+  margin-bottom: -70%;
+    height: 400px;
+    margin-bottom: -65%;
+    margin-top: -11.5%;
+    margin: 0;
+    padding: 10px;
+    height: 200px;
+    width: 200px;
+*/
 }
