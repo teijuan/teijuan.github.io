@@ -124,3 +124,32 @@
   font-size: 1.1rem;
   padding-bottom: 20px;
 }
+
+.gallery-container {
+  height: auto;
+}
+
+.gallery {
+  margin: 5px;
+  border: 1px solid #ccc;
+  width: 180px;
+  float: left;
+  height: fit-content;
+  a {
+    text-decoration: none;
+  }
+}
+
+.gallery:hover {
+  border: 1px solid #777;
+}
+
+.gallery img {
+  width: 100%;
+  height: auto;
+}
+
+.desc {
+  padding: 5px;
+  text-align: center;
+}
