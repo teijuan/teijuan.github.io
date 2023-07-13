@@ -13,7 +13,7 @@ See also: [Terms  of Service](/tos)
 | **Client username** | **Style** | **Status** |
 | --- | --- | --- |
 | **(Multiple users)** | 4. Flat colors | ▮▮▮▮ |
-| Philistine | 6. Full colors | ▮▯▯▯ |
+| Philistine | 6. Full colors | ▮▮▮▯ |
 
 ## Finished (Last 10)
 
@@ -31,6 +31,6 @@ See also: [Terms  of Service](/tos)
 | Darknido | 2023-04-17-comm-darknido-gemma-echo-rina-seren | 2023-05-12 |
 
 Updated: {{ site.time }}.  
-> Doubts? [Contact me!](/contact)
 
+> Doubts? [Contact me!](/contact)
 
