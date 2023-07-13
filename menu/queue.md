@@ -12,15 +12,15 @@ See also: [Terms  of Service](/tos)
 
 | **Client username** | **Style** | **Status** |
 | --- | --- | --- |
-| **(Multiple users)** | 4. Flat colors | ▮▮▮▯ |
+| **(Multiple users)** | 4. Flat colors | ▮▮▮▮ |
 | Philistine | 6. Full colors | ▮▯▯▯ |
 
 ## Finished (Last 10)
 
 | **Username** | **Work** | **Delivered** |
 | --- | --- | --- |
-| Roji Tanner | sapphire-fire | 2023-06-29 |
-| Ransim | talmage-sam | 2023-06-26 |
+| Roji Tanner | 2023-06-24-comm-roji-sapphire-fire | 2023-06-29 |
+| Ransim | 2023-06-17-comm-ransim-talmage-sam | 2023-06-26 |
 | DaniSkyDelta14 | 2023-06-13-comm-daniel-belly-dancer | 2023-06-18 |
 | Derrysome | 2023-06-02-comm-derrysome-kiki-treasure | 2023-06-13 |
 | Seth-Gatomia | 2023-05-30-comm-sethgatomia-inarel-bundalier | 2023-06-10 |
