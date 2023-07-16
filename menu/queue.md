@@ -12,13 +12,13 @@ See also: [Terms  of Service](/tos)
 
 | **Client username** | **Style** | **Status** |
 | --- | --- | --- |
-| **(Multiple users)** | 4. Flat colors | ▮▮▮▮ |
-| Philistine | 6. Full colors | ▮▮▮▯ |
+| Philistine | 6. Full colors | ▮▮▮▮ |
 
 ## Finished (Last 10)
 
 | **Username** | **Work** | **Delivered** |
 | --- | --- | --- |
+| **(Multiple users)** | 2023-06-27-comm-preginc-models | 2023-07-15 |
 | Roji Tanner | 2023-06-24-comm-roji-sapphire-fire | 2023-06-29 |
 | Ransim | 2023-06-17-comm-ransim-talmage-sam | 2023-06-26 |
 | DaniSkyDelta14 | 2023-06-13-comm-daniel-belly-dancer | 2023-06-18 |
@@ -28,7 +28,6 @@ See also: [Terms  of Service](/tos)
 | z3lda123 | 2023-05-24-comm-z3lda123-purah-josha | 2023-05-29 |
 | Roji Tanner | 2023-05-15-comm-roji-betty-dupris | 2023-05-22 |
 | Roji Tanner | 2023-05-14-comm-roji-hagame-ame | 2023-05-18 |
-| Darknido | 2023-04-17-comm-darknido-gemma-echo-rina-seren | 2023-05-12 |
 
 Updated: {{ site.time }}.  
 
