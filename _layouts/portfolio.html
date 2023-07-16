@@ -9,11 +9,9 @@ layout: default
 <div class="content-container">
   {% for post in site.posts %}
   {% if post.categories contains "art" %}
-  <div class="responsive">
     <div class="gallery">
       <a target="_blank" href="{{ site.github.url }}{{ post.url }}"> <img src="{{ site.github.url }}/assets/img/{{ post.categories }}/{{ post.image }}" alt="{{ post.title }}"> </a>
     </div>
-  </div>
   {% endif %}
   {% endfor %}
 </div>
