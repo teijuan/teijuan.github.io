@@ -11,7 +11,7 @@ See also: [Terms  of Service](/tos)
 
 | **Client username** | **Style** | **Status** |
 | --- | --- | --- |
-| Zorek | 5. Flat shaded | ▮▯▯▯ |
+| Zorek | 5. Flat shaded | ▮▮▮▯ |
 
 ## Finished (Last 10)
 
