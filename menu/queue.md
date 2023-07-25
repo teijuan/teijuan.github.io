@@ -11,12 +11,12 @@ See also: [Terms  of Service](/tos)
 
 | **Client username** | **Style** | **Status** |
 | --- | --- | --- |
-| Zorek | 5. Flat shaded | ▮▮▮▯ |
 
 ## Finished (Last 10)
 
 | **Username** | **Work** | **Delivered** |
 | --- | --- | --- |
+| Zorek | 2023-07-18-comm-zorek-gummy-bear | 2023-07-25 |
 | Philistine | 2023-07-09-comm-philistine-merai-treyvon | 2023-07-16 |
 | **(Multiple users)** | 2023-06-27-comm-preginc-models | 2023-07-15 |
 | Roji Tanner | 2023-06-24-comm-roji-sapphire-fire | 2023-06-29 |
@@ -26,7 +26,6 @@ See also: [Terms  of Service](/tos)
 | Seth-Gatomia | 2023-05-30-comm-sethgatomia-inarel-bundalier | 2023-06-10 |
 | Seth-Gatomia | 2023-05-30-comm-sethgatomia-inarel-dress | 2023-06-08 |
 | z3lda123 | 2023-05-24-comm-z3lda123-purah-josha | 2023-05-29 |
-| Roji Tanner | 2023-05-15-comm-roji-betty-dupris | 2023-05-22 |
 
 Updated: {{ site.time }}.  
 
