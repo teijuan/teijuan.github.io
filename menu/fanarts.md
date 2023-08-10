@@ -8,6 +8,7 @@ Fanarts, trades or gifts done by friends and fans of my work.
 
 ## Lydia Bunny
 
+[![dianabedrawing](/assets/img/ic-fanarts/lydia-dianabedrawing.jpg)](https://https://twitter.com/Preggyshork/status/1689247934586716165 "Artwork by Preggyshork / Dianabedrawing")
 [![12geovannyart](/assets/img/ic-fanarts/lydia-12geovannyart.jpg)](https://www.deviantart.com/12geovannyart/art/Para-tei-juan-Lydia-the-rabbit-952838632 "Artwork by 12geovannyart")
 ![lozzybunz](/assets/img/ic-fanarts/lydia-lozzybunz.jpg "Artwork by Lozzybunz")
 [![isr-4](/assets/img/ic-fanarts/lydia-isr4.jpg)](https://www.deviantart.com/isr-4/art/lydia-how-do-i-look-874752295 "Artwork by ISR-4")
@@ -24,8 +25,8 @@ Fanarts, trades or gifts done by friends and fans of my work.
 ![cardinal-danadriel](/assets/img/ic-fanarts/lydia-danilocorrea.jpg "Artwork by Danilo Correa")
 
 ## Melissa Mouse
-[![barn-flakes](/assets/img/ic-fanarts/melissa-barn-flakes.jpg)](https://www.deviantart.com/barn-flakes/art/red-and-blue-920726515 "Artwork by Barn-flakes")
 ![melissa-zacharycreed](/assets/img/ic-fanarts/melissa-zacharycreed.jpg "Artwork by ZacharyCreed")  
+[![barn-flakes](/assets/img/ic-fanarts/melissa-barn-flakes.jpg)](https://www.deviantart.com/barn-flakes/art/red-and-blue-920726515 "Artwork by Barn-flakes")
 
 ## Taina, the jaguar
 [![rat-of-the-darkages](/assets/img/ic-fanarts/thayna-samuel.jpg)](https://www.furaffinity.net/view/39642398 "Artwork by Rat-of-the-darkages")
