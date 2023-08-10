@@ -11,7 +11,7 @@ See also: [Terms  of Service](/tos)
 
 | **Client username** | **Style** | **Status** |
 | --- | --- | --- |
-| Ransim | 5.1 Flat shad - Full body | ▯▯▯▯ |
+| Ransim | 5.1 Flat shad - Full body | ▮▯▯▯ |
 
 ## Finished (Last 10)
 
