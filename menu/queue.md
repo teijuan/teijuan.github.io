@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Waiting list"
+title: "(1) Waiting list"
 permalink: /queue/
 ---
 <!--▮▮▮▮▯▯▯▯-->
