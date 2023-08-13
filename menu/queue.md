@@ -11,7 +11,9 @@ See also: [Terms  of Service](/tos)
 
 | **Client username** | **Style** | **Status** |
 | --- | --- | --- |
-| Ransim | 5.1 Flat shad - Full body | ▮▯▯▯ |
+| Ransim | 5.1 Flat shad - Full body | ▮▮▯▯ |
+
+Updated: {{ site.time }}.  
 
 ## Finished (Last 10)
 
@@ -28,7 +30,4 @@ See also: [Terms  of Service](/tos)
 | Seth-Gatomia | 2023-05-30-comm-sethgatomia-inarel-dress | 2023-06-08 |
 | z3lda123 | 2023-05-24-comm-z3lda123-purah-josha | 2023-05-29 |
 
-Updated: {{ site.time }}.  
-
 > Doubts? [Contact me!](/contact)
-
