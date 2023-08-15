@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "(1) Waiting list"
+title: "Waiting list"
 permalink: /queue/
 ---
 <!--▮▮▮▮▯▯▯▯-->
@@ -11,7 +11,7 @@ See also: [Terms  of Service](/tos)
 
 | **Client username** | **Style** | **Status** |
 | --- | --- | --- |
-| Ransim | 5.1 Flat shad - Full body | ▮▮▮▯ |
+|  |  |  |
 
 Updated: {{ site.time }}.  
 
@@ -19,6 +19,7 @@ Updated: {{ site.time }}.
 
 | **Username** | **Work** | **Delivered** |
 | --- | --- | --- |
+| Ransim | 2023-08-10-comm-ransim-elaine | 2023-08-15 |
 | Zorek | 2023-07-18-comm-zorek-gummy-bear | 2023-07-25 |
 | Philistine | 2023-07-09-comm-philistine-merai-treyvon | 2023-07-16 |
 | **(Multiple users)** | 2023-06-27-comm-preginc-models | 2023-07-15 |
@@ -28,6 +29,5 @@ Updated: {{ site.time }}.
 | Derrysome | 2023-06-02-comm-derrysome-kiki-treasure | 2023-06-13 |
 | Seth-Gatomia | 2023-05-30-comm-sethgatomia-inarel-bundalier | 2023-06-10 |
 | Seth-Gatomia | 2023-05-30-comm-sethgatomia-inarel-dress | 2023-06-08 |
-| z3lda123 | 2023-05-24-comm-z3lda123-purah-josha | 2023-05-29 |
 
 > Doubts? [Contact me!](/contact)
