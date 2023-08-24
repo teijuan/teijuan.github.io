@@ -12,7 +12,7 @@ permalink: /tos/
 > - [My specialities](#my-specialities)
 > - [Payment](#ways-of-payment)
 
-See also: [Waiting list](/queue)
+See also: [Waiting list](/queue) and infos about [requesting free art](/requests)
 
 <sup><span style="text-shadow: 0px 0px 2px #ffaa00">**NEW!**</span></sup>
 [There's a promo for the bunny year right here!](https://teijuan.github.io/blog/2023-02-14-bunny-year-promo)
