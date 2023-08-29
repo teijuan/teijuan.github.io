@@ -11,7 +11,7 @@ See also: [Terms  of Service](/tos)
 
 | **Client username** | **Style** | **Status** |
 | --- | --- | --- |
-| Seth-Gatomia | 4.1 Flat color / Full body | ▮▯▯▯ |
+| Seth-Gatomia | 4.1 Flat color / Full body | ▮▮▯▯ |
 
 Updated: {{ site.time }}.  
 
