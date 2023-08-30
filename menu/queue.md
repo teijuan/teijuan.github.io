@@ -11,7 +11,7 @@ See also: [Terms  of Service](/tos)
 
 | **Client username** | **Style** | **Status** |
 | --- | --- | --- |
-| Seth-Gatomia | 4.1 Flat color / Full body | ▮▮▯▯ |
+|  |  |  |
 
 Updated: {{ site.time }}.  
 
@@ -19,6 +19,7 @@ Updated: {{ site.time }}.
 
 | **Username** | **Work** | **Delivered** |
 | --- | --- | --- |
+| Seth-Gatomia | 2023-08-25-comm-sethgatomia-karabek | 2023-08-30 |
 | Ransim | 2023-08-10-comm-ransim-elaine | 2023-08-15 |
 | Zorek | 2023-07-18-comm-zorek-gummy-bear | 2023-07-25 |
 | Philistine | 2023-07-09-comm-philistine-merai-treyvon | 2023-07-16 |
@@ -27,7 +28,6 @@ Updated: {{ site.time }}.
 | Ransim | 2023-06-17-comm-ransim-talmage-sam | 2023-06-26 |
 | DaniSkyDelta14 | 2023-06-13-comm-daniel-belly-dancer | 2023-06-18 |
 | Derrysome | 2023-06-02-comm-derrysome-kiki-treasure | 2023-06-13 |
-| Seth-Gatomia | 2023-05-30-comm-sethgatomia-inarel-bundalier | 2023-06-10 |
 | Seth-Gatomia | 2023-05-30-comm-sethgatomia-inarel-dress | 2023-06-08 |
 
 > Doubts? [Contact me!](/contact)
