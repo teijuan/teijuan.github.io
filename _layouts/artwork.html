@@ -2,11 +2,27 @@
 layout: default
 ---
 
-{% if post.image %}
-  <meta property="og:image" content="{{ page.image }}">
-{% else %}
-  <meta property="og:image" content="/android-chrome-192x192.png">
-{% endif %}
+<!-- og -->
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="{{ page.title }}" />
+  <meta property="og:url" content="{{ page.url }}" />
+  <meta property="og:description" content="{{ page.excerpt }}" />
+  <meta property="og:image" content="/assets/img/art/{{ page.image }}" />
+  <meta property="og:image:secure_url" content="/assets/img/art/{{ page.image }}" />
+  <meta property="og:image:type" content="image/jpeg" />
+  <meta property="og:image:width" content="600" />
+  <meta property="og:image:height" content="433" />
+
+<!-- twitter -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:domain" content="teijuan.com" />
+  <meta name="twitter:site" content="@TeiJuanArt" />
+  <meta name="twitter:title" content="{{ page.title }}" />
+  <meta name="twitter:description" content="{{ page.excerpt }}" />
+  <meta name="twitter:url" content="{{ page.url }}" />
+  <meta name="twitter:label1" content="Created:" />
+  <meta name="twitter:data1" content="{{ page.date }}" />
+  <meta name="twitter:image" content="/assets/img/art/{{ page.image }}" />
 
 <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 
