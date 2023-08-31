@@ -2,10 +2,10 @@
 layout: default
 ---
 
-{% if post.thumbnail %}
-  <meta property="og:image" content="{{ page.thumbnail }}">
+{% if post.image %}
+  <meta property="og:image" content="{{ page.image }}">
 {% else %}
-  <meta property="og:image" content="/assets/img/assinatura-branca.png">
+  <meta property="og:image" content="/android-chrome-192x192.png">
 {% endif %}
 
 <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
@@ -51,11 +51,12 @@ layout: default
   <br>
   <br>
 
-
 <a href="{{ site.github.url }}/assets/img/art/{{ page.image }}">
   <img class="artwork-img" src="{{ site.github.url }}/assets/img/art/{{ page.image }}" alt="{{ page.title }}">
 </a>
+
 {{ content }}
+
 </div>
 
 {%- if site.disqus.shortname -%}
