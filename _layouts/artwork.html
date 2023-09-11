@@ -7,8 +7,8 @@ layout: default
   <meta property="og:title" content="{{ page.title }}" />
   <meta property="og:url" content="{{ page.url }}" />
   <meta property="og:description" content="{{ page.excerpt }}" />
-  <meta property="og:image" content="{{ site.url }}//assets/img/art/{{ page.image }}" />
-  <meta property="og:image:secure_url" content="{{ site.url }}//assets/img/art/{{ page.image }}" />
+  <meta property="og:image" content="{{ site.url }}/i/s/{{ page.image }}" />
+  <meta property="og:image:secure_url" content="{{ site.url }}/i/s/{{ page.image }}" />
   <meta property="og:image:type" content="image/jpeg" />
   <meta property="og:image:width" content="600" />
   <meta property="og:image:height" content="433" />
@@ -22,7 +22,7 @@ layout: default
   <meta name="twitter:url" content="{{ page.url }}" />
   <meta name="twitter:label1" content="Created:" />
   <meta name="twitter:data1" content="{{ page.date }}" />
-  <meta name="twitter:image" content="{{ site.url }}/assets/img/art/{{ page.image }}" />
+  <meta name="twitter:image" content="{{ site.url }}/i/s/{{ page.image }}" />
 
 <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 
@@ -67,8 +67,8 @@ layout: default
   <br>
   <br>
 
-<a href="{{ site.github.url }}/assets/img/art/{{ page.image }}">
-  <img class="artwork-img" src="{{ site.github.url }}/assets/img/art/{{ page.image }}" alt="{{ page.title }}">
+<a href="{{ site.github.url }}/i/s/{{ page.image }}">
+  <img class="artwork-img" src="{{ site.github.url }}/i/s/{{ page.image }}" alt="{{ page.title }}">
 </a>
 
 {{ content }}

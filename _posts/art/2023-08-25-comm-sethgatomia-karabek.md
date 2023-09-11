@@ -20,4 +20,4 @@ Karabek is described as goddess of seasons and farming, tulips grow from her ski
 This is a flat color commission for Seth-Gatomia and she belongs to him.
 He also asked for an alt pic of her pregnant.
 
-![2023-08-25-comm-sethgatomia-karabek-alt.jpg](/assets/img/art/2023-08-25-comm-sethgatomia-karabek-alt.jpg)
+![2023-08-25-comm-sethgatomia-karabek-alt.jpg](/i/s/2023-08-25-comm-sethgatomia-karabek-alt.jpg)
