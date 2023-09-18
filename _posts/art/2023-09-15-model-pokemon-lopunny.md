@@ -6,8 +6,7 @@ title: "3D Model: Lopunny"
 date: 2023-09-18 07:30:00 -0300
 author: tei-juan
 excerpt: ""
-source: 2023-09-16-design-lopunny-overview.1.jpg
-thumbnail: model-pokemon-lopunny-2023-09-15.jpg
+image: 2023-09-16-design-lopunny-overview.1.jpg
 categories: 3d model
 
 ## Links ##
