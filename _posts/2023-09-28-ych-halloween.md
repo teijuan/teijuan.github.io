@@ -7,6 +7,7 @@ author: tei-juan
 excerpt: ""
 tags: promo, ych, halloween
 permalink: /2023-halloween-ych
+image: 2023-09-28-ych-halloween-banner.jpg
 ---
 
 <sup><span style="text-shadow: 0px 0px 2px #ffaa00">**NEW!**</span></sup>
