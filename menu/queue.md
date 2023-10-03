@@ -11,7 +11,7 @@ See also: [Terms  of Service](/tos)
 
 | **Client username** | **Style** | **Status** |
 | --- | --- | --- |
-|  |  |  |
+| atjonzie | 6. Full shaded | ■□□□ |
 
 Updated: {{ site.time }}.  
 
