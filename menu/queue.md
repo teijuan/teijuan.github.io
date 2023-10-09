@@ -8,3 +8,4 @@ permalink: /queue/
 
 Redirecting...  
 If nothing happens, [click here](https://docs.google.com/spreadsheets/d/1Sl6chewt292h_7AHIEu-MC90g09X-OPG8afq_gDNrVo/edit?usp=sharing).
+
