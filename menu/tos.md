@@ -54,12 +54,11 @@ Values may vary for:
 - Pregnancy<br><small>Any gender or belly size.</small>
 
 ## Ways of payment
-- Transferwise
-- Bank deposit
+- Wise
 - Paypal
+- Stripe <sup><span style="text-shadow: 0px 0px 2px #ffaa00">**NEW!**</span></sup>
+- Bank deposit
 - Ko-Fi
 - Patreon
 
 > Doubts? [Contact me!](/contact)
-
-
