@@ -20,11 +20,11 @@ tags:
   - renart_the_fox
 ---
 
-Renart the Fox is the main protagonist of a classic tale and 2005's CGI film "Le Roman de Renart".
+Renart the Fox is the main protagonist of a classic tale and 2005's CGI film "Le Roman de Renart".  
+His design was originally created by **Emmanuel Perez**.
 
 https://www.imdb.com/title/tt0436710/
 
-3D Model and renders by me.
 
 Quite remember Disney's Robin Hood, however, Renny's pursuit for wealth is to simply make a decent living for him, his wife and children.
 
