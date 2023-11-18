@@ -6,7 +6,7 @@ title: "Karabek"
 date: 2023-08-31 07:00:00 -0300
 author: tei-juan
 excerpt: "Commission for Seth-Gatomia"
-image: 2023-08-25-comm-sethgatomia-karabek.jpg
+image: /i/s/2023-08-25-comm-sethgatomia-karabek.jpg
 
 lnda: 
 lnfa: 

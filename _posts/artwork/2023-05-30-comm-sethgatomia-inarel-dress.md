@@ -6,7 +6,7 @@ title: "Inarel In Red"
 date: 2023-06-10 08:00:00 -0300
 author: tei-juan
 excerpt: "Commission for Seth-Gatomia"
-image: 2023-05-30-comm-sethgatomia-inarel-dress.jpg
+image: /i/s/2023-05-30-comm-sethgatomia-inarel-dress.jpg
 
 lnda: https://www.deviantart.com/tei-juan/art/Inarel-In-Red-967636008
 lnfa: https://www.furaffinity.net/view/52457675/

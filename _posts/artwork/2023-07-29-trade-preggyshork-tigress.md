@@ -6,7 +6,7 @@ title: "Trade: Preggyshork Tigress"
 date: 2023-08-09 08:55:00 -0300
 author: tei-juan
 excerpt: "Art trade for Preggyshork / DianaBeDrawing"
-image: 2023-07-29-trade-preggyshork-tigress.jpg
+image: /i/s/2023-07-29-trade-preggyshork-tigress.jpg
 
 lnda: https://www.deviantart.com/tei-juan/art/Trade-Preggyshork-Tigress-976248752
 lnfa: https://www.furaffinity.net/view/53230645/

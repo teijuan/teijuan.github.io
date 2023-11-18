@@ -6,7 +6,7 @@ title: "Sapphire Fire"
 date: 2023-06-29 08:00:00 -0300
 author: tei-juan
 excerpt: "Commission for Roji Tanner"
-image: 2023-06-24-comm-roji-sapphire-fire.jpg
+image: /i/s/2023-06-24-comm-roji-sapphire-fire.jpg
 
 lnfa: https://www.furaffinity.net/view/52864022/
 lntt: https://twitter.com/TeiJuanArt/status/1678907572093329408
