@@ -8,10 +8,9 @@ google-ID: 'G-S1ZEVG6K59'
 
 menu:
 - {name: 'About',   url: 'about'}
-- {name: 'Portfolio <sup>Beta</sup>',   url: 'portfolio'}
-- {name: 'Writing', url: 'writing'}
-- {name: 'Queue', url: 'queue'}
 - {name: 'TOS', url: 'tos'}
+- {name: 'Queue', url: 'queue'}
+- {name: 'Writing', url: 'writing'}
 - {name: 'Fanarts', url: 'fanarts'}
 - {name: 'Contact', url: 'contact'}
 
