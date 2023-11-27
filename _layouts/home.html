@@ -6,6 +6,8 @@ layout: default
 
 <blockquote class="home-quote">{{ site.data.settings.some_quote }}</blockquote>
 
+{% include announcement.html %}
+
 <h2>Latest posts:</h2>
 {% for post in paginator.posts %}
   <div class="posts-container">
