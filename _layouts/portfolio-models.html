@@ -1,0 +1,15 @@
+---
+layout: page
+---
+
+
+<ul>
+  {% assign sorted = site.models | sort: 'date' | reverse %}
+  {% for item in sorted %}
+  <div class="gallery3d">  
+    <a href="{{ item.url }}">
+      <img src="/assets/ic/models/{{ item.slug }}.jpg">
+    </a>
+  </div>
+  {% endfor %}
+</ul>

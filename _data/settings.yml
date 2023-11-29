@@ -9,7 +9,9 @@ google-ID: 'G-S1ZEVG6K59'
 menu:
 - {name: 'About',   url: 'about'}
 - {name: 'TOS', url: 'tos'}
+- {name: 'Artworks', url: 'artworks'}
 - {name: 'Queue', url: 'queue'}
+- {name: 'Models<sup><span style="text-shadow: 0px 0px 2px #ffaa00"><b>NEW!</b></span></sup>',   url: 'models'}
 - {name: 'Writing', url: 'writing'}
 - {name: 'Fanarts', url: 'fanarts'}
 - {name: 'Contact', url: 'contact'}
@@ -19,7 +21,6 @@ social:
 - {icon: 'twitter',    link: 'https://twitter.com/teijuanart'}
 - {icon: 'instagram',  link: 'https://www.instagram.com/tei.juan/'}
 - {icon: 'tumblr',  link: 'https://www.tumblr.com/teijuan/'}
-- {icon: 'itaku', link: 'https://itaku.ee/profile/teijuan'}
 - {icon: 'deviantart',  link: 'https://www.deviantart.com/tei-juan/'}
 - {icon: 'envelope',   link: 'mailto:tei-juan@hotmail.com'}
 - {icon: 'rss-square', link: '/feed.xml'}
@@ -37,4 +38,8 @@ related_posts: 'You may also enjoy:'
 
 post_date_prefix: 'Written on'
 
+
+# Predefined messsages
 some_quote: '"Joy is found on the journey, not in destination." - Greg Anderson'
+
+wipmsg: "Work In Progress.."

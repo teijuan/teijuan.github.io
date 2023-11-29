@@ -12,6 +12,7 @@ permalink: /contact/
 | <button>[**Pixelfed**](https://pixelfed.furryfandom.me/i/web/profile/598945212388265718)</button> | **teijuan** |
 | <button>[**Itaku**](https://itaku.ee/profile/teijuan)</button> | **teijuan** |
 | <button>[**Tumblr**](https://www.tumblr.com/teijuan/)</button> | **teijuan** |
-| <button>[**Soundcloud**](https://soundcloud.com/teijuan)</button> | **teijuan** |
 | <button disabled>**Discord**</button> | **teijuan** |
+| <button>[**Deezer**](https://www.deezer.com/us/profile/2434786808)</button> | **Lydia Bunny** |
+| <button>[**Soundcloud**](https://soundcloud.com/teijuan)</button> | **teijuan** |
 

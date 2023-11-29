@@ -28,3 +28,26 @@ logo:                '/assets/img/logo.svg'
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 feed:
   path: feed.xml
+
+collections_dir: collections
+
+collections:
+  posts:
+    output: true
+    permalink: /:categories/:name
+  models:
+    output: true
+    permalink: /models/:categories/:name
+
+defaults:
+  - scope:
+      path: "_posts"
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+      type: "models"
+    values:
+      layout: "model"
+      icon: /assets/ic/model/:slug.jpg
