@@ -2,6 +2,7 @@
 layout: page
 ---
 
+{{ page.excerpt }}
 
 <ul>
   {% assign sorted = site.models | sort: 'date' | reverse %}
@@ -13,3 +14,5 @@ layout: page
   </div>
   {% endfor %}
 </ul>
+
+{{ content }}
