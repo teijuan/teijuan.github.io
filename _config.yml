@@ -51,3 +51,4 @@ defaults:
     values:
       layout: "model"
       icon: /assets/ic/model/:slug.jpg
+      image: /assets/ic/model/:slug.jpg
