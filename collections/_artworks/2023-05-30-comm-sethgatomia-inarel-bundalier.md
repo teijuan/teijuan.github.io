@@ -6,7 +6,7 @@ title: "Inarel's little beans of joy"
 date: 2023-06-10 08:00:00 -0300
 author: tei-juan
 excerpt: "Commission for Seth-Gatomia"
-image: /i/s/2023-05-30-comm-sethgatomia-inarel-bundalier.jpg
+image: 2023-05-30-comm-sethgatomia-inarel-bundalier.jpg
 
 lnda: https://www.deviantart.com/tei-juan/art/Inarel-s-little-beans-of-joy-967633341
 lnfa: https://www.furaffinity.net/view/52557551/

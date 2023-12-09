@@ -45,11 +45,17 @@ layout: default
   <br>
   <br>
 
-<a href="{{ site.github.url }}{{ page.image }}">
-  <img class="artwork-img" src="{{ site.github.url }}{{ page.image }}" alt="{{ page.title }}">
-</a>
+{%- if page.description -%}  
+  <span>
+    {{ page.description }}
+  </span>
+{%- endif -%}
 
-{{ content }}
+  <a href="{{ site.url }}/assets/img/2d-art/{{ page.image }}">
+    <img class="artwork-img" src="{{ site.url }}/assets/img/2d-art/{{ page.image }}" alt="{{ page.title }}">
+  </a>
+
+  {{ content }}
 
 </div>
 

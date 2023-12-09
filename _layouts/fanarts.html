@@ -1,0 +1,15 @@
+---
+layout: default
+---
+
+<h1>
+  {{ page.title }}
+</h1>
+<blockquote style="margin-top: 10px;margin-bottom: 10px">{{ page.excerpt }}</blockquote>
+
+{% for item in page.fanarts %}
+{% assign first_char = item.link | slice: 0 %}
+    <a href="{{ site.baseurl }}{{ item.link }}"><img src="{{ item.icon }}"></img></a>
+{% endfor %}
+
+{{ content }}

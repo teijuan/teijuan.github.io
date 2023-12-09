@@ -27,17 +27,24 @@ logo:                '/assets/img/logo.svg'
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 feed:
-  path: feed.xml
+  posts_limit: 20
+  collections:
+    models:
+      path: "/models/feed.xml"
+    artworks:
+      path: "/artworks/feed.xml"
 
 collections_dir: collections
-
 collections:
   posts:
     output: true
     permalink: /:categories/:name
   models:
     output: true
-    permalink: /models/:categories/:name
+    permalink: /models/:categories/:slug
+  artworks:
+    output: true
+    permalink: /:name
 
 defaults:
   - scope:
@@ -46,9 +53,15 @@ defaults:
     values:
       layout: "post"
   - scope:
+      path: "_artworks"
+      type: "artworks"
+    values:
+      layout: "artwork"
+      image: /assets/img/2d-art/:slug.jpg
+  - scope:
       path: ""
       type: "models"
     values:
       layout: "model"
-      icon: /assets/ic/model/:slug.jpg
-      image: /assets/ic/model/:slug.jpg
+      icon: /assets/ic/models/:slug.jpg
+      image: /favicon.svg

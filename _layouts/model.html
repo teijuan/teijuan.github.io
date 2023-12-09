@@ -9,10 +9,12 @@ layout: default
 {% if site.hide_post_date != true %}
 {% include post-date.html %}
 {% endif %}
+<blockquote style="margin-top: 10px;margin-bottom: 10px">{{ page.excerpt }}</blockquote>
 
-{% if page.image %}
-    <img src="{{ site.github.url }}{{ page.image }}">
-{% endif %}
+{% assign img = page.image %}
+{% for item in img %}
+    <img src="{{ site.github.url }}{{ item }}">
+{% endfor %}
 
 <article>
   {{ content }}

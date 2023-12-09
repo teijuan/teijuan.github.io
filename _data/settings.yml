@@ -7,7 +7,6 @@ disqus:
 google-ID: 'G-S1ZEVG6K59'
 
 menu:
-- {name: 'About',   url: 'about'}
 - {name: 'Artworks', url: 'artworks'}
 - {name: 'Models<sup><span style="text-shadow: 0px 0px 2px #ffaa00"><b>NEW!</b></span></sup>',   url: 'models'}
 - {name: 'Fanarts', url: 'fanarts'}
@@ -40,6 +39,5 @@ post_date_prefix: '<i class="fa fa-calendar" aria-hidden="true"></i>'
 
 
 # Predefined messsages
-some_quote: '"Joy is found on the journey, not in destination." - Greg Anderson'
-
 wipmsg: "Work In Progress.."
+bdgNew: '<sup><span style="text-shadow: 0px 0px 2px #ffaa00">**NEW!**</span></sup>'

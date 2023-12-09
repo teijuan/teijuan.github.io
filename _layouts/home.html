@@ -2,39 +2,11 @@
 layout: default
 ---
 
+{% assign adLink = "https://www.furaffinity.net/user/teixeira-juan/" %}
+{% assign adImg = "2023-11-21-desig-fa-banner-anim.gif" %}
+
 <img class="home-banner" src="/assets/img/home-banner.png" alt="Home banner"/>
 
-<blockquote class="home-quote">{{ site.data.settings.some_quote }}</blockquote>
+<blockquote class="home-quote">{{ page.quote }}</blockquote>
 
-{% include announcement.html %}
-
-<h2>Latest posts:</h2>
-{% for post in paginator.posts %}
-  <div class="posts-container">
-    <h1>
-      <a href="{{ site.github.url }}{{ post.url }}">{{ post.title }}</a>
-    </h1>
-    {% if post.image %}
-      <div class="thumbnail-container">
-        <a href="{{ site.github.url }}{{ post.url }}"><img src="{{ site.github.url }}{{ post.image }}"></a>
-      </div>
-    {% endif %}
-    <p>
-      {{ post.content | strip_html | truncate: 150 }} <a href="{{ site.github.url }}{{ post.url }}">Read more</a><br>
-      <span class="post-date"><i class="fa fa-calendar" aria-hidden="true"></i>{{ post.date | date_to_string }} - <i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</span>
-    </p>
-  </div>
-{% endfor %}
-<!-- Pagination links -->
-<div class="pagination">
-  {% if paginator.next_page %}
-    <a class="pagination-button pagination-active next" href="{{ site.github.url }}{{ paginator.next_page_path }}">{{ site.data.settings.pagination.previous_page }}</a>
-  {% else %}
-    <span class="pagination-button">{{ site.data.settings.pagination.previous_page }}</span>
-  {% endif %}
-  {% if paginator.previous_page %}
-    <a class="pagination-button pagination-active" href="{{ site.baseurl }}{{ paginator.previous_page_path }}">{{ site.data.settings.pagination.next_page }}</a>
-  {% else %}
-    <span class="pagination-button">{{ site.data.settings.pagination.next_page }}</span>
-  {% endif %}
-</div>
+{{ content }}
