@@ -5,6 +5,7 @@ author: teijuan
 date: 2023-10-10 08:00:00 -0300
 finished: 2023-10-12
 excerpt: "Main protagonist of Le Roman de Renart"
+image: /assets/ic/models/renartfox.jpg
 tags:
   - fox
   - 3d
@@ -13,6 +14,7 @@ tags:
   - French
   - nostalgia
   - renart_the_fox
+
 ---
 
 Renart the Fox is the main protagonist of a classic tale and 2005's CGI film ["Le Roman de Renart"](https://www.imdb.com/title/tt0436710/).  
