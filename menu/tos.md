@@ -38,7 +38,7 @@ Values may vary for:
 ## Rules
 - Payment is done in advance
 - Image refs must be clear, regardless the style
-- Pending works can be **partially** refunded according to its progress ^[For example, if you've asked for a full piece and cancel the commission while the sketch is already finished, I'll train the sketch price and return the remaining.]
+- Pending works can be **partially** refunded according to its progress. ¹
 
 ### What I do?
 - Humans
@@ -60,3 +60,8 @@ Values may vary for:
 - Patreon
 
 > Doubts? [Contact me!](/contact)
+
+____
+<sub>
+1: For example, if you've asked for a full piece and cancel the commission while the sketch is already finished, I'll retain the sketch price and return the remaining.
+</sub>
