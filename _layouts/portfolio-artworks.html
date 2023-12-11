@@ -10,14 +10,14 @@ layout: default
   {% assign sorted = site.artworks | sort: 'date' | reverse %}
   {% for item in sorted %}
     <div class="gallery">
-      <a href="{{ site.github.url }}{{ item.url }}"> <img src="/assets/img/2d-art/{{ item.image }}" alt="{{ item.title }}"> </a>
+      <a href="{{ site.github.url }}{{ item.url }}"> <img src="{{ item.image }}" alt="{{ item.title }}"> </a>
     </div>
   {% endfor %}
 
   {% for post in site.posts %}
   {% if post.categories contains "art" %}
     <div class="gallery">
-      <a href="{{ site.github.url }}{{ post.url }}"> <img src="{{ site.github.url }}/assets/img/2d-art/{{ post.image }}" alt="{{ post.title }}"> </a>
+      <a href="{{ site.github.url }}{{ post.url }}"> <img src="{{ site.github.url }}{{ post.image }}" alt="{{ post.title }}"> </a>
     </div>
   {% endif %}
   {% endfor %}

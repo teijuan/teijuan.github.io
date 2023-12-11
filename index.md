@@ -2,6 +2,7 @@
 layout: home
 title: Welcome!
 permalink: /
+image: /assets/img/home-banner.png
 quote: '"Joy is found on the journey, not in destination." - Greg Anderson'
 ---
 

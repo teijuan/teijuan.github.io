@@ -57,11 +57,9 @@ defaults:
       type: "artworks"
     values:
       layout: "artwork"
-      image: /assets/img/2d-art/:slug.jpg
   - scope:
       path: ""
       type: "models"
     values:
       layout: "model"
       icon: /assets/ic/models/:slug.jpg
-      image: /favicon.svg

@@ -52,8 +52,8 @@ layout: default
   </span>
 {%- endif -%}
 
-  <a href="{{ site.url }}/assets/img/2d-art/{{ page.image }}">
-    <img class="artwork-img" src="{{ site.url }}/assets/img/2d-art/{{ page.image }}" alt="{{ page.title }}">
+  <a href="{{ site.url }}{{ page.image }}">
+    <img class="artwork-img" src="{{ site.url }}{{ page.image }}" alt="{{ page.title }}">
   </a>
 
   {{ content }}
