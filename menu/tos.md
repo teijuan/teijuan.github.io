@@ -14,9 +14,8 @@ permalink: /tos/
 
 See also: [Waiting list](/queue) and infos about [requesting free art](/requests)
 
-<sup><span style="text-shadow: 0px 0px 2px #ffaa00">**NEW!**</span></sup>
+{{ site.data.settings.bdgNew }}
 [There's a promo for the bunny year right here!](https://teijuan.github.io/blog/2023-02-14-bunny-year-promo)
-<sup><span style="text-shadow: 0px 0px 2px #ffaa00">**NEW!**</span></sup>
 
 ## Prices and styles
 
@@ -31,7 +30,6 @@ See also: [Waiting list](/queue) and infos about [requesting free art](/requests
 
 \- Extra characters costs half.
 
-
 Values may vary for:
 - Deadline comms.
 - Alt. versions'
@@ -40,7 +38,7 @@ Values may vary for:
 ## Rules
 - Payment is done in advance
 - Image refs must be clear, regardless the style
-- Pending works can be partially refunded according to its progress
+- Pending works can be **partially** refunded according to its progress ^[For example, if you've asked for a full piece and cancel the commission while the sketch is already finished, I'll train the sketch price and return the remaining.]
 
 ### What I do?
 - Humans
@@ -56,8 +54,8 @@ Values may vary for:
 ## Ways of payment
 - Wise
 - Paypal
-- Stripe <sup><span style="text-shadow: 0px 0px 2px #ffaa00">**NEW!**</span></sup>
-- Bank deposit
+- Stripe {{ site.data.settings.bdgNew }}
+- Bank deposit (Europe, USA and Brazil only)
 - Ko-Fi
 - Patreon
 
