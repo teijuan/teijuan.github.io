@@ -17,7 +17,7 @@ But I also do general works for every age and taste, and if you're coming from F
 
 # [Furaffinity](https://www.furaffinity.net/user/teixeira-juan) User Profile
 
-Accepting Trades: Moderately  
+Accepting Trades: Mutuals only  
 Accepting Commissions: Yes  
 
 **Character Species**: Bunny  
