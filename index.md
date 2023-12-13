@@ -15,18 +15,18 @@ But I also do general works for every age and taste, and if you're coming from F
 
 - - -
 
-# [Furaffinity](https://www.furaffinity.net/user/teixeira-juan) User Profile
+# User Profile
 
-Accepting Trades: Mutuals only  
-Accepting Commissions: Yes  
+**Accepting Trades**: Mutuals only  
+**Accepting Commissions**: Yes  
 
 **Character Species**: Bunny  
 **Favorite Music**: Jazz, House, Lounge  
 **Favorite TV** Shows & Movies: Sakura CardCaptor  
 **Favorite Games**: Dust: Elysian Tail  
 **Favorite Gaming Platforms**: PC, Xbox 360, PlayStation 2 and 4  
-**Favorite Animals**: ---  
-**Favorite Site**: ---  
-**Favorite Foods** & Drinks: ---  
-**Favorite Quote**: ---  
+**Favorite Animals**: Bunnies  
+**Favorite Site**: https://localhost:4000  
+**Favorite Foods & Drinks:** Just healthy stuff. Feed better, feel better.  
+**Favorite Quote**: Many but practicing that of Greg above.  
 **Favorite Artists**: ---  
