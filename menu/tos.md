@@ -3,7 +3,7 @@ layout: page
 title: "Comms. TOS"
 permalink: /tos/
 ---
-
+{% include admonition.html type="warning" title="Warning" body="Queue will be closed on Dec 25th, 2023. Price changes are planned for next year" %}
 > Table of Contents
 > 
 > - [Prices and styles](#prices-and-styles)
