@@ -14,19 +14,20 @@ $admonitions:
     ('bug', 'bug-solid.svg', '#f50057', '#553c45')
     ('example', 'list-ol-solid.svg', '#9e9e9e', '#4c4c4c')
     ('quote', 'quote-right-solid.svg', '#9e9e9e', '#4c4c4c')
-;
-.admonition {
-	margin: 1.5625em 0;
-	overflow: hidden;
-	color: #808080;
-	page-break-inside: avoid;
-	background-color: #f1f1f1;
-	border-left: .3rem solid $primary-color;
-	border-radius: .1rem;
-}
-.admonition p {
-    padding: 0 1rem;
-}
+    ;
+    .admonition {
+        margin: 1.5625em 0;
+        overflow: hidden;
+        color: #808080;
+        page-break-inside: avoid;
+        background-color: #f1f1f1;
+        border-left: .3rem solid $primary-color;
+        border-radius: .3rem;
+    }
+    .admonition p {
+        padding: 0 1rem;
+    }
+
 .admonition .admonition-title {
     color: #ddd;
     background-color: $primary-bgcolor;
