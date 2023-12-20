@@ -2,7 +2,9 @@
 layout: portfolio-models
 title: "3D Models"
 permalink: /models/
-excerpt: "Gallery of finished / pending character models. Sketched thumbnails leads to reserved pages for unfinished ones, and hasn't much information."
+excerpt: "Gallery of finished / pending character models."
 ---
 
-- ℹ️ Models are not available for download. Some of them might be in the future.
+Sketched thumbnails leads to reserved pages for unfinished ones, and hasn't much information.
+
+{% include admonition.html type="info" title="About Download" body="Some  models might be available for download in the future, but for now, these are just renders and turnarounds of them." %}
