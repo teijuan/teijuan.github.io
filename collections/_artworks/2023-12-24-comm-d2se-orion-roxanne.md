@@ -1,6 +1,6 @@
 ---
 #TMPL20230006
-title: "CM: Orion cosplayed as Roxanne"
+title: "CM: Oriana cosplayed as Roxanne"
 categories: comm
 excerpt: "Flat-shaded commission for D2SE"
 image: /assets/img/2d-art/2023-12-24-comm-d2se-orion-roxanne.jpg
@@ -14,7 +14,7 @@ lntu: https://www.tumblr.com/teijuan/737869353582739456/cm-orion-cosplaying-roxa
 lnbs: https://bsky.app/profile/teijuan.com/post/3khju6bcmr22d
 ---
 
-Orion belongs to [D2SE](https://www.furaffinity.net/user/d2se/)
+Oriana belongs to [D2SE](https://www.furaffinity.net/user/d2se/)
 
 Pregnant alt.:
 
