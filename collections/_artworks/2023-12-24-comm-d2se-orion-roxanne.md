@@ -7,11 +7,11 @@ image: /assets/img/2d-art/2023-12-24-comm-d2se-orion-roxanne.jpg
 finished: 2023-12-27
 tags: bunny, girl, cosplay, fliperama, pregnant, pregnancy, roxanne, fnaf, security, breach
 
-lnda: 
-lnfa: 
-lntt:
-lntu: 
-lnbs: 
+lnda: https://www.deviantart.com/tei-juan/art/CM-Orion-cosplaying-Roxanne-1005630450
+lnfa: https://www.furaffinity.net/view/54949848
+lntt: https://twitter.com/TeiJuanArt/status/1740015467832455456
+lntu: https://www.tumblr.com/teijuan/737869353582739456/cm-orion-cosplaying-roxanne
+lnbs: https://bsky.app/profile/teijuan.com/post/3khju6bcmr22d
 ---
 
 Orion belongs to [D2SE](https://www.furaffinity.net/user/d2se/)
