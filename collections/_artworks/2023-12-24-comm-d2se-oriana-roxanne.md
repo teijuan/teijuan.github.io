@@ -1,12 +1,21 @@
 ---
-#TMPL20230006
 title: "CM: Oriana cosplayed as Roxanne"
-categories: comm
-excerpt: "Flat-shaded commission for D2SE"
-image: /assets/img/2d-art/2023-12-24-comm-d2se-orion-roxanne.jpg
+categories:
+  - comm
+excerpt: Flat-shaded commission for D2SE
+image: /assets/img/2d-art/2023-12-24-comm-d2se-oriana-roxanne.jpg
 finished: 2023-12-27
-tags: bunny, girl, cosplay, fliperama, pregnant, pregnancy, roxanne, fnaf, security, breach
-
+tags:
+  - bunny
+  - girl
+  - cosplay
+  - fliperama
+  - pregnant
+  - pregnancy
+  - roxanne
+  - fnaf
+  - security
+  - breach
 lnda: https://www.deviantart.com/tei-juan/art/CM-Orion-cosplaying-Roxanne-1005630450
 lnfa: https://www.furaffinity.net/view/54949848
 lntt: https://twitter.com/TeiJuanArt/status/1740015467832455456
@@ -18,4 +27,4 @@ Oriana belongs to [D2SE](https://www.furaffinity.net/user/d2se/)
 
 Pregnant alt.:
 
-![2023-12-24-comm-d2se-orion-roxanne-alt2.jpg](/assets/img/2d-art/2023-12-24-comm-d2se-orion-roxanne-alt2.jpg)
+![2023-12-24-comm-d2se-oriana-roxanne-alt2.jpg](assets/img/2d-art/2023-12-24-comm-d2se-oriana-roxanne-alt2.jpg)
