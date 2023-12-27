@@ -16,7 +16,7 @@ tags:
   - fnaf
   - security
   - breach
-lnda: https://www.deviantart.com/tei-juan/art/CM-Orion-cosplaying-Roxanne-1005630450
+lnda: https://www.deviantart.com/tei-juan/art/CM-Oriana-cosplaying-Roxanne-1005630450
 lnfa: https://www.furaffinity.net/view/54949848
 lntt: https://twitter.com/TeiJuanArt/status/1740015467832455456
 lntu: https://www.tumblr.com/teijuan/737869353582739456/cm-orion-cosplaying-roxanne
