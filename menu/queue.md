@@ -3,5 +3,4 @@ layout: page
 title: "Queue"
 permalink: /queue/
 ---
-
-<iframe width="100%" height="500px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSHsuhhWvp_EQ2U5kpjT2fsUh-OQwwJpfTPYE4j9N0Ld4U3RTiGSEeMEGtnHmkrzDSThmexRczKtjJa/pubhtml?widget=true&amp;headers=false"></iframe>
+{% include admonition.html type="info" title="Info" body="Commissions closed. I thank everyone who commissioned me and hope we can keep in touch for working on some new and great ideas in 2024! >wO" %}
