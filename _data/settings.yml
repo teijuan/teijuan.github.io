@@ -1,19 +1,20 @@
 # Change 'comments' to true for Disqus comments
 disqus:
   comments: false
-  disqus_shortname: 'https-lenpaul-github-io-lagrange'
+  disqus_shortname: 'teijuan'
 
 # If you are not using Google Analytics, please change 'google-ID' to an empty string
 google-ID: 'G-S1ZEVG6K59'
 
+- {name: 'Heavensbake<sup><span style="text-shadow: 0px 0px 2px #ffaa00"><b>NEW!</b></span></sup>',   url: 'https://heavensbake.teijuan.com/'}
 menu:
-- {name: 'Artworks', url: 'artworks'}
-- {name: 'Models<sup><span style="text-shadow: 0px 0px 2px #ffaa00"><b>NEW!</b></span></sup>',   url: 'models'}
-- {name: 'Commissions', url: 'tos'}
-- {name: 'Queue', url: 'queue'}
-- {name: 'Fanarts', url: 'fanarts'}
-- {name: 'Writing', url: 'writing'}
-- {name: 'Contact', url: 'contact'}
+- {name: 'Artworks', url: '/artworks'}
+- {name: 'Models',   url: '/models'}
+- {name: 'Commissions', url: '/tos'}
+- {name: 'Queue', url: '/queue'}
+- {name: 'Fanarts', url: '/fanarts'}
+- {name: 'Writing', url: '/writing'}
+- {name: 'Contact', url: '/contact'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
