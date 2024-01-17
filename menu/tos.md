@@ -19,7 +19,7 @@ See also: [Waiting list](/queue) and infos about [requesting free art](/requests
 | :------------- | ---- | ---- | ---- |
 | SKETCH         | $30  | $25  | -    |
 | + COLORS       | $37  | $30  | $16  |
-| LINEART        | $35  | $31  | -    |
+| LINEART        | $37  | $31  | -    |
 | FLAT COLORS    | $40  | $34  | $19  |
 | FLAT SHADE     | $54  | $40  | $22  |
 | FULL WORK      | $70  | $54  | $30  |
