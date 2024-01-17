@@ -21,7 +21,7 @@ See also: [Waiting list](/queue) and infos about [requesting free art](/requests
 | + COLORS       | $37  | $30  | $16  |
 | LINEART        | $35  | $31  | -    |
 | FLAT COLORS    | $40  | $34  | $19  |
-| FLAT SHADE     | $60  | $40  | $22  |
+| FLAT SHADE     | $54  | $40  | $22  |
 | FULL WORK      | $70  | $54  | $30  |
 
 \- Extra characters costs 2/3 of the full price.
