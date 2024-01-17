@@ -9,7 +9,7 @@ permalink: /contact/
 | <button>[**Deviantart**](https://www.deviantart.com/tei-juan)</button> | **tei-juan** |
 | <button>[**X/Twitter**](https://www.twitter.com/teijuanart/)</button> | **teijuanart** |
 | <button>[**Bluesky**](https://bsky.app/profile/teijuan.com)</button> | **@teijuan.com** |
-| <button>[**Pixelfed**](https://pixelfed.furryfandom.me/i/web/profile/598945212388265718)</button> | **teijuan** |
+| <button>[**Duolingo**](https://www.duolingo.com/profile/tei-juan)</button> | **tei-juan** |
 | <button>[**Itaku**](https://itaku.ee/profile/teijuan)</button> | **teijuan** |
 | <button>[**Tumblr**](https://www.tumblr.com/teijuan/)</button> | **teijuan** |
 | <button disabled>**Discord**</button> | **teijuan** |
