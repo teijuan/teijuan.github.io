@@ -4,9 +4,11 @@ title: Welcome!
 permalink: /
 image: /android-chrome-192x192.png
 quote: '"Joy is found on the journey, not in destination." - Greg Anderson'
+adImg: 'commsOpen2024.jpg'
+adLink: https://teijuan.com/tos
 ---
 
-## Welcome! \\(^^)/
+## Welcome \\(^^)/
 
 I'm **Tei Juan**, a 22 y. male artist known mainly for drawing pregnant critters from many species.  
 But I also do general works for every age and taste, and if you're coming from FA, invite you to watch [my latest works](https://furaffinity.net/gallery/teixeira-juan/).
