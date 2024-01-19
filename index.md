@@ -4,8 +4,8 @@ title: Welcome!
 permalink: /
 image: /android-chrome-192x192.png
 quote: '"Joy is found on the journey, not in destination." - Greg Anderson'
-adImg: 'commsOpen2024.jpg'
-adLink: https://teijuan.com/tos
+bannerImg: commsOpen2024.jpg
+bannerLink: https://teijuan.com/tos
 ---
 
 ## Welcome \\(^^)/
