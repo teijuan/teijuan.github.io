@@ -4,7 +4,7 @@ title: Just Metal, No Mozart
 categories: art
 date: 2023-11-29T00:00:00.000-03:00
 excerpt: "For Loona, arouse strength of her baby is way better than smartness."
-image: /assets/img/2d-art/2023-11-29-art-helluvaboss-loona.jpg
+image: /assets/2d-art/art/2023-11-29-art-helluvaboss-loona.jpg
 tags:
   - hazbin
   - hotel

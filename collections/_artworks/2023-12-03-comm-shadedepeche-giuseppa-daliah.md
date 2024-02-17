@@ -3,7 +3,7 @@
 title: "CM: Daliah, Shade and Giuseppa"
 categories: comm
 excerpt: "Flat color commission for ShadeDepeche"
-image: /assets/img/2d-art/2023-12-03-comm-shadedepeche-giuseppa-daliah.jpg
+image: /assets/2d-art/comm/2023-12-03-comm-shadedepeche-giuseppa-daliah.jpg
 finished: 2023-12-13
 tags: christmas, xmas, pregnant, pregnancy, mpreg, wolf, dragon, digimon, Guilmon
 

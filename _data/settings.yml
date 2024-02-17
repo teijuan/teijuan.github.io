@@ -1,21 +1,21 @@
 google-ID: 'G-S1ZEVG6K59'
 
 menu:
-- {name: 'Heavensbake<sup><span style="text-shadow: 0px 0px 2px #ffaa00"><b>NEW!</b></span></sup>',   url: 'https://heavensbake.com/'}
-- {name: 'Artworks', url: '/gallery'}
+- {name: 'Gallery', url: '/gallery'}
 - {name: 'Models',   url: '/models'}
-- {name: 'Commissions', url: '/tos'}
+- {name: 'TOS', url: '/tos'}
 - {name: 'Queue', url: '/queue'}
 - {name: 'Fanarts', url: '/fanarts'}
 - {name: 'Writing', url: '/writing'}
 - {name: 'Contact', url: '/contact'}
+- {name: 'Heavensbake<sup><span style="text-shadow: 0px 0px 2px #ffaa00"><b>NEW!</b></span></sup>',   url: 'https://heavensbake.com/'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
+- {icon: 'deviantart',  link: 'https://www.deviantart.com/tei-juan/'}
+- {icon: 'image',  link: 'https://www.artstation.com/teijuan/'}
 - {icon: 'twitter',    link: 'https://twitter.com/teijuanart'}
 - {icon: 'instagram',  link: 'https://www.instagram.com/tei.juan/'}
-- {icon: 'tumblr',  link: 'https://www.tumblr.com/teijuan/'}
-- {icon: 'deviantart',  link: 'https://www.deviantart.com/tei-juan/'}
 - {icon: 'envelope',   link: 'mailto:tei-juan@hotmail.com'}
 - {icon: 'rss-square', link: '/feed.xml'}
 #- {icon: 'linkedin',   link: 'https://www.linkedin.com/in/lenpaul/'}
@@ -31,7 +31,6 @@ sharing_button_prompt: 'Share:'
 related_posts: 'You may also enjoy:'
 
 post_date_prefix: '<i class="fa fa-calendar" aria-hidden="true"></i>'
-
 
 # Predefined messsages
 wipmsg: "Work In Progress.."

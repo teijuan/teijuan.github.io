@@ -3,7 +3,7 @@
 layout: artwork
 categories: art
 title: "CM: Bun in D'Coolette"
-image: /assets/img/2d-art/2023-11-19-comm-anon-bunnierabbot-earphones.jpg
+image: /assets/2d-art/comm/2023-11-19-comm-anon-bunnierabbot-earphones.jpg
 date: 2023-11-19 07:00:00 -0300
 author: teijuan
 finished: 2023-11-20
