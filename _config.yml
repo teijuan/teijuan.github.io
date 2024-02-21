@@ -21,7 +21,7 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           'Tei Juan'
-description:	       'Toons in 2D and CGI'
+description:	       '2D Cartoonist, animator and 3D modeler'
 author:              'João Marcelo Teixeira'
 logo:                '/assets/img/logo.svg'
 
@@ -45,6 +45,7 @@ collections:
   artworks:
     output: true
     permalink: /:name
+    image: /assets/2d-art/comm/:category/:slug.jpg 
 
 defaults:
   - scope:
