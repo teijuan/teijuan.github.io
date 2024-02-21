@@ -6,15 +6,15 @@ permalink: /tos/
 
 > Table of Contents
 > 
-> - [Prices and styles](#prices-and-styles)
-> - [Rules](#rules)
-> - [Do and don't do](#what-i-do)
-> - [My specialities](#my-specialities)
+> - [2D Works](#2d-works)
+> - [3D Models](#3d-models){{ site.data.settings.bdgnew }}
+> - [General rules](#general-rules)
+> - [What I do](#what-i-do)
 > - [Payment](#ways-of-payment)
 
 See also: [Waiting list](/queue) and infos about [requesting free art](/requests)
 
-## Prices and styles
+## 2D Works
 
 | Style          | Full | Bust | Head |
 | :------------- | ---- | ---- | ---- |
@@ -25,15 +25,30 @@ See also: [Waiting list](/queue) and infos about [requesting free art](/requests
 | FLAT SHADE     | $45  | $34  | $18  |
 | FULL WORK      | $60  | $45  | $25  |
 
-\- Extra characters costs 2/3 of the style price.
-\- Values may vary for works with a deadline, background and alts.
+\- Extra characters costs 2/3 of the style price.  
+\- Values may vary for works with a deadline, background and alts.  
+\- Pending works can be totally or partially refunded depending on its progress. ¹
 
-## Rules
-- {{ site.data.settings.bdgNew }} Payment is done in advance from two ways:
+## 3D Models
+
+- **$60\~80** Model creation  
+    **\+ 2 FREE** renders per model. Then, **$10** for each character's render  
+- **$40** Bust  
+    \- Front, side and 3/4 view
+
+- Before commissioning renders of third-party models, be sure to have their creator's consent.    
+- Plain backgrounds has no extra cost, meanwhile further backgrounds' prices depends on complexity.  
+- Models are not for download.  
+- Cloth/hair simulation skills are yet in development. Might work with mesh-based clothes and hair for a while,
+
+
+# General rules
+Applies for 2D and 3D works.
+
+- {{ site.data.settings.bdgnew }} Payment is done in advance from two ways:
     - **100%** before starting the work, or
-    - **50%** to begin and 50% after finished, for a fee of **0,3%** on the first half.
+    - **50%** to begin and **50%** after finished, for a fee of **0,3%** on the first half.
 - When providing image refs, the same must be clear and legible.
-- Pending works can be **partially** refunded according to its progress. ¹
 
 ### What I do?
 - Humans
@@ -41,10 +56,10 @@ See also: [Waiting list](/queue) and infos about [requesting free art](/requests
 - Simple to complex backgrounds
 
 ## Ways of payment
-- Stripe
 - Paypal
+- Stripe
 - Wise
-- Bank deposit (Only for residents of EU, US and BR)
+- Bank deposit (Only for residents of EU, USA and BR)
 - Ko-Fi
 
 > Doubts? [Contact me!](/contact)  
