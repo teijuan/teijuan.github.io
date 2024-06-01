@@ -4,19 +4,19 @@ title: "Commissions' TOS"
 permalink: /tos/
 ---
 
-> Table of Contents
+> Tabela de Conteúdo
 > 
-> - [2D Works](#2d-works)
-> - [3D Models](#3d-models){{ site.data.settings.bdgnew }}
-> - [General rules](#general-rules)
-> - [What I do](#what-i-do)
-> - [Payment](#ways-of-payment)
+> - [Artes 2D](#2d-works)
+> - [Modelos 3D](#3d-models){{ site.data.settings.bdgnew }}
+> - [Regras gerais](#general-rules)
+> - [O que faço](#what-i-do)
+> - [Pagamento](#pagamento)
 
 See also: [Waiting list](/queue) and infos about [requesting free art](/requests)
 
 ## 2D Works
 
-| Style          | Full | Bust | Head |
+| Style          | Full | Thighs up | Bust |
 | :------------- | ---- | ---- | ---- |
 | SKETCH         | $25  | $20  | -    |
 | + COLORS       | $30  | $25  | $14  |
@@ -25,30 +25,31 @@ See also: [Waiting list](/queue) and infos about [requesting free art](/requests
 | FLAT SHADE     | $45  | $34  | $18  |
 | FULL WORK      | $60  | $45  | $25  |
 
-\- Extra characters costs 2/3 of the style price.  
-\- Values may vary for works with a deadline, background and alts.  
-\- Pending works can be totally or partially refunded depending on its progress. ¹
+- Extra characters costs 2/3 of the style price.  
+- Pending works can be totally or partially refunded depending on its progress. ¹
 
 ## 3D Models
 
-- **$60\~80** Model creation  
-    **\+ 2 FREE** renders per model. Then, **$10** for each character's render  
+- **$60\~100** Model creation  
+    **+ 2 FREE** renders per model. Then, **$10** for each character render  
+    \- Model price varies according to its complexity
 - **$40** Bust  
     \- Front, side and 3/4 view
 
 - Before commissioning renders of third-party models, be sure to have their creator's consent.    
-- Plain backgrounds has no extra cost, meanwhile further backgrounds' prices depends on complexity.  
+- Plain backgrounds has no extra cost
 - Models are not for download.  
-- Cloth/hair simulation skills are yet in development. Might work with mesh-based clothes and hair for a while,
+- Cloth/hair simulation skills are yet in development. Might work with mesh-based clothes and hair for a while.
 
 
 # General rules
 Applies for 2D and 3D works.
 
-- {{ site.data.settings.bdgnew }} Payment is done in advance from two ways:
-    - **100%** before starting the work, or
-    - **50%** to begin and **50%** after finished, for a fee of **0,3%** on the first half.
+- {{ site.data.settings.bdgnew }} Payment is done in advance from two ways:  
+    \- **100%** before starting the work, or  
+    \- **50%** to begin and **50%** after finished, for a fee of **0,3%** on the first half.  
 - When providing image refs, the same must be clear and legible.
+- Prices vary for works with a deadline, background and alts.  
 
 ### What I do?
 - Humans
