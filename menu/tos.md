@@ -4,13 +4,12 @@ title: "Commissions' TOS"
 permalink: /tos/
 ---
 
-> Tabela de Conteúdo
+> Table of Contents
 > 
-> - [Artes 2D](#2d-works)
-> - [Modelos 3D](#3d-models){{ site.data.settings.bdgnew }}
-> - [Regras gerais](#general-rules)
-> - [O que faço](#what-i-do)
-> - [Pagamento](#pagamento)
+> - [2D works](#2d-works)
+> - [General rules](#general-rules)
+> - [What I Do](#what-i-do)
+> - [Payment](#payment)
 
 See also: [Waiting list](/queue) and infos about [requesting free art](/requests)
 
@@ -27,20 +26,6 @@ See also: [Waiting list](/queue) and infos about [requesting free art](/requests
 
 - Extra characters costs 2/3 of the style price.  
 - Pending works can be totally or partially refunded depending on its progress. ¹
-
-## 3D Models
-
-- **$60\~100** Model creation  
-    **+ 2 FREE** renders per model. Then, **$10** for each character render  
-    \- Model price varies according to its complexity
-- **$40** Bust  
-    \- Front, side and 3/4 view
-
-- Before commissioning renders of third-party models, be sure to have their creator's consent.    
-- Plain backgrounds has no extra cost
-- Models are not for download.  
-- Cloth/hair simulation skills are yet in development. Might work with mesh-based clothes and hair for a while.
-
 
 # General rules
 Applies for 2D and 3D works.
