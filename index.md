@@ -6,12 +6,12 @@ image: /android-chrome-192x192.png
 quote: '"Joy is found on the journey, not in destination." - Greg Anderson'
 ---
 
-## Welcome \\(^^)/
+## Welcome
 
-I'm **Tei Juan**, a 22 y. male artist known mainly for drawing pregnant critters from many species.  
-But I also do general works for every age and taste, and if you're coming from FA, invite you to watch [my latest works](https://furaffinity.net/gallery/teixeira-juan/).
+**Tei Juan**, male artist born in May, 2001.
 
-2D commissions are my main job. I was 13 years when I sold my first works at elementary school, but I'm able to design 3D models as well, and you might check my most recent ones in the section "[Models](/models)" above.
+Currently trying a carreer of 3D modeling and animation. (See "[Models](/models)").
+Also draw and sell 2D arts since my 13's.
 
 - - -
 
@@ -19,14 +19,10 @@ But I also do general works for every age and taste, and if you're coming from F
 
 **Accepting Trades**: Mutuals only  
 **Accepting Commissions**: Yes  
+**Favorite Music genres**: Jazz, Bossa, House, Lounge  
+**Favorite TV Shows & Movies**: Many, currently watching _Sakura CardCaptor_  
+**Favorite Games**: Euro Truck Simulator 2  
+**Favorite Gaming Platforms**: Desktop  
+<!-- **Favorite Quote**: -->
+<!-- **Favorite Artists**: -->
 
-**Character Species**: Bunny  
-**Favorite Music**: Jazz, House, Lounge  
-**Favorite TV** Shows & Movies: Sakura CardCaptor  
-**Favorite Games**: Dust: Elysian Tail  
-**Favorite Gaming Platforms**: PC, Xbox 360, PlayStation 2 and 4  
-**Favorite Animals**: Bunnies  
-**Favorite Site**: https://localhost:4000  
-**Favorite Foods & Drinks:** Just healthy stuff. Feed better, feel better.  
-**Favorite Quote**: Many but practicing that of Greg above.  
-**Favorite Artists**: ---  
