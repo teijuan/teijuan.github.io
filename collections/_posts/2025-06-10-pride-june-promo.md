@@ -1,12 +1,12 @@
 ---
 title: Pride June Promo 2025
 excerpt: 50% OFF on LGBTQIA+ character
+image: '/assets/posts/prideflag.png'
 layout: post
 categories: blog
 date: 2025-06-10 23:45:00
 author: teijuan
 tags: promo
-thumbnail: '/assets/posts/prideflag.png'
 ---
 
 > 50% OFF for LGBTQIA+ characters
