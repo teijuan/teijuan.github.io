@@ -18,7 +18,7 @@ See also: [Waiting list](/queue) and infos about [requesting free art](/requests
 | Style          | Full | Thighs up |
 | :------------- | ---- | ---- |
 | SKETCH         | $30  | $24  |
-| FLAT COLORS    | $39  | $31  |
+| FLAT COLORS    | $40  | $31  |
 | FLAT SHADE     | $60  | $48  |
 | FULL WORK      | $75  | $60  |
 
