@@ -39,16 +39,15 @@ Applies for 2D and 3D works.
 - Simple to complex backgrounds
 
 ## Ways of payment
-- Debit / Credit card
 - Paypal
-- Stripe
-- Wise
 - Ko-Fi
-- Bank deposit (Only for residents in the territories of EU, USA and Brazil)
+- Debit / Credit card
+- Bitcoin and USDT {% include bdg-new.html %} ²
 
 > Doubts? [Contact me!](/contact)  
 
 ____
 <sub>
-1: If you ask for a full work and cancel the commission after the sketch was delivered, I'll retain the sketch value and refund the remaining.
+1: If you ask for a full work and cancel the commission after the sketch was delivered, I'll retain the sketch value and refund the remaining.  
+2: Just in case of your government / payment processor [having some trouble with you](https://x.com/nichegamer/status/1942378831815307362) (or vice-versa)
 </sub>
